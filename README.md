@@ -1,4 +1,4 @@
-# The kesämökki project
+# The kesämökki project 🏡:finland:
 Finding the perfect kesämökki is hard, bu not impossible
 
 ## Phase 1
