@@ -1,0 +1,153 @@
+,hospital,location,network
+0,Helsingin seudun yliopistollinen keskussairaala,Helsinki,
+1,Turun yliopistollinen keskussairaala,Turku,
+2,Oulun yliopistollinen sairaala,Oulu,
+3,Tampereen yliopistollinen sairaala,Tampere,
+4,Kuopion yliopistollinen sairaala,Kuopio,
+5,Kymenlaakson keskussairaala,Kotka,
+6,Etelä-Karjalan keskussairaala,Lappeenranta,
+7,Päijät-Hämeen keskussairaala,Lahti,
+8,Kanta-Hämeen keskussairaala,Hämeenlinna,
+9,Satasairaala,Pori,
+10,Lapin keskussairaala,Rovaniemi,
+11,Vaasan keskussairaala,Vaasa,
+12,Seinäjoen keskussairaala,Seinäjoki,
+13,Keski-Pohjanmaan keskussairaala,Kokkola,
+14,Keski-Suomen Sairaala Nova,Jyväskylä,
+15,Mikkelin keskussairaala,Mikkeli,
+16,Savonlinnan keskussairaala,Savonlinna,
+17,Pohjois-Karjalan keskussairaala,Joensuu,
+18,Kainuun keskussairaala,Kajaani,
+19,Ahvenanmaan keskussairaala,Maarianhamina,
+20,Länsi-Pohjan keskussairaala,Kemi,
+21,Grelsby sjukhus,Finström,
+22,Seinäjoen kaupunginsairaala,Seinäjoki,
+23,Moision sairaala,Mikkeli,
+24,Pieksämäen aluesairaala,Pieksämäki,
+25,Auroran sairaala,Helsinki,
+26,Haartmanin sairaala,Helsinki,
+27,HYKS Psykiatriakeskus,Helsinki,Helsingin seudun yliopistollinen keskussairaala
+28,Iho- ja allergiasairaala,Helsinki,Helsingin seudun yliopistollinen keskussairaala
+29,Kirurginen sairaala,Helsinki,Helsingin seudun yliopistollinen keskussairaala
+30,Kätilöopiston sairaala,Helsinki,Helsingin seudun yliopistollinen keskussairaala
+31,Malmin sairaala,Helsinki,
+32,Naistenklinikka,Helsinki,Helsingin seudun yliopistollinen keskussairaala
+33,Ortonin sairaala,Helsinki,
+34,Puistosairaala,Helsinki,Helsingin seudun yliopistollinen keskussairaala
+35,Silmä-korvasairaala,Helsinki,Helsingin seudun yliopistollinen keskussairaala
+36,Siltasairaala,Helsinki,Helsingin seudun yliopistollinen keskussairaala
+37,Suursuon sairaala,Helsinki,
+38,Syöpätautien klinikka,Helsinki,Helsingin seudun yliopistollinen keskussairaala
+39,Töölön sairaala,Helsinki,Helsingin seudun yliopistollinen keskussairaala
+40,Uusi lastensairaala,Helsinki,Helsingin seudun yliopistollinen keskussairaala
+41,Espoon sairaala,Espoo,
+42,Jorvin sairaala,Espoo,Helsingin seudun yliopistollinen keskussairaala
+43,Katriinan sairaala,Vantaa,
+44,Kiljavan sairaala,Nurmijärvi,
+45,Kellokosken sairaala,Tuusula,
+46,Lohjan sairaala,Lohja,
+47,Raaseporin sairaala,Raasepori,
+48,Peijaksen sairaala,Vantaa,Helsingin seudun yliopistollinen keskussairaala
+49,Porvoon sairaala,Porvoo,
+50,Hyvinkään sairaala,Hyvinkää,
+51,Forssan sairaala,Forssa,
+52,Riihimäen sairaala,Riihimäki,Kanta-Hämeen keskussairaala
+53,Vanajaveden sairaala,Hämeenlinna,
+54,Jokilaakson sairaala,osittain yksityinen),
+55,Kymenlaakson psykiatrinen sairaala,Kouvola,
+56,Ratamokeskus,Kouvola,
+57,Muurolan sairaala,Rovaniemi,
+58,Keroputaan sairaala,Tornio,
+59,Hatanpään sairaala,Tampere,Tampereen yliopistollinen sairaala
+60,Pitkäniemen sairaala,Nokia,Tampereen yliopistollinen sairaala
+61,Sastamalan sairaala,Sastamala,Tampereen yliopistollinen sairaala
+62,Tekonivelsairaala Coxa,Tampere,
+63,Sydänsairaala,Tampere,
+64,Valkeakosken sairaala,Valkeakoski,Tampereen yliopistollinen sairaala
+65,Kotilahden sairaala,Joensuu,
+66,Kontinkankaan sairaala,Oulu,
+67,Lastenklinikka,Oulu,Oulun yliopistollinen sairaala
+68,Psykiatrian klinikka,Oulu,Oulun yliopistollinen sairaala
+69,Raahen aluesairaala,Raahe,
+70,Julkulan sairaala,Kuopio,Kuopion yliopistollinen sairaala
+71,Alavan sairaala,Kuopio,Kuopion yliopistollinen sairaala
+72,Iisalmen sairaala,Iisalmi,
+73,Kuopion psykiatrian keskus,Kuopio,
+74,Varkauden sairaala,Varkaus,
+75,Lahden kaupunginsairaala,Lahti,
+76,Harjavallan sairaala,Harjavalta,
+77,Porin kaupunginsairaala,Pori,
+78,Rauman aluesairaala,Rauma,
+79,Malmin sairaala,Pietarsaari,
+80,Pietarsaaren sairaala,Pietarsaari,
+81,Selkämeren aluesairaala,Kristiinankaupunki,
+82,Halikon sairaala,Salo,
+83,Kirurginen sairaala,Turku,Turun yliopistollinen keskussairaala
+84,Loimaan sairaala,Loimaa,Turun yliopistollinen keskussairaala
+85,Raision sairaala,Raisio,Turun yliopistollinen keskussairaala
+86,Salon sairaala,Salo,Turun yliopistollinen keskussairaala
+87,Turun kaupunginsairaala,Turku,
+88,Turunmaan sairaala,Turku,Turun yliopistollinen keskussairaala
+89,Vakka-Suomen sairaala,Uusikaupunki,Turun yliopistollinen keskussairaala
+90,Niuvanniemen sairaala,Kuopio,
+91,Psykiatrinen vankisairaala,Turku ja Vantaa,
+92,Vanhan Vaasan sairaala,Vaasa,
+93,Vankisairaala,Hämeenlinna,
+94,Eiran sairaala,Helsinki,
+95,Docrates Syöpäsairaala,Helsinki,
+96,Jokilaakson sairaala,Jämsä,
+97,Kaunialan Sairaala,Kauniainen,
+98,Pihlajalinna,Helsinki,
+99,Pihlajalinna,Tampere,
+100,Pihlajalinna,Oulu,
+101,Pihlajalinna,Kuopio,
+102,Pihlajalinna,Turku,
+104,Hattelmalan piirimielisairaala,Hämeenlinna,
+105,Haukkalan sairaala,Jyväskylä,
+106,Heideken,Turku,
+107,Heikinharjun sairaala,Oulu,
+108,Herttoniemen sairaala,Helsinki,
+109,Härmän sairaala,Alahärmä,
+110,Joutsenrannan sairaala,Lappeenranta,
+111,Juurikkaniemen sairaala,Keuruu,
+112,Kaivannon sairaala,Kangasala,
+113,Kammion sairaala,Helsinki,
+114,Kangasvuoren sairaala,Jyväskylä,
+115,Kaupin sairaala,Tampere,
+116,Keski-Suomen keskussairaala,Jyväskylä,
+117,Kinkomaan sairaala,Muurame,
+118,Kotkansaaren sairaala,Kotka,
+119,Lahden sotilassairaala,Lahti,
+120,Lapinlahden sairaala,Helsinki,
+121,Lastenlinna,Helsinki,Helsingin seudun yliopistollinen keskussairaala
+122,Marian sairaala,Helsinki,
+123,Marjatan sairaala,Tampere,
+124,Mäntän aluesairaala,Mänttä-Vilppula,
+125,Mäntylän sairaala,Lappeenranta,
+126,Nikkilän sairaala,Sipoo,
+127,Paimion sairaala,,Turun yliopistollinen keskussairaala
+128,Paloniemen sairaala,Lohja,
+129,Pikonlinnan sairaala,Kangasala,Tampereen yliopistollinen sairaala
+130,Pohjois-Kymen sairaala,Kouvola,
+131,Puolarmetsän sairaala,Espoo,
+132,Pyynikin sairaala,Tampere,
+133,Päivärinteen sairaala,Muhos,
+134,Rauhan sairaala,Joutseno,
+135,Reuman sairaala,Heinola,
+136,Röykän sairaala,Nurmijärvi,
+137,Salmijärven mielisairaala,Kajaani,
+138,Salus-sairaala,Helsinki,
+139,Satalinnan sairaala,Harjavalta,
+140,Sisä-Suomen sairaala,Äänekoski,
+141,Sädesairaala,Jyväskylä,Keski-Suomen keskussairaala
+142,Tammiharjun sairaala,Raasepori,
+143,Tampereen yleinen sairaala,Tampere,
+144,Tarinan sairaala,Siilinjärvi,Kuopion yliopistollinen sairaala
+145,Tilkan sairaala,Helsinki,
+146,Tiurun sairaala,Lappeenranta,
+147,Uudenkaupungin psykiatrinen sairaala,Uusikaupunki,
+148,Valkealan sairaala,Kouvola,
+149,Visalan sairaala,Ylivieska,
+150,Vanha Ortopedia,Jyväskylä,Keski-Suomen keskussairaala
+151,Ähtärin aluesairaala,Ähtäri,
+152,Östanlidin tuberkuloosiparantola,Pietarsaari,
