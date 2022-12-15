@@ -3,9 +3,10 @@ Finding the perfect kesämökki is hard, bu not impossible
 
 ## Phase 1
 - find the data
-  - list of finnish hospital --> scrape this https://fi.wikipedia.org/wiki/Luettelo_Suomen_sairaaloista
+  - list of finnish hospital
+    - https://fi.wikipedia.org/wiki/Luettelo_Suomen_sairaaloista
+    - https://fi.wikipedia.org/wiki/Luettelo_Suomen_terveysasemista_ja_terveyskeskusp%C3%A4ivystyksist%C3%A4
   - list of available mökit ()
-  - maybe plumbing data
 
 ## Phase 2
  - find geographical coordinates of hospitals
