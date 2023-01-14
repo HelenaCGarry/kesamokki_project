@@ -1,5 +1,5 @@
 # The kesämökki project 🏡:finland:
-Finding the perfect kesämökki is hard, bu not impossible
+Finding the perfect kesämökki is hard, but not impossible
 
 ## Phase 1
 - find the data
