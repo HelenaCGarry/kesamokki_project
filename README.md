@@ -1,4 +1,4 @@
-# The kesämökki project 🏡:finland:
+# The kesämökki project 🏡 :evergreen_tree:
 Finding the perfect kesämökki is hard, but not impossible
 
 ## Phase 1 - Building the ETL system
