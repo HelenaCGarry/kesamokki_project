@@ -1,0 +1,394 @@
+name,location,network,type,address,website,latitude,longitude
+Helsingin seudun yliopistollinen keskussairaala,Helsinki,,Hospital,"Tenholantie 10, 00280 Helsinki, Finland",,60.202336,24.90741
+Turun yliopistollinen keskussairaala,Turku,,Hospital,"Kiinamyllynkatu 4-8, 20520 Turku, Finland",,60.453194,22.293611
+Oulun yliopistollinen sairaala,Oulu,,Hospital,"Kajaanintie 50, 90220 Oulu, Finland",,65.009116,25.520813
+Tampereen yliopistollinen sairaala,Tampere,,Hospital,"Elämänaukio 2, 33520 Tampere, Finland",,61.504912,23.813576
+Kuopion yliopistollinen sairaala,Kuopio,,Hospital,"Puijonlaaksontie 2, 70200 Kuopio, Finland",,62.897733,27.647406
+Kymenlaakson keskussairaala,Kotka,,Hospital,"Kotkantie 41, 48210 Kotka, Finland",,60.477435,26.912839
+Etelä-Karjalan keskussairaala,Lappeenranta,,Hospital,"Valto Käkelän katu 1, 53130 Lappeenranta, Finland",,61.065157,28.210571
+Päijät-Hämeen keskussairaala,Lahti,,Hospital,"Keskussairaalankatu 7, 15850 Lahti, Finland",,60.994263,25.571293
+Kanta-Hämeen keskussairaala,Hämeenlinna,,Hospital,"Parantolankatu 6, 13530 Hämeenlinna, Finland",,60.996779,24.446749
+Satasairaala,Pori,,Hospital,"Sairaalantie 3, 28500 Pori, Finland",,61.473804,21.779165
+Lapin keskussairaala,Rovaniemi,,Hospital,"Ounasrinteentie 22, 96400 Rovaniemi, Finland",,66.492425,25.774144
+Vaasan keskussairaala,Vaasa,,Hospital,"Hietalahdenkatu 2 4, 65130 Vaasa, Finland",,63.084911,21.615995
+Seinäjoen keskussairaala,Seinäjoki,,Hospital,"Hanneksenrinne 7, 60220 Seinäjoki, Finland",,62.773233,22.828416
+Keski-Pohjanmaan keskussairaala,Kokkola,,Hospital,"Mariankatu, 67200 Kokkola, Finland",,63.844387,23.109765
+Keski-Suomen Sairaala Nova,Jyväskylä,,Hospital,"Hoitajantie 3, 40620 Jyväskylä, Finland",,62.229918,25.70483
+Mikkelin keskussairaala,Mikkeli,,Hospital,"Porrassalmenkatu 35 37, 50100 Mikkeli, Finland",,61.691952,27.278264
+Savonlinnan keskussairaala,Savonlinna,,Hospital,"Keskussairaalantie 6, 57120 Savonlinna, Finland",,61.870649,28.85342
+Pohjois-Karjalan keskussairaala,Joensuu,,Hospital,"Tikkamäentie 16, 80210 Joensuu, Finland",,62.592482,29.779628
+Kainuun keskussairaala,Kajaani,,Hospital,"Sotkamontie 13, 87300 Kajaani, Finland",,64.214362,27.728134
+Ahvenanmaan keskussairaala,Maarianhamina,,Hospital,"1 Doktorsvägen, Mariehamn 22100, Åland Islands",,60.114413,19.936268
+Länsi-Pohjan keskussairaala,Kemi,,Hospital,"Kauppakatu 25, 94100 Kemi, Finland",,65.733969,24.555466
+Grelsby sjukhus,Finström,,Hospital,"Stornäsvägen 40, 22410 Godby, Finland",,60.050453,23.067106
+Seinäjoen kaupunginsairaala,Seinäjoki,,Hospital,"Hanneksenrinne 7, 60220 Seinäjoki, Finland",,62.773233,22.828416
+Pieksämäen aluesairaala,Pieksämäki,,Hospital,"Sairaalantie 14, 76100 Pieksämäki, Finland",,62.302574,27.150259
+Auroran sairaala,Helsinki,,Hospital,"Nordenskiöldinkatu 20, 00250 Helsinki, Finland",,60.195076,24.926904
+Haartmanin sairaala,Helsinki,,Hospital,"Haartmaninkatu 4 Rakennus 12, 00290 Helsinki, Finland",,60.190487,24.90727
+HYKS Psykiatriakeskus,Helsinki,Helsingin seudun yliopistollinen keskussairaala,Hospital,"Välskärinkatu 12, 00260 Helsinki, Finland",,60.180016,24.919526
+Iho- ja allergiasairaala,Helsinki,Helsingin seudun yliopistollinen keskussairaala,Hospital,"Meilahdentie 2, 00250 Helsinki, Finland",,60.191752,24.895094
+Kirurginen sairaala,Helsinki,Helsingin seudun yliopistollinen keskussairaala,Hospital,"Kasarmikatu 11-13, 00130 Helsinki, Finland",,60.162244,24.948631
+Malmin sairaala,Helsinki,,Hospital,"Talvelantie 6, 00700 Helsinki, Finland",,60.253565,24.999478
+Naistenklinikka,Helsinki,Helsingin seudun yliopistollinen keskussairaala,Hospital,"Haartmaninkatu 2, 00290 Helsinki, Finland",,60.188652,24.910601
+Ortonin sairaala,Helsinki,,Hospital,"Tenholantie 10, 00280 Helsinki, Finland",,60.202336,24.90741
+Puistosairaala,Helsinki,Helsingin seudun yliopistollinen keskussairaala,Hospital,"Stenbäckinkatu 11, 00290 Helsinki, Finland",,60.186982,24.909311
+Silmä-korvasairaala,Helsinki,Helsingin seudun yliopistollinen keskussairaala,Hospital,"Haartmaninkatu 4 C ja E, 00290 Helsinki, Finland",,51.474383,5.65102
+Siltasairaala,Helsinki,Helsingin seudun yliopistollinen keskussairaala,Hospital,"Haartmaninkatu 4, 00290 Helsinki, Finland",,60.190487,24.90727
+Suursuon sairaala,Helsinki,,Hospital,"Suursuonlaita 3 B, 00630 Helsinki, Finland",,60.23503,24.932696
+Syöpätautien klinikka,Helsinki,Helsingin seudun yliopistollinen keskussairaala,Hospital,"Haartmaninkatu 4 Rakennus 2, 00290 Helsinki, Finland",,60.190487,24.90727
+Uusi lastensairaala,Helsinki,Helsingin seudun yliopistollinen keskussairaala,Hospital,"Stenbäckinkatu 9 Rakennus 6, 00290 Helsinki, Finland",,60.187842,24.910964
+Porvoon sairaala,Porvoo,,Hospital,"Sairaalantie 1, 06150 Porvoo, Finland",,60.378032,25.695711
+Hyvinkään sairaala,Hyvinkää,,Hospital,"Sairaalankatu 1, 05850 Hyvinkää, Finland",,60.609706,24.828395
+Kiljavan sairaala,Nurmijärvi,,Hospital,"Kiljavantie 539 A, 05250 Kiljava, Finland",,60.5045,24.68988
+Kellokosken sairaala,Tuusula,,Hospital,"Ohkolantie 10, 04500 Mäntsälä, Finland",,60.63184,25.316504
+Espoon sairaala,Espoo,,Hospital,"Karvasmäentie 6, 02740 Espoo, Finland",,60.222066,24.685793
+Jorvin sairaala,Espoo,Helsingin seudun yliopistollinen keskussairaala,Hospital,"Karvasmäentie 8, 02740 Espoo, Finland",,60.222654,24.688492
+Lohjan sairaala,Lohja,,Hospital,"Sairaalatie 8, 08200 Lohja, Finland",,60.222748,24.01623
+Raaseporin sairaala,Raasepori,,Hospital,"Östra Strandgatan 9, 10600 Ekenäs, Finland",,59.968397,23.440893
+Katriinan sairaala,Vantaa,,Hospital,"Katriinankuja 4, 01760 Vantaa, Finland",,60.346263,24.873142
+Peijaksen sairaala,Vantaa,Helsingin seudun yliopistollinen keskussairaala,Hospital,"Sairaalakatu 1, 01400 Vantaa, Finland",,60.331578,25.059119
+Forssan sairaala,Forssa,,Hospital,"Urheilukentänkatu 9, 30100 Forssa, Finland",,60.823959,23.639555
+Riihimäen sairaala,Riihimäki,Kanta-Hämeen keskussairaala,Hospital,"Kontiontie 77, 11120 Riihimäki, Finland",,60.74649,24.743672
+Vanajaveden sairaala,Hämeenlinna,,Hospital,"Viipurintie 1-3, 13200 Hämeenlinna, Finland",,60.998694,24.475355
+Jokilaakson sairaala,osittain yksityinen),,Hospital,"Sairaalantie 11, 42100 Jämsä, Finland",,61.875776,25.188572
+Kymenlaakson psykiatrinen sairaala,Kouvola,,Hospital,"Sairaalankuja 3d, 45750 Kouvola, Finland",,60.913927,26.623828
+Ratamokeskus,Kouvola,,Hospital,"Ruskeasuonkatu 3, 45100 Kouvola, Finland",,60.877086,26.699856
+Keroputaan sairaala,Tornio,,Hospital,"Toivolantie 1, 95410 Tornio, Finland",,65.864944,24.184454
+Hatanpään sairaala,Tampere,Tampereen yliopistollinen sairaala,Hospital,"Hatanpäänkatu 24, 33900 Tampere, Finland",,61.483691,23.75524
+Sastamalan sairaala,Sastamala,Tampereen yliopistollinen sairaala,Hospital,"Itsenäisyydentie 2, 38200 Sastamala, Finland",,61.337528,22.920819
+Sydänsairaala,Tampere,,Hospital,"Elämänaukio 1, 33520 Tampere, Finland",,61.708766,23.673573
+Tekonivelsairaala Coxa,Tampere,,Hospital,"Niveltie 4, 33520 Tampere, Finland",,61.506466,23.817706
+Valkeakosken sairaala,Valkeakoski,Tampereen yliopistollinen sairaala,Hospital,"Salonkatu 24, 37600 Valkeakoski, Finland",,61.271042,24.032188
+Kontinkankaan sairaala,Oulu,,Hospital,"Kajaanintie 48, 90220 Oulu, Finland",,65.010625,25.515936
+Lastenklinikka,Oulu,Oulun yliopistollinen sairaala,Hospital,"Stenbäckinkatu 11, 00290 Helsinki, Finland",,60.186982,24.909311
+Psykiatrian klinikka,Oulu,Oulun yliopistollinen sairaala,Hospital,"Välskärinkatu 12, 00260 Helsinki, Finland",,60.180016,24.919526
+Raahen aluesairaala,Raahe,,Hospital,"Rantakatu 4, Rantakatu 4, 92100 Raahe, Finland",,64.684676,24.472506
+Malmin sairaala,Pietarsaari,,Hospital,"Talvelantie 6, 00700 Helsinki, Finland",,60.253565,24.999478
+Pietarsaaren sairaala,Pietarsaari,,Hospital,"Bottenviksvägen 1, 68600 Jakobstad, Finland",,63.680493,22.721657
+Selkämeren aluesairaala,Kristiinankaupunki,,Hospital,"Lapväärtintie 10, 64100 Kristiinankaupunki, Finland",,62.261157,21.483536
+Alavan sairaala,Kuopio,Kuopion yliopistollinen sairaala,Hospital,"Kaartokatu 9, 70620 Kuopio, Finland",,62.886459,27.66613
+Iisalmen sairaala,Iisalmi,,Hospital,"Riistakatu 23, 74120 Iisalmi, Finland",,63.563392,27.182259
+Kuopion psykiatrian keskus,Kuopio,,Hospital,"Viestikatu 1-3, 70600 Kuopio, Finland",,62.892622,27.646324
+Varkauden sairaala,Varkaus,,Hospital,"Savontie 55, 78300 Varkaus, Finland",,62.33395,27.880732
+Lahden kaupunginsairaala,Lahti,,Hospital,"Harjukatu 48, 15100 Lahti, Finland",,60.980795,25.663767
+Harjavallan sairaala,Harjavalta,,Hospital,"Sairaalantie 14, Harjavalta 29200, Finland",,61.300649,22.148539
+Porin kaupunginsairaala,Pori,,Hospital,"Maantiekatu 31, 28120 Pori, Finland",,61.486774,21.766696
+Rauman aluesairaala,Rauma,,Hospital,"Steniuksenkatu 2, Rauma, Western Finland 26100",,61.129647,21.523898
+Halikon sairaala,Salo,,Hospital,"Märyntie 1, 25250 Märynummi, Finland",,60.439819,23.048372
+Kirurginen sairaala,Turku,Turun yliopistollinen keskussairaala,Hospital,"Kasarmikatu 11-13, 00130 Helsinki, Finland",,60.162244,24.948631
+Loimaan sairaala,Loimaa,Turun yliopistollinen keskussairaala,Hospital,"Seppälänkatu 15-17, 32200 Loimaa, Finland",,60.852958,23.052827
+Raision sairaala,Raisio,Turun yliopistollinen keskussairaala,Hospital,"Sairaalakatu 5, 21200 Raisio, Finland",,60.502904,22.142007
+Salon sairaala,Salo,Turun yliopistollinen keskussairaala,Hospital,"Sairaalantie 9, 24130 Salo, Finland",,60.374872,23.128518
+Turun kaupunginsairaala,Turku,,Hospital,"Kunnallissairaalantie 20, 20700 Turku, Finland",,60.439524,22.276176
+Turunmaan sairaala,Turku,Turun yliopistollinen keskussairaala,Hospital,"Kaskenkatu 13, 20700 Turku, Finland",,60.444447,22.275057
+Vakka-Suomen sairaala,Uusikaupunki,Turun yliopistollinen keskussairaala,Hospital,"Terveystie 2, 23500 Uusikaupunki, Finland",,60.795417,21.424948
+Niuvanniemen sairaala,Kuopio,,Hospital,"Niuvankuja 65, 70240 Kuopio, Finland",,62.914368,27.625479
+Vanhan Vaasan sairaala,Vaasa,,Hospital,"Vierinkiventie 1, 65380 Vaasa, Finland",,63.072398,21.707594
+Eiran sairaala,Helsinki,,Hospital,"Laivurinkatu 29, 00150 Helsinki, Finland",,60.157853,24.94195
+Docrates Syöpäsairaala,Helsinki,,Hospital,"Saukonpaadenranta 2, 00180 Helsinki, Finland",,60.159186,24.909929
+Jokilaakson sairaala,Jämsä,,Hospital,"Sairaalantie 11, 42100 Jämsä, Finland",,61.875776,25.188572
+Kaunialan Sairaala,Kauniainen,,Hospital,"Kylpyläntie 19, 02700 Kauniainen, Finland",,60.218219,24.704686
+Pihlajalinna Helsinki,Helsinki,,Hospital,"Raumantie 1 a, 00350 Helsinki, Finland",,60.206142,24.877036
+Pihlajalinna Tampere,Tampere,,Hospital,"Hatanpään valtatie 1, 33100 Tampere, Finland",,61.496303,23.767367
+Pihlajalinna Oulu,Oulu,,Hospital,"Kiilakivenkuja 1, 90250 Oulu, Finland",,64.984121,25.509175
+Pihlajalinna Kuopio,Kuopio,,Hospital,"Leväsentie 1, 70700 Kuopio, Finland",,62.883777,27.641051
+Pihlajalinna Turku,Turku,,Hospital,"Yliopistonkatu 29 B, 20100 Turku, Finland",,60.450466,22.26088
+Haagan terveysasema,Helsinki,,Health Center,"Huovitie 5, 00400 Helsinki",Haagan terveysasema,60.222272,24.904188
+Jakomäen terveysasema,Helsinki,,Health Center,"Vuorensyrjä 8, 00770 Helsinki",Jakomäen terveysasema,60.260172,25.075352
+Kalasataman terveys- ja hyvinvointikeskus,Helsinki,,Health Center,"Työpajankatu 14 A, 00580 Helsinki",Kalasataman terveysasemapalvelut,60.187777,24.98127
+Kannelmäen terveysasema,Helsinki,,Health Center,"Laulukuja 4, 00420 Helsinki",Kannelmäen terveysasema,60.237679,24.890127
+Kivikon terveysasema,Helsinki,,Health Center,"Kivikonkaari 21, 00940 Helsinki",Kivikon terveysasema,60.237147,25.066431
+Kontulan terveysasema,Helsinki,,Health Center,"Ostoskuja 3, 00940 Helsinki",Kontulan terveysasema,60.237833,25.083935
+Laajasalon terveysasema,Helsinki,,Health Center,"Koulutanhua 2 A, 00840 Helsinki",Laajasalon terveysasema,60.178451,25.055231
+Laakson terveysasema,Helsinki,,Health Center,"Lääkärinkatu 8 R, 00250 Helsinki",Laakson terveysasema,60.190753,24.919177
+Lauttasaaren terveysasema,Helsinki,,Health Center,"Taivaanvuohentie 6, 00200 Helsinki",Lauttasaaren terveysasema,60.161338,24.882752
+Malmin terveysasema,Helsinki,,Health Center,"Talvelantie 4, 00700 Helsinki",Malmin terveysasema,60.25399,25.00115
+Malminkartanon terveysasema,Helsinki,,Health Center,"Luutnantintie 12-14, 00410 Helsinki",Malminkartanon terveysasema,60.247153,24.864568
+Maunulan terveysasema,Helsinki,,Health Center,"Suursuonlaita 3 A, 00630 Helsinki",Maunulan terveysasema,60.23503,24.932696
+Munkkiniemen terveysasema,Helsinki,,Health Center,"Laajalahdentie 30, 00330 Helsinki",Munkkiniemen terveysasema,60.200394,24.876503
+Myllypuron terveysasema,Helsinki,,Health Center,"Jauhokuja 4, 00920 Helsinki",Myllypuron terveysasema,60.225871,25.076529
+Oulunkylän terveysasema,Helsinki,,Health Center,"Kylänvanhimmantie 25, 00640 Helsinki",Oulunkylän terveysasema,60.227443,24.963536
+Paloheinän terveysasema,Helsinki,,Health Center,"Paloheinäntie 22, 2 krs., 00670 Helsinki",Paloheinän terveysasema,60.249223,24.941549
+Pihlajamäen terveysasema,Helsinki,,Health Center,"Meripihkatie 8, 00710 Helsinki",Pihlajamäen terveysasema,60.234371,25.009898
+Pitäjänmäen terveysasema,Helsinki,,Health Center,"Konalantie 6-8 C, 00370 Helsinki",Pitäjänmäen terveysasema,60.226392,24.853544
+Puistolan terveysasema,Helsinki,,Health Center,"Ajurinaukio 1, 00750 Helsinki",Puistolan terveysasema,60.274946,25.03464
+Suutarilan terveysasema,Helsinki,,Health Center,"Suutarilantie 32, 00740 Helsinki",Suutarilan terveysasema,60.274835,24.997779
+Töölön terveysasema,Helsinki,,Health Center,"Sibeliuksenkatu 14, 00260 Helsinki",Töölön terveysasema,60.180908,24.918569
+(Vallilan terveysasema),Helsinki,,Health Center,"(Rautalammintie 2, 00550 Helsinki) palvelut siirretty Kalasataman terveys- ja hyvinvointikeskukseen",toiminta Vallilassa päättynyt 2/2018 (Vallilan terveysasema),60.196437,24.954426
+Viiskulman terveysasema,Helsinki,,Health Center,"Pursimiehenkatu 4, 00150 Helsinki",Viiskulman terveysasema,60.160362,24.940863
+Vuosaaren terveys- ja hyvinvointikeskus,Helsinki,,Health Center,"Kahvikuja 3, 00980 Helsinki",Vuosaaren terveys- ja hyvinvointikeskus (Arkistoitu – Internet Archive),60.206356,25.146569
+Uuden lastensairaalan Lasten päivystys (0-15-vuotiaille),Helsinki,,Health Center,"Uusi lastensairaala, Stenbäckinkatu 9, 00250 Helsinki ",Lasten päivystys,60.187842,24.910964
+Haartmanin sairaalan päivystys,Helsinki,,Health Center,"Haartmaninkatu 4, rakennus 12, 00290 Helsinki (PL 6569, 00099 Helsingin kaupunki)","Haartmanin sairaala, päivystys",60.190487,24.90727
+Malmin sairaalan päivystys,Helsinki,,Health Center,"Talvelantie 6, 00700 Helsinki (PL 6500, 00099 Helsingin kaupunki)","Malmin sairaala, päivystys",60.253565,24.999478
+Diabeteskeskus,Espoo,,Health Center,"Karvasmäentie 10, 02740 Espoo",Diabeteskeskus,60.220384,24.686596
+Espoonlahden terveysasema,Espoo,,Health Center,"Merikansantie 4, 02320 Espoo",Espoonlahden terveysasema,60.148975,24.659685
+Ison Omenan terveysasema,Espoo,,Health Center,"Kauppakeskus Ison Omenan 3. kerroksen palvelutori, Suomenlahdentie 1 (Piispansilta 19), 02230 Espoo",Ison Omenan terveysasema,60.16033039151025,24.73804015108906
+Kalajärven terveysasema,Espoo,,Health Center,"Ruskaniitty 4, 02970 Espoo",Kalajärven terveysasema,60.305887,24.73903
+Kilon terveysasema,Espoo,,Health Center,"Trillakatu 5, 02610 Espoo",Kilon terveysasema,60.218042,24.786326
+Kivenlahden terveysasema,Espoo,,Health Center,"Meriusva 3, 02320 Espoo",Kivenlahden terveysasema,60.154707,24.635607
+Leppävaaran terveysasema,Espoo,,Health Center,"Konstaapelinkatu 2, 02650 Espoo",Leppävaaran terveysasema,60.221677,24.813931
+Oma Lääkärisi Espoontori,Espoo,,Health Center,"Kamreerintie 7, 5. krs, 02770 Espoo","Oma Lääkärisi Espoontori, Yhteystiedot (Oma Lääkärisi Espoo/ Mehiläinen & Espoo)",60.2044,24.655325
+Oma Lääkärisi Matinkylä,Espoo,,Health Center,"Piispanportti 10 A,  Espoo",Oma Lääkärisi Matinkylä,60.164701,24.736012
+Samarian terveysasema / Espoon keskus,Espoo,,Health Center,"Terveyskuja 2, Espoo",Samarian terveysasema/ Espoon keskus,60.202599,24.654174
+Tapiolan terveysasema,Espoo,,Health Center,"Ahertajantie 2, 02100 Espoo",Tapiolan terveysasema,60.178584,24.798162
+(Viherlaakson terveysasema),Espoo,,Health Center,"(Kievarinpolku 1, 02710 Espoo) suljettu kesällä 2020",suljettu kesällä 2020,60.227413,24.742001
+Espoon tk-päivystys,Espoo,,Health Center,"Jorvin sairaala, Päivystysrakennus (sisään Turuntien kautta), Turuntie 150, 02740 Espoo",Jorvin sairaalan päivystys,60.20956,24.65104
+Kauniaisten terveysasema,Kauniainen,,Health Center,"Asematie 19, 02700 Kauniainen",Kauniainen: Terveyspalvelut,60.214518,24.715992
+Atalan terveysasema,Tampere,,Health Center,"Pulkkakatu 1, 33580 Tampere",Atalan terveysasema,61.508139,23.915414
+Hatanpään terveysasema,Tampere,,Health Center,"Hatanpäänkatu 24, 33100 Tampere",Hatanpään terveysasema,61.483691,23.75524
+Hervannan terveysasema,Tampere,,Health Center,"Insinöörinkatu 38, 33720 Tampere",Hervannan terveysasema,61.450099,23.849302
+Kaukajärven terveysasema,Tampere,,Health Center,"Keskisenkatu 9, 33710 Tampere",Kaukajärven terveysasema,61.47309,23.876611
+Kämmenniemen terveysasema,Tampere,,Health Center,"Kämmenniemenkatu 42, 34240 Kämmenniemi",Kämmenniemen terveysasema,61.631569,23.838209
+Lielahden terveysasema,Tampere,,Health Center,"Lielahtikeskus, Teivaankatu 1 (2. krs), 33400 Tampere",Lielahden terveysasema,61.518796,23.665265
+Linnainmaan terveysasema,Tampere,,Health Center,"Kirviälänkatu 2, 33580 Tampere",Linnainmaan terveysasema,61.494601,23.881923
+Tammelakeskuksen terveysasema,Tampere,,Health Center,"Itsenäisyydenkatu 21 B, 33500 Tampere",Tammelakeskuksen terveysasema,61.499179,23.78343
+Tesoman terveysasema,Tampere,,Health Center,"tilapäiset tilat (vanha varikko): Turvesuonkatu 15, 33400 Tampere",Tesoman terveysasema,61.519634,23.657882
+Tipotien terveysasema,Tampere,,Health Center,"Tipotie 4 (5. krs), 33230 Tampere",Tipotien terveysasema,61.499143,23.728457
+Omapihlaja Hervanta(ostopalvelu),Tampere,,Health Center,"Insinöörinkatu 30 (3. krs), 33720 Tampere",Omapihlaja Hervanta,61.451548,23.847828
+Omapihlaja Kehräsaari(ostopalvelu),Tampere,,Health Center,"Kehräsaari B  (4. krs), 33200 Tampere",Omapihlaja Kehräsaari,61.708766,23.673573
+Tampereen tk-päivystys,Tampere,,Health Center,"TAYS Ensiapu Acuta, Teiskontie 35, 33520  Tampere",TAYS Ensiapu Acuta,61.505505,23.813456
+Hakunilan terveysasema,Vantaa,,Health Center,"Laukkarinne 4, 01200 Vantaa",Hakunilan terveysasema,60.278498,25.105101
+Koivukylän terveysasema,Vantaa,,Health Center,"Karsikkokuja 15, 01360 Vantaa",Koivukylän terveysasema,60.319527,25.059441
+Korson terveysasema,Vantaa,,Health Center,"Naalipolku 6 B, 2. krs, 01450 Vantaa",Korson terveysasema,60.349499,25.078596
+Länsimäen terveysasema,Vantaa,,Health Center,"Keilakuja 1, 01280 Vantaa",Länsimäen terveysasema,60.241704,25.112435
+Martinlaakson terveysasema,Vantaa,,Health Center,"Laajaniityntie 3, 4. krs, 01620 Vantaa",Martinlaakson terveysasema,60.277114,24.851863
+Myyrmäen terveysasema,Vantaa,,Health Center,"Jönsaksentie 4, 01600 Vantaa",Myyrmäen terveysasema,60.260829,24.855522
+Tikkurilan terveysasema,Vantaa,,Health Center,"Kielotie 11 A, 01300 Vantaa",Tikkurilan terveysasema,60.292948,25.038439
+Peijaksen yhteispäivystys,Vantaa,,Health Center,"Peijaksen sairaala, Sairaalakatu 1, 01400 Vantaa",Peijaksen yhteispäivystys (Arkistoitu – Internet Archive),60.331578,25.059119
+Haukiputaan terveysasema,Oulu,,Health Center,"Simppulantie 15, 90830 Haukipudas (PL 7 90015 Oulun kaupunki)",Haukiputaan terveysasema,65.171396,25.359653
+Kaakkurin terveysasema,Oulu,,Health Center,"Pesätie 11, 90420 Oulu ",Kaakkurin terveysasema,64.956435,25.531977
+Kaijonharjun terveysasema,Oulu,,Health Center,"Kalevalantie 5, 90570 Oulu ",Kaijonharjun terveysasema,65.061117,25.480743
+Myllyojan terveysasema,Oulu,,Health Center,"Karvarinaukio 16, 90650 Oulu ",Myllyojan terveysasema,65.018337,25.553692
+Kiimingin hyvinvointikeskus,Oulu,,Health Center,"Terveystie 1, 90900 Kiiminki (Pl 52 90015 Oulun kaupunki)",Kiimingin hyvinvointikeskus,65.128878,25.775336
+Kontinkankaan terveysasema,Oulu,,Health Center,"Kajaanintie 46 A (päärakennus) ja 48 A-B, 90220 Oulu ",Kontinkankaan hyvinvointikeskus,65.0100829354884,25.51410301573667
+Oulunsalon terveysasema,Oulu,,Health Center,"Kauppiaantie 10, 90460 Oulunsalo(Pl 57, 90015 Oulun kaupunki)",Oulunsalon terveysasema,64.934778,25.409047
+Rajakylän terveysasema,Oulu,,Health Center,"Ruiskukkatie 4, 90580 Oulu ",Rajakylän terveysasema,65.06715,25.421894
+Tuiran terveysasema,Oulu,,Health Center,"Kangastie 12, 90500 Oulu ",Tuiran terveysasema,65.025969,25.460046
+Oulun seudun kuntien yhteispäivystys,Oulu,,Health Center,"Oulun yliopistollinen sairaala, Kajaanintie 50, sisäänkäynti A1",Oulun seudun kuntien yhteispäivystys,65.009116,25.520813
+Keskustan terveysasema ,Turku,,Health Center,"Käsityöläiskatu 2, 20100 Turku",Keskustan terveysasema,60.448612,22.258941
+Kirkkotien terveysasema,Turku,,Health Center,"Kirkkotie 13, 20540 Turku",Kirkkotien terveysasema,60.456342,22.293247
+"Mäntymäen terveysasema, 1. toimintayksikkö",Turku,,Health Center,"Luolavuorentie 2, 20700 Turku","Mäntymäen terveysasema, 1. yksikkö",60.437723,22.275488
+"Mäntymäen terveysasema, 2. toimintayksikkö",Turku,,Health Center,"Luolavuorentie 2, 20700 Turku","Mäntymäen terveysasema, 2. yksikkö",60.437723,22.275488
+Pansion terveysasema,Turku,,Health Center,"Hyrköistentie 26-28, 20240 Turku",Pansion terveysasema,60.454322,22.165707
+Runosmäen terveysasema,Turku,,Health Center,"Signalistinkatu 2, 20360 Turku",Runosmäen terveysasema,60.485234,22.267894
+Turun ruotsinkielinen terveysasema,Turku,,Health Center,"Luolavuorivägen 2, 20700 Åbo",Ruotsinkielinen terveysasema,60.398454,22.185732
+Varissuon terveysasema,Turku,,Health Center,"Nisse Kavon katu 3, 20610 Turku",Varissuon terveysasema,60.44258,22.35998
+Maarian lähipalvelupiste,Turku,,Health Center,"Arkeologinkatu 6, 20460 Turku",Maarian lähipalvelupiste,60.538933,22.347812
+Mullintien lähipalvelupiste,Turku,,Health Center,"Mullintie 2, 20300 Turku",Mullintien lähipalvelupiste,60.471778,22.273703
+Ulkomaalaistoimiston terveyspalvelut,Turku,,Health Center,"Rauhankatu 14 b C, 20100 Turku(PL 364, 20101 Turku)",Ulkomaalaistoimiston terveyspalvelut,19.542427,-99.250812
+Turun alueen yhteispäivystys (vsshp.fi),Turku,,Health Center,"TYKS T-sairaala, Savitehtaankatu 1, Turku",Turun alueen yhteispäivystys (Arkistoitu – Internet Archive) (vsshp.fi),60.454329,22.295829
+Hankasalmen terveysasema,Hankasalmi,,Health Center,"Keskustie 53, 41520 Hankasalmi",Hankasalmen terveysasema (Arkistoitu – Internet Archive),62.384887,26.437352
+Huhtasuon terveysasema,Jyväskylä,,Health Center,"Nevakatu 1, 40340 Jyväskylä",Huhtasuon terveysasema (Arkistoitu – Internet Archive),62.270407,25.800684
+Oma Lääkärisi Korpilahti (terveysasema),Jyväskylä,,Health Center,"Virastokuja 2, 41800 Korpilahti",Korpilahden terveysasema (Arkistoitu – Internet Archive),62.016748,25.562739
+Kyllön terveysasema,Jyväskylä,,Health Center,"Keskussairaalantie 20, 40700 Jyväskylä(PL 52, 40701 Jyväskylä)",Kyllön terveysasema (Arkistoitu – Internet Archive),62.233398,25.707679
+Palokan terveysasema,Jyväskylä,,Health Center,"Ritopohjantie 25, 40270 Palokka",Palokan terveysasema (Arkistoitu – Internet Archive),62.29012,25.72586
+Sampoharjun terveysasema,Jyväskylä,,Health Center,"Vesmannintie 7, 40800 Vaajakoski",Sampoharjun terveysasema (Arkistoitu – Internet Archive),62.248101,25.869492
+Säynätsalon terveysasema,Jyväskylä,,Health Center,"Parviaisentie 7, 40900 Säynätsalo",Säynätsalon terveysasema (Arkistoitu – Internet Archive),62.139087,25.76871
+Tikkakosken terveysasema,Jyväskylä,,Health Center,"Kirkkokatu 3, 41160 Tikkakoski",Tikkakosken terveysasema (Arkistoitu – Internet Archive),62.389583,25.647722
+Toivakan terveysasema,Toivakka,,Health Center,"Iltaruskontie 6, 41660 Toivakka",Toivakan terveysasema (Arkistoitu – Internet Archive),62.098027,26.087114
+Uuraisten terveysasema,Uurainen,,Health Center,"Kuukantie 16, 41230 Uurainen",Uuraisten terveysasema (Arkistoitu – Internet Archive),62.496912,25.441143
+Muuramen terveyskeskus,Muurame,,Health Center,"Virastotie 10, 40950 Muurame",Muuramen Hyvinvointi – sosiaali- ja terveyspalvelut,62.129372,25.680551
+Keski-Suomen Sairaala Nova,Jyväskylä,,Health Center,"Hoitajantie 3, 40620 Jyväskylä",Sairaala Nova,62.229918,25.70483
+Kuopion pääterveysasema,Kuopio,,Health Center,"Tulliportinkatu 15 H, 70100 Kuopio",,62.893952,27.686196
+Juankosken terveysasema,Kuopio,,Health Center,"Terveystie 9, 73500 Juankoski",,63.071233,28.336715
+Karttulan terveysasema,Kuopio,,Health Center,"Hoitotie 20, 72100 Karttula",,62.902585,26.958463
+Maaningan terveysasema,Kuopio,,Health Center,"Satamatie 10, 71750 Maaninka",,63.156969,27.294885
+Nilsiän terveysasema,Kuopio,,Health Center,"Pisantie 10, 73300 Nilsiä",,63.201286,28.096905
+Pyörön terveysasema,Kuopio,,Health Center,"Pyörönkaari 24 (26), 70820 Kuopio",,62.838502,27.643707
+Riistaveden terveysasema,Kuopio,,Health Center,"Museotie 3, 71160 Riistavesi",,62.83956,28.13288
+Vehmersalmen terveysasema,Kuopio,,Health Center,"Vehmersalmentie 10, 71310 Vehmersalmi",,62.761419,28.034827
+Tk-lääkäreiden akuuttivastaanotto ja KYSin päivystys,Kuopio,,Health Center,"Kuopion yliopistollinen sairaala (KYS): Puijonlaaksontie 2, 70210 Kuopio. Päivystys pääsairaalan C-ovesta. Terveyskeskuksen ilta- ja viikonloppupäivystys 1. krs; KYS:n päivystys: 0-kerros. ",KYSin päivystys ja terveyskeskuksen ilta- ja viikonloppuvastaanotto (pdf-esite) (Arkistoitu – Internet Archive),62.897733,27.647406
+Eteläinen lähiklinikka,Lahti,,Health Center,"Launeenkatu 74, 15610 Lahti",Eteläinen lähiklinikka (Arkistoitu – Internet Archive),60.963965,25.653621
+Itäinen lähiklinikka,Lahti,,Health Center,"Alasenkatu 2, 15300 Lahti",Itäinen lähiklinikka (Arkistoitu – Internet Archive),61.000121,25.757173
+Keskustan lähiklinikka,Lahti,,Health Center,"Kauppakatu 14, 3. krs, 15140 Lahti",Keskustan lähiklinikka (Arkistoitu – Internet Archive),60.98183,25.664443
+Nastolan terveysasema,Lahti,,Health Center,"Pekkalantie 12–14, 15560 Nastola (Peruspalvelukeskus Aava, Päijät-Hämeen sosiaali- ja terveysyhtymä)",Nastolan terveysasema (Arkistoitu – Internet Archive),60.948408,25.928919
+Akuutti24 päivystys,Lahti,,Health Center,"Keskussairaalankatu 7, 15850 Lahti, (Päijät-Hämeen keskussairaala, Päijät-Hämeen sosiaali- ja terveysyhtymä)",Akuutti24 päivystys,60.994263,25.571293
+Elimäen terveysasema,Kouvola,,Health Center,Kiviaidantie 1 47200 Elimäki,Elimäen terveysasema,60.721455,26.442603
+Jaalan terveysasema,Kouvola,,Health Center,Keskuskaari 1 B 47710 Jaala,Jaalan terveysasema,61.05069,26.482688
+Keltakankaan terveysasema,Kouvola,,Health Center,Sairaalakaari 15 A 46860 Keltakangas,Keltakankaan terveysasema,60.74663545007424,26.831775579080073
+Korian terveysasema,Kouvola,,Health Center,Kyminasemantie 10 A 4 45610 Koria,Korian terveysasema,60.846412,26.607201
+Kouvolan terveysasema,Kouvola,,Health Center,Marjoniementie 10 45100 Kouvola,Kouvolan terveysasema (Attendo Terveyspalvelut),60.870727,26.694116
+Kuusankosken terveysasema,Kouvola,,Health Center,Kymenlaaksonkatu 3 45700 Kuusankoski,Kuusankosken terveysasema,60.907116,26.630508
+Valkealan terveysasema,Kouvola,,Health Center,Keskitie 19 45370 Valkeala,Valkealan terveysasema,60.931095,26.812761
+Kouvolan tk-päivystys,Kouvola,,Health Center,"Pohjois-Kymen sairaala, Päivystys, Sairaalankuja 3 C, 45750 Sairaalamäki",Yhteispäivystys: Pohjois-Kymen sairaala,60.93333,26.63333
+Itä-Porin lähipalvelukeskus,Pori,,Health Center,"Itä-Porin lähipalvelukeskus, Herralahdenraitti 2, 28360 Pori",,61.476111,21.819409
+Keski-Porin terveysasema,Pori,,Health Center,"Otavankatu 3 (4. kerros), 28100 Pori",,61.487804,21.790198
+Lavian lähipalvelupiste,Pori,,Health Center,"Viittatie 8, 38600 Lavia",,61.596876,22.580569
+Länsi-Porin sote-keskus,Pori,,Health Center,"Länsi-Porin sote-keskus (Porin pääterveysasema), 1. krs, Maantiekatu 31, 28120 Pori (PL 33, 28601 Pori)",,61.486774,21.766696
+Noormarkun terveysasema,Pori,,Health Center,"Eva Ahlströmintie 8, 29600 Noormarkku",,61.593408,21.855845
+Pihlavan terveysasema,Pori,,Health Center,"Päretie 2, 28800 Pori",,61.558785,21.612176
+Pohjois-Porin sote-keskus (Sote-keskus Cotton),Pori,,Health Center,"Siltapuistokatu 2, 28100 Pori",,61.493295,21.798929
+Reposaaren terveysasema,Pori,,Health Center,"Kirkkokatu 24, 28900 Pori",,61.612348,21.443983
+Merikarvian terveysasema,Merikarvia,,Health Center,"Antintie 52, 29900 Merikarvia",,61.856527,21.516324
+Ulvilan terveyskeskus,Ulvila,,Health Center,"Välskärintie 1, 28450 Vanha-Ulvila",,62.184229,21.804278
+Kullaan terveysasema,Ulvila,,Health Center,"Koskitie 17, 29340 Kullaa ",,61.468509,22.188768
+Satasairaalan päivystys,Pori,,Health Center,"Satasairaala, K-rakennus, Sairaalantie 3, 28500 Pori","Satasairaala, Päi­vys­tys, Yhteystiedot ja sairaala-alueen kartta",61.473804,21.779165
+Enon terveysasema ,Joensuu,,Health Center,"Enontie 52, 81200 Eno",Enon terveysasema (Arkistoitu – Internet Archive),62.785873,30.159538
+Kiihtelysvaaran terveysasema ,Joensuu,,Health Center,"Aprakkatie 2, 82140 Kiihtelysvaara",Kiihtelysvaaran terveysasema (Arkistoitu – Internet Archive),62.494663,30.251085
+Kontiolahden terveysasema ,Kontiolahti,,Health Center,"Aputie 1, 81100 Kontiolahti",Kontiolahden terveysasema (Arkistoitu – Internet Archive),62.75574,29.849227
+Lehmon terveysasema ,Kontiolahti,,Health Center,"Kylmäojantie 49, 80710 Lehmo",Lehmon terveysasema (Arkistoitu – Internet Archive),62.66667,29.8
+Niinivaaran terveysasema ,Joensuu,,Health Center,"Suvikatu 18, 2. krs, 80200 Joensuu",Niinivaaran terveysasema (Arkistoitu – Internet Archive),62.589237,29.788864
+Outokummun terveysasema,Outokumpu,,Health Center,"Sairaalankatu 8, 83500 Outokumpu",Outokummun terveysasema (Arkistoitu – Internet Archive),62.733538,29.006203
+Pyhäselän terveysasema,Joensuu,,Health Center,"Sähkötie 22, 82200 Hammaslahti",Pyhäselän terveysasema (Arkistoitu – Internet Archive),62.43333,29.96667
+Rantakylän terveysasema,Joensuu,,Health Center,"Ruoritie 3, 80160 Joensuu",Rantakylän terveysasema (Arkistoitu – Internet Archive),62.614103,29.816315
+Siilaisen terveysasema,Joensuu,,Health Center,"Noljakantie 17a, 80130 Joensuu",Siilaisen terveysasema (Arkistoitu – Internet Archive),62.616691,29.72342
+Tuupovaaran terveysasema,Joensuu,,Health Center,"Alatie 18, 82730 Tuupovaara",Tuupovaaran terveysasema (Arkistoitu – Internet Archive),62.480912,30.619478
+Pohjois-Karjalan keskussairaalan yhteispäivystys ,Joensuu,,Health Center,"Pohjois-Karjalan keskussairaala, J2-talon katutaso, Tikkamäentie 16, 80210 Joensuu",Pohjois-Karjalan keskussairaalan yhteispäivystys (siunsote.fi),62.592482,29.779628
+Armilan terveysasema,Lappeenranta,,Health Center,"Armilankatu 44, 53100 Lappeenranta",Armilan terveysasema,61.060204,28.213742
+Joutsenon hyvinvointiasema,Lappeenranta,,Health Center,"Välskärintie 2, 54100 Joutseno",Joutsenon hyvinvointiasema,61.115486,28.504563
+Lauritsalan hyvinvointiasema,Lappeenranta,,Health Center,"Karjalantie 2, 53300 Lappeenranta",Huom! Lauritsalan terveysasema ei enää ollut toiminnassa 9/2022 (Arkistoitu – Internet Archive),61.068647,28.253481
+Sammonlahden hyvinvointiasema,Lappeenranta,,Health Center,"Torpanpellonkatu 2, 53850 Lappeenranta",Sammonlahden hyvinvointiasema,61.050194,28.111667
+Honkaharjun terveysasema,Imatra,,Health Center,"Honkaharju 4, 55800 Imatra",Honkaharjun terveysasema,61.221952,28.821624
+Lemin hyvinvointiasema,Lemi,,Health Center,Toukkalantie 3. 54710 Lemi,Lemin hyvinvointiasema,61.062823,27.802998
+Luumäen hyvinvointiasema,Luumäki,,Health Center,"Marttilantie 28, 54500 Taavetti",Luumäen hyvinvointiasema,60.919688,27.566528
+Parikkalan hyvinvointikeskus,Parikkala,,Health Center,"Lehmuskuja 3, 59100 Parikkala",Parikkalan hyvinvointikeskus,61.558659,29.498369
+Rautjärven hyvinvointiasema,Rautjärvi,,Health Center,"Viipurinkatu 6, 56800 Simpele",https://eksote.fi/asiakkaalle/toimipisteet/hyvinvointi-ja-terveysasemat/rautjarven-hyvinvointiasema/ Rautjärven hyvinvointiasema],61.430811,29.359456
+Ruokolahden hyvinvointiasema,Ruokolahti,,Health Center,"Nällisuontie 7, 56100 Ruokolahti",Ruokolahden hyvinvointiasema,61.2942,28.819181
+Savitaipaleen hyvinvointiasema,Savitaipale,,Health Center,"Maitolantie 7, 54800 Savitaipale",Savitaipaleen hyvinvointiasema,61.199609,27.67691
+Taipalsaaren hyvinvointiasema,Taipalsaari,,Health Center,"Muukkolantie 4, 54920 Taipalsaari",Taipalsaaren hyvinvointiasema,61.174136,28.050809
+Etelä-Karjalan keskussairaalan päivystys,Lappeenranta,,Health Center,"Valto Käkelän katu 1, 53130 Lappeenranta",Etelä-Karjalan keskussairaala,61.065157,28.210571
+Honkaharjun sairaalan ilta- ja viikonloppupäivystys,Imatra,,Health Center,"Honkaharju 4, 55800 Imatra",Honkaharjun sairaala (Arkistoitu – Internet Archive),61.221952,28.821624
+Hauhon terveysasema,Hämeenlinna,,Health Center,"Vihniöntie 5, 14700 Hauho",Hauhon terveysasema (Arkistoitu – Internet Archive),61.172794,24.566103
+Idänpään terveysasema,Hämeenlinna,,Health Center,"Anttilankatu 4, 13210 Hämeenlinna",Idänpään terveysasema (Arkistoitu – Internet Archive),61.005588,24.498505
+Jukolan terveysasema,Hämeenlinna,,Health Center,"Eeronkuja 6, 13500 Hämeenlinna",Jukolan terveysasema (Arkistoitu – Internet Archive),60.983144,24.419043
+Kalvolan terveysasema,Hämeenlinna,,Health Center,"Nordstedtintie 6, 14500 Iittala",Kalvolan terveysasema (Arkistoitu – Internet Archive),61.094658,24.145899
+Lammin terveysasema,Hämeenlinna,,Health Center,"Evontie 33, 16900 Lammi",Lammin terveysasema (Arkistoitu – Internet Archive),61.089264,25.001055
+Ojoisten terveysasema,Hämeenlinna,,Health Center,"Veteraanipolku 1, 13600 Hämeenlinna",Ojoisten terveysasema (Arkistoitu – Internet Archive),61.011868,24.437528
+Rengon terveysasema,Hämeenlinna,,Health Center,"Rengonraitti 28, 14300 Renko",Rengon terveysasema,60.893381,24.287276
+Viipurintien terveysasema,Hämeenlinna,,Health Center,"Viipurintie 1-3, D-rak 2. krs, E-rak 1. krs, G-rak P-krs, 13200 Hämeenlinna (PL 560, 13111 Hämeenlinna)",Viipurintien terveysasema (Arkistoitu – Internet Archive),60.998694,24.475355
+Parolan terveysasema,Hattula,,Health Center,"Parolantie 42, 13720 Parola",Parolan terveysasema (Arkistoitu – Internet Archive),61.055537,24.369788
+Tervakosken terveysasema,Janakkala,,Health Center,"Kivimiehentie 2, 12400 Tervakoski",Tervakosken terveysasema (Arkistoitu – Internet Archive),60.818486,24.619977
+Turengin terveysasema,Janakkala,,Health Center,"Tapailanpiha 13 B, 14200 Turenki",Turengin terveysasema (Arkistoitu – Internet Archive),60.928152,24.645809
+Lopen lähiasema,Loppi,,Health Center,"Pajatie 1, 12700 Loppi","Perusterveydenhuolto, Ajanvaraus omalääkäri-omahoitajatyöparille (Arkistoitu – Internet Archive) (Arkistoitu – Internet Archive)",60.720027,24.439968
+Oitin lähisasema,Hausjärvi,,Health Center,"Kuusitie 10–18, 12100 Oitti","Perusterveydenhuolto (Arkistoitu – Internet Archive), Ajanvaraus omalääkäri-omahoitajatyöparille (Arkistoitu – Internet Archive) (Arkistoitu – Internet Archive)",60.785145,25.027306
+Riihimäen pääterveysasema/Riihimäen sairaala,Riihimäki,,Health Center,"Kontiontie 77 (6. ja 7. kerros), 11120 Riihimäki",Ajanvaraus omalääkäri-omahoitajatyöparille (Arkistoitu – Internet Archive) (Arkistoitu – Internet Archive),60.740545,24.765754
+Kiirepäivystys Pulssi77 /Riihimäen sairaala; Kanta-Hämeen keskussairaalan Riihimäen yksikkö,Riihimäki,,Health Center,"Riihimäen yksikkö, Kontiontie 77, 11120 Riihimäki","Kiireellinen hoito, päivystys (Arkistoitu – Internet Archive), Kanta-Hämeen keskussairaalan päivystys",60.74649,24.743672
+Kanta-Hämeen keskussairaalan yhteispäivystys,Hämeenlinna,,Health Center,"Kanta-Hämeen keskussairaala, Ahvenistontie 20, 13530 Hämeenlinna",Kanta-Hämeen keskussairaalan päivystys,60.989176,24.412345
+Keuruun terveysasema,Keuruu,,Health Center,Kantolantie 7,Keuruun terveysasema,61.406869,24.724609
+Pihtiputaan terveysasema,Pihtipudas,,Health Center,Asematie 12,Pihtiputaan terveysasema,63.896611,23.903012
+Viitasaaren terveysasema,Viitasaari,,Health Center,Sairaalantie 4,Viitasaaren terveysasema,62.552582,24.073807
+Gerbyn terveysasema,Vaasa,,Health Center,"Mäntymaantie 5, 65280 Vaasa",Gerbyn terveysasema (Arkistoitu – Internet Archive),63.131098,21.595488
+Kirkkopuistikon terveysasema,Vaasa,,Health Center,"Kirkkopuistikko 26, 65100 Vaasa",Kirkkopuistikon terveysasema (Arkistoitu – Internet Archive),63.093185,21.610885
+Ristinummen terveysasema,Vaasa,,Health Center,"Jyrsijänkatu 2, 65370 Vaasa",Ristinummen terveysasema (Arkistoitu – Internet Archive),63.09098,21.723427
+Tammikaivon terveysasema,Vaasa,,Health Center,"Sepänkyläntie 14-16, 65100 Vaasa",Tammikaivon terveysasema (Arkistoitu – Internet Archive),63.098718,21.628138
+Vähänkyrön terveysasema,Vaasa,,Health Center,"Vähänkyröntie 18, 66500 Vähäkyrö",Vähänkyrön terveysasema (Arkistoitu – Internet Archive),63.054779,22.108189
+Laihian terveysasema,Laihia,,Health Center,"Vallinmäentie 43, 66400 Laihia",Laihian terveysasema (Arkistoitu – Internet Archive),62.984603,22.013911
+Vaasan keskussairaalan yhteispäivystys,Vaasa,,Health Center,"Hietalahdenkatu 2–4, 65100 Vaasa",Vaasan keskussairaalan päivystys (Arkistoitu – Internet Archive),63.084911,21.615995
+Sairaalakadun terveysasema,Rovaniemi,,Health Center,"Sairaalakatu 1, 96100 Rovaniemi (PL 8216, 96101 Rovaniemi)","Sairaalakadun terveysasema, Sairaalankadun pikapoli",66.493749,25.732825
+Pulkamontien terveysasema,Rovaniemi,,Health Center,"Pulkamontie 4, 96900 Saarenkylä (PL 8216, 96101 Rovaniemi)",Pulkamontien terveysasema,66.518653,25.758244
+Lapin keskussairaalan päivystys,Rovaniemi,,Health Center,"Ounasrinteentie 22, 96400 Rovaniemi (PL 8041, 96101 Rovaniemi)",Lapin keskussairaalan päivystyspoliklinikka (Arkistoitu – Internet Archive),66.492425,25.774144
+"Seinäjoen terveyskeskus (sis. aiemmat Nurmon, Ylistaron ja Peräseinäjoen terveysasemat)",Seinäjoki,,Health Center,"Y-talo, 2. kerros,  Koskenalantie 18, 60220 Seinäjoki",,62.773938,22.818428
+"Seinäjoen terveyskeskus, päivystys",Seinäjoki,,Health Center,"Y-talo, 1. kerros, Koskenalantie 18, 60220 Seinäjoki",Seinäjoen terveyskeskuksen ensiapupäivystys (Arkistoitu – Internet Archive) (klo 8-20),62.773938,22.818428
+Isonkyrön terveysasema,Isokyrö,,Health Center,"Pysäkkitie 54, 61500 Isokyrö",,62.991204,22.324967
+EPSHP:n alueen terveyskeskusten yhteispäivystys,Seinäjoki,,Health Center,"Seinäjoen keskussairaalan päivystys, Koskenalantie 18, 60220 Seinäjoki",Seinäjoen keskussairaalan päivystyspoliklinikka (Arkistoitu – Internet Archive),62.771407,22.818679
+Mikkelin hyvinvointikeskus,Mikkeli,,Health Center,"Porrassalmenkatu 35–37, 50100 Mikkeli",Mikkelin hyvinvointikeskus (Arkistoitu – Internet Archive),61.691952,27.278264
+Anttolan hyvinvointiasema,Mikkeli,,Health Center,"Taipaleentie 31, 52100 Anttola",Anttolan hyvinvointiasema (Arkistoitu – Internet Archive),61.583939,27.64784
+Haukivuoren hyvinvointiasema,Mikkeli,,Health Center,"Kankaalantie 2, 51600 Haukivuori",Haukivuoren hyvinvointiasema (Arkistoitu – Internet Archive),62.017953,27.211866
+Ristiinan hyvinvointiasema,Mikkeli,,Health Center,"Brahentie 10, 52300 Ristiina",Ristiinan hyvinvointiasema (Arkistoitu – Internet Archive),61.511846,27.245801
+Suomenniemen hyvinvointiasema,Mikkeli,,Health Center,"Opinraitti 9, 52830 Suomenniemi",Suomenniemen hyvinvointiasema (Arkistoitu – Internet Archive),61.324459,27.452579
+Hirvensalmen hyvinvointiasema,Hirvensalmi,,Health Center,"Haapaniementie 17, 52550 Hirvensalmi",Hirvensalmen hyvinvointiasema (Arkistoitu – Internet Archive),61.641726,26.79328
+Juvan hyvinvointikeskus,Juva,,Health Center,"Sairaalatie 3, 51900 Juva",Juvan hyvinvointikeskus (Arkistoitu – Internet Archive),61.894287,27.865069
+Kangasniemen hyvinvointikeskus,Kangasniemi,,Health Center,"Sairaalantie 13, 51200 Kangasniemi",Kangasniemen hyvinvointikeskus (Arkistoitu – Internet Archive),61.992814,26.637011
+Mäntyharjun hyvinvointikeskus,Mäntyharju,,Health Center,"Sairaalantie 3, 52700 Mäntyharju",Mäntyharjun hyvinvointikeskus (Arkistoitu – Internet Archive),61.419452,26.863598
+Pertunmaan hyvinvointiasema,Pertunmaa,,Health Center,"Virastokuja 1, 19430 Pertunmaa",Pertunmaan hyvinvointiasema (Arkistoitu – Internet Archive),61.503823,26.48159
+Puumalan hyvinvointiasema,Puumala,,Health Center,"Niementie 26, 52200 Puumala",Puumalan hyvinvointiasema (Arkistoitu – Internet Archive),61.519622,28.189439
+Mikkelin keskussairaalan monitoimipäivystys,Mikkeli,,Health Center,"Porrassalmenkatu 35–37, 50100 Mikkeli",Päivystys: Mikkelin keskussairaalan monitoimipäivystys (Arkistoitu – Internet Archive),61.691952,27.278264
+Kotkansaaren terveysasema,Kotka,,Health Center,"Keskuskatu 30, 48100 Kotka",Kotkansaaren terveysasema (Arkistoitu – Internet Archive),60.463022,26.937235
+Karhulan terveysasema,Kotka,,Health Center,"Vesivallinkatu 20, 48600 Kotka",Karhulan terveysasema (Arkistoitu – Internet Archive),60.5225,26.909494
+Länsi-Kotkan terveysasema,Kotka,,Health Center,"Taruraitti 2, 48350 Kotka",Länsi-Kotkan terveysasema (Arkistoitu – Internet Archive),60.483068,26.859209
+Kotkan terveyskeskuspäivystys,Kotka,,Health Center,"Kymenlaakson keskussairaalan ensiapupoliklinikka, Kotkantie 41, 48210 Kotka","Päivystys, Kymenlaakson keskussairaala (Arkistoitu – Internet Archive)",60.477435,26.912839
+Halikon terveysasema,Salo,,Health Center,"Hornintie 1, 24800 Halikko",Halikon terveysasema (Arkistoitu – Internet Archive),60.383794,23.069775
+Kiikalan terveysasema,Salo,,Health Center,"Lautelantie 4, 25390 Kiikala",Kiikalan terveysasema (Arkistoitu – Internet Archive),60.31111,23.78057
+Kiskon terveysasema,Salo,,Health Center,"Toijantie 10, 25460 Kisko",Kiskon terveysasema (Arkistoitu – Internet Archive),60.263917,23.444824
+Kuusjoen terveysasema,Salo,,Health Center,"Yli-Pässintie 5, 25330 Kuusjoki",Kuusjoen terveysasema (Arkistoitu – Internet Archive),61.90386,22.70424
+Läntinen terveysasema,Salo,,Health Center,"Vilhonkatu 25, 24240 Salo","Läntinen terveysasema, Salo (Arkistoitu – Internet Archive)",60.387452,23.122471
+Salon pääterveysasema,Salo,,Health Center,"Sairaalantie 9, 24130 Salo","Pääterveysasema, Salo (Arkistoitu – Internet Archive)",60.374872,23.128518
+Perniön terveysasema,Salo,,Health Center,"Vuorilinnantie 7, 25500 Perniö",Perniön terveysasema (Arkistoitu – Internet Archive),60.201928,23.129269
+Suomusjärven terveysasema,Salo,,Health Center,"Aronkuja 2, 25410 Suomusjärvi",Suomusjärven terveysasema (Arkistoitu – Internet Archive),60.35,23.65
+Salon päivystys,Salo,,Health Center,"Salon sairaalan ensiapu, Sairaalantie 9, 24130 Salo",TYKS Salon sairaalan ensiapu (Arkistoitu – Internet Archive),60.374872,23.128518
+"Näsin terveyskeskus, Porvoo",Porvoo,,Health Center,"Askolinintie 1, 06100 Porvoo",Terveyskeskus: Toimipisteet ja asiointi (Arkistoitu – Internet Archive),60.385879,25.646021
+Porvoon sairaalan yhteispäivystys,Porvoo,,Health Center,"Sairaalantie 1, 3. krs (sisääntulokerros), 06150 Porvoo (PL 500, 06151 Porvoo)",Päivystyspoliklinikka (HUS Porvoon sairaala),60.378032,25.695711
+Askolan terveyskeskus,Askola,,Health Center,"Terveystie 1, 07500 Askola",Askola: päivystys ja ensiapu (terveyskeskus) (Arkistoitu – Internet Archive),60.525589,25.601406
+Loviisan terveyskeskus,Loviisa,,Health Center,"Öhmaninkatu 4, 07900 Loviisa","Lääkäri- ja hoitajavastaanotot, Päivystys",60.459636,26.229646
+Lapinjärven terveystalo,Lapinjärvi,,Health Center,"Lapinjärventie 25, 07800 Lapinjärvi","Lääkäri- ja hoitajavastaanotot, Päivystys",60.623816,26.197869
+Koskenkylän terveystalo,Loviisa,,Health Center,"Suurpellontie 2, 07700 Koskenkylän Saha",Toiminta loppunut/ siirretty Loviisan pääterveysasemalle. Terveystalo (terveysasema) suljettu kaupunginvaltuuston 9.7.2020 tekemällä päätöksellä osana säästöohjelmaa. Toisaalta sulkamista on luonnehdittu myös tilapäiseksi 23.09.2020 (Arkistoitu – Internet Archive),60.502821,25.932442
+Mäntsälän terveysasema,Mäntsälä,,Health Center,"Kivistöntie 14, 04600 Mäntsälä",Keusote: Terveysasemien sijainti - Mäntsälän terveysasema (Arkistoitu – Internet Archive),60.635801,25.326034
+Pornaisten terveysasema,Pornainen,,Health Center,"Latiskantie 3, 07170 Pornainen",Keusote: Terveysasemien sijainti - Pornaisten terveysasema (Arkistoitu – Internet Archive),60.475631,25.377588
+Nikkilän sosiaali- ja terveysasema,Sipoo,,Health Center,"Jussaksentie 14, 04130 Sipoo",Nikkilän sosiaali- ja terveysasema / Puhelinasiointi ja palveluajat,60.377898,25.265667
+(Söderkullan terveysasema),Sipoo,,Health Center,suljettu 2020,"suljettu 2020, uutta sote-asemaa harkitaan",62.690582,23.790626
+Kokkolan pääterveysasema,Kokkola,,Health Center,"Mariankatu 28, 67200 Kokkola","Pääterveysasema, tiimit 1, 2, 3, 4 (Arkistoitu – Internet Archive)",63.844035,23.106762
+Koivuhaan terveysasema,Kokkola,,Health Center,"Mäntynäädänkatu 6, 67800 Kokkola",Koivuhaan terveysasema (Arkistoitu – Internet Archive),63.826065,23.071229
+Kälviän terveysasema,Kokkola,,Health Center,"Ellfolkinkatu 5, 68300 Kälviä",Kälviän terveysasema,63.859786,23.450358
+Lohtajan terveysasema,Kokkola,,Health Center,"Lohtajantie 3, 68230 Lohtaja",Lohtajan terveysasema,64.024484,23.503229
+Ullavan terveysasema,Kokkola,,Health Center,"Ullavantie 701, 68370 Ullava",Ullavan terveysasema,63.706269,23.89391
+Kruunupyyn terveysasema,Kruunupyy,,Health Center,"Säbråntie 1, 68500 Kruunupyy",Kruunupyyn terveysasema,63.726249,23.02877
+Alavetelin terveysasema,Kruunupyy,,Health Center,"Kirkkomäentie 14, 68410 Alaveteli",Alavetelin terveysasema (Arkistoitu – Internet Archive),63.70101,23.351037
+Teerijärven terveysasema,Kruunupyy,,Health Center,"Hörbyntie 8, 68700 Teerijärvi",Teerijärven terveysasema (Arkistoitu – Internet Archive),63.53333,23.5
+Keski-Pohjanmaan keskussairaalan yhteispäivystys,Kokkola,,Health Center,"Mariankatu 16-20 (l-siipi, sis.käynti B1), 67200 Kokkola",Keski-Pohjanmaan keskussairaalan yhteispäivystys (Arkistoitu – Internet Archive),63.844387,23.109765
+Karjalohjan terveysasema,Lohja,,Health Center,"Tallaantie 4, 09120 Karjalohja",Oma Lääkärisi Karjalohja (Mehiläinen),60.239581,23.719382
+Keskustan terveysasema,Lohja,,Health Center,"Ojamonkatu 36, 08100 Lohja",,60.245935,24.055238
+(Mäntynummen terveysasema),Lohja,,Health Center,"(Mäntynummenkuja 3 A, 08500 Lohja) toimipiste lopetettu",-,60.270486,24.124439
+Pusulan terveysasema,Lohja,,Health Center,"Arvelankuja 1, 03850 Pusula",Oma Lääkärisi Pusula (Mehiläinen),60.473795,23.986413
+Sammatin terveysasema,Lohja,,Health Center,"Kalevalantie 2 B, 09220 Sammatti",Oma Lääkärisi Sammatti (Arkistoitu – Internet Archive) (Mehiläinen),60.31856,23.820628
+(Virkkalan terveysasema),Lohja,,Health Center,"(Virkkalantie 7, 08700 Lohja)  toimipiste lopetettu",-,60.185179,23.994959
+Lohjan sairaalan päivystys,Lohja,,Health Center,"Lohjan sairaala, Sairaalatie 8, B-ovi, 08200 Lohja ",Lohjan sairaala: Päivystys,60.222748,24.01623
+Hyvinkään terveysasema,Hyvinkää,,Health Center,"Sandelininkatu 1, A- ja B-rak., 05800 Hyvinkää",,60.632381,24.867286
+Hyvinkään sairaalan yhteispäivystys,Hyvinkää,,Health Center,"Sairaalakatu 1, 05850 Hyvinkää ",Hyvinkään sairaalan päivystys: Hyvinkää Akuutti,60.632189,24.860028
+Nurmijärven kirkonkylän terveysasema,Nurmijärvi,,Health Center,"Sairaalantie 2, 01900 Nurmijärvi",,60.468153,24.806265
+Rajamäen terveysasema,Nurmijärvi,,Health Center,"Terveystie 1, 05200 Rajamäki",,60.528657,24.764408
+Klaukkalan terveysasema,Nurmijärvi,,Health Center,"Vaskomäentie 2, 01800 Klaukkala ",,60.379827,24.747401
+Järvenpään uusi sosiaali- ja terveyskeskus (JUST),Järvenpää,,Health Center,"Lääkärinkuja 1, 04410 Järvenpää",,60.477401,25.099828
+Rauman pääterveysasema,Rauma,,Health Center,"Steniuksenkatu 2, 26100 Rauma",Rauman terveyskeskus. Pääterveysasema,61.129647,21.523898
+Lapin terveysasema,Rauma,,Health Center,"Kirkkotie 4, 27230 Lappi",,61.102809,21.841235
+Kodisjoen terveysasema,Rauma,,Health Center,"Silontie 5 A, 27310 Kodisjoki",,61.026204,21.689394
+Rauman seudun päivystys,Rauma,,Health Center,"Rauman terveyskeskuksen ja Rauman aluesairaalan yhteispäivystys, Steniuksenkatu 2, 26100 Rauma", Osan kesästä 2016 yöpäivystys Porissa.,61.129647,21.523898
+Keskustan terveysasema,Kirkkonummi,,Health Center,"Virkatie 1, 02400 Kirkkonummi","Lääkärien ja hoitajien vastaanotot (Kirkkonummi) (Arkistoitu – Internet Archive), Terveysasemat - Kiirevastaanotto ja päivystys (Kirkkonummi) (Arkistoitu – Internet Archive)",60.120458,24.438856
+Masalan terveysasema,Kirkkonummi,,Health Center,"Puolukkamäki 12, 02430 Masala",Lääkärien ja hoitajien vastaanotot (Kirkkonummi) (Arkistoitu – Internet Archive),13.91667,-88.08333
+Veikkolan terveysasema,Kirkkonummi,,Health Center,"Koskentie 3, 02880 Veikkola",Lääkärien ja hoitajien vastaanotot (Kirkkonummi) (Arkistoitu – Internet Archive),60.269428,24.443508
+Etelä-Tuusulan sosiaali- ja terveysasema,Tuusula,,Health Center,"Hyryläntie 13, 04300 Tuusula",,60.401691,25.025436
+Jokelan terveysasema,Tuusula,,Health Center,"Opintie 1, 05400 Jokela",,60.551449,24.964242
+Kellokosken terveysasema,Tuusula,,Health Center,"Kuntotaival 2, 04500 Kellokoski",,60.530812,25.096155
+Hyrynsalmen terveysasema,Hyrynsalmi,,Health Center,"Kiviöntie 11, 89400 Hyrynsalmi",Hyrynsalmen terveysaseman vastaanotto,64.680699,28.492346
+Kajaanin yleislääketieteen poliklinikka (Kajaanin pääterveysasema),Kajaani,,Health Center,"Sotkamontie 13, 87100 Kajaani","Kajaani, Yleislääketieteen poliklinikka (ylepkl)",64.214362,27.728134
+Kuhmon terveysasema,Kuhmo,,Health Center,"Kirkkotie 16-20, 88900 Kuhmo",Kuhmon terveysaseman vastaanotto,64.125784,29.504899
+Paltamon terveysasema,Paltamo,,Health Center,"Sairaalatie 7, 88300 Paltamo",Paltamon terveysaseman vastaanotto,64.405807,27.841112
+Ristijärven terveysasema,Ristijärvi,,Health Center,"Saukontie 1, 88400 Ristijärvi",Ristijärven terveysaseman vastaanotto,64.5005,28.217504
+Sotkamon terveysasema,Sotkamo,,Health Center,"Keskuskatu 9, 88600 Sotkamo",Sotkamon terveysaseman vastaanotto,64.132425,28.390505
+Suomussalmen terveysasema,Suomussalmi,,Health Center,"Välskärinkuja 2, 89600 Suomussalmi",Suomussalmen terveysaseman vastaanotto,64.881951,28.895854
+Vuolijoen terveysasema,Kajaani,,Health Center,"Papintie 2, 88270 Vuolijoki","Kajaani, Vuolijoen terveysaseman vastaanotto",64.177129,27.007013
+Kainuun keskussairaalan yhteispäivystys,Kajaani,,Health Center,"Sotkamontie 13, 87300 Kajaani",(Kainuun keskussairaalan) Yhteispäivystys (Arkistoitu – Internet Archive),64.214362,27.728134
+Savonlinnan pääterveysasema,Savonlinna,,Health Center,"Pihlajavedentie 8, 57170 Savonlinna",Savonlinnan pääterveysasema (Arkistoitu – Internet Archive),61.87409,28.847458
+Kerimäen terveysasema,Savonlinna,,Health Center,"Hälväntie 3, 58200 Kerimäki",Kerimäen terveysasema (Arkistoitu – Internet Archive),61.913455,29.288057
+Punkaharjun terveysasema,Savonlinna,,Health Center,"Kauppatie 22, 58500 Punkaharju",Punkaharjun terveysasema (Arkistoitu – Internet Archive),61.756692,29.39031
+Savonrannan terveysasema,Savonlinna,,Health Center,"Lamminniementie 3, 58300 Savonranta",Savonrannan terveysasema (Arkistoitu – Internet Archive),62.1719,29.203981
+Enonkosken terveysasema,Enonkoski,,Health Center,"Kirkkotie 6, 58175 Enonkoski",Enonkosken terveysasema (Arkistoitu – Internet Archive),62.088594,28.921624
+Rantasalmen terveysasema,Rantasalmi,,Health Center,"Ilveksentie 11, 58900 Rantasalmi",Rantasalmi: Terveydenhuolto (Arkistoitu – Internet Archive),62.062823,28.29994
+Sulkavan terveysasema,Sulkava,,Health Center,"Terveystie 2, 58700 Sulkava",Sulkavan terveysasema,61.789759,28.375745
+Savonlinnan keskussairaalan yhteispäivystys ja ensiapu-/päivystyspoliklinikka,Savonlinna,,Health Center,"Keskussairaalantie 6, 57120 Savonlinna",Päivystys (Arkistoitu – Internet Archive),61.870649,28.85342
+Keravan terveyskeskus,Kerava,,Health Center,"Metsolantie 2, 04200 Kerava","Ajanvaraus (Keravan) terveyskeskukseen. Ilta-, viikonloppu- ja yöpäivystys Peijaksen sairaalan yhteispäivystyksessä Vantaalla.",60.410275,25.087384
+Nokian terveyskeskus,Nokia,,Health Center,"Maununkatu 12, 37100 Nokia","Nokian kaupungin terveyspalvelut, yö- ja viikonloppupäivystys  TAYS Ensiapu Acutassa Tampereella.",61.479126,23.505218
+Siuron terveysasema,Nokia,,Health Center,"Pentintie 4, 37200 Siuro",Siuron terveysasema (Arkistoitu – Internet Archive),61.46667,23.35
+Ylöjärven pääterveysasema,Ylöjärvi,,Health Center,"Mikkolantie 10, 33470 Ylöjärvi", Myös päivystys. Yöpäivystys  TAYS Ensiapu Acutassa Tampereella.,61.546529,23.599535
+Kurun terveysasema,Ylöjärvi,,Health Center,"Kisatie 1, 34300 Kuru"," Päivystys Ylöjärven pääterveysasemalla, yöpäivystys  TAYS Ensiapu Acutassa Tampereella.",61.881673,23.729296
+Kaarinan pääterveysasema,Kaarina,,Health Center,"Voivalantie 5, 20780 Kaarina",,60.406568,22.376559
+Littoisten terveysasema,Kaarina,,Health Center,"Luhakatu 1, 20660 Littoinen",,60.44575,22.39906
+Piikkiön terveysasema,Kaarina,,Health Center,"Pontelanmäki 6, 21500 Piikkiö",,60.422063,22.526485
+Kangasalan keskusterveysasema,Kangasala,,Health Center,"Herttualantie 28, 36200 Kangasala",,61.458816,24.085825
+Ruutanan OmaAsema,Kangasala,,Health Center,"Leppätie 3, 36110 Ruutana",,61.528172,24.01131
+Sahalahden OmaAsema,Kangasala,,Health Center,"Kurvishöllintie 8, 36420 Sahalahti",,61.476824,24.334051
+Vatialan OmaAsema,Kangasala,,Health Center,"Junatie 1, 36240 Kangasala",,61.474779,23.946576
+Pälkäneen OmaAsema,Pälkäne,,Health Center,"Keskustie 3, 36600 Pälkäne",,61.339279,24.270545
+Luopioisten OmaAsema,Pälkäne,,Health Center,"Pereentie, 36760 Luopioinen",,61.364321,24.657667
+Valkeakosken aluesairaalan yhteispäivystys,Valkeakoski,,Health Center,"Salonkatu 24, 37600 Valkeakoski",Valkeakosken sairaalan päivystys (Arkistoitu – Internet Archive),61.271042,24.032188
+Nummelan terveysasema,Vihti,,Health Center,"Nummenselkä 2, 03100 Nummela",Lääkärin ja hoitajan vastaanotto (Arkistoitu – Internet Archive),60.345298,24.32282
+Karkkilan terveysasema,Karkkila,,Health Center,"Huhdintie 23-25, 03600 Karkkila",Lääkärin ja hoitajan vastaanotto (Arkistoitu – Internet Archive),60.539351,24.226071
+Siuntion terveyskeskus,Siuntio,,Health Center,"Charlotta Lönnqvistintie 5, 02580 Siuntio",Terveyskeskus ja päivystys (Arkistoitu – Internet Archive),60.135633,24.22403
+Tammisaaren terveysasema,Raasepori,,Health Center,"Itäinen Rantakatu 9, 10600 Tammisaari",Terveyskeskuksen avovastaanotto Terveyskeskus,59.974878,23.455038
+Pohjan terveysasema,Raasepori,,Health Center,"Orkdalintie 4, 10420 Pohjankuru",Terveyskeskuksen avovastaanotto Terveyskeskus,60.097872892359696,23.523324241036757
+Karjaan terveysasema,Raasepori,,Health Center,"Bulevardi 21, 10300 Karjaa",Terveyskeskuksen avovastaanotto Terveyskeskus,60.073027,23.664413
+Raaseporin sairaalan päivystys,Raasepori,,Health Center,"Raaseporin sairaala, Itäinen Rantakatu 9, 10600 (PL 1020, 10601) Tammisaari","Päivystys, Raaseporin sairaala",59.98122,23.440532
+Inkoon terveyskeskus,Inkoo,,Health Center,"Rantatie 6, 10210 Inkoo ",Inkoon terveyskeskus (Arkistoitu – Internet Archive),60.044323,24.005576
+Hangon terveyskeskus,Hanko,,Health Center,"Esplanadi 85, 10900 Hanko",Hangon terveyskeskus (Arkistoitu – Internet Archive),59.829038,22.963885
+Lappohjan terveysasema (neuvola),Hanko,,Health Center,"Koulukuja 4, 10820 Lappohja",Lappohjan terveysasema (Arkistoitu – Internet Archive) ,59.90113,23.250064
+Haminan terveysasema,Hamina,,Health Center,"Reutsinkatu 1, 49400 Hamina",Haminan terveysasema (Arkistoitu – Internet Archive),60.577149,27.177064
+Haminan sairaalan päivystys,Hamina,,Health Center,"Reutsinkatu 1, 49400 Hamina",Haminan sairaalan päivystyspoliklinikka (Arkistoitu – Internet Archive),60.577149,27.177064
