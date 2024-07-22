@@ -88,7 +88,6 @@ df_hospitals["location"] = df_hospitals["location"].apply(clean_location_name)
 df_hospitals["name"] = df_hospitals["name"].apply(clean_hospital_name)
 df_hospitals["type"] = "Hospital"
 
-#df_hospitals.to_csv("hospitals.csv", index=False)
 
 # Define URL and retrieve the page content for healthcare centers
 url_health_centers = "https://fi.wikipedia.org/wiki/Luettelo_Suomen_terveysasemista_ja_terveyskeskusp%C3%A4ivystyksist%C3%A4"

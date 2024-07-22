@@ -14,30 +14,29 @@ from selenium.webdriver.common.keys import Keys  # type: ignore
 from selenium.webdriver.support.ui import WebDriverWait  # type: ignore
 from selenium.webdriver.support import expected_conditions as EC  # type: ignore
 from twisted.internet import reactor, defer  # type: ignore
+import boto3
+from dotenv import load_dotenv
+import os
 
 # Configuration and Constants
-DOWNLOAD_DIR = os.path.abspath("data/cabins")
 TIME_STAMP = datetime.now().strftime("%Y%m%d-%H%M%S")
+
 FILENAME = f"etuovi_data_{TIME_STAMP}.json"
-FILE_PATH = os.path.join(DOWNLOAD_DIR, FILENAME)
+AWS_BUCKET_NAME = os.getenv('AWS_BUCKET_NAME')
+AWS_ACCESS_KEY_ID = os.getenv('AWS_ACCESS_KEY_ID')
+AWS_SECRET_ACCESS_KEY = os.getenv('AWS_SECRET_ACCESS_KEY')
+AWS_BUCKET_PATH = f"{AWS_BUCKET_NAME}/etuovi_data/{FILENAME}"
+
 
 LOGGING_FORMAT = "%(asctime)s - %(name)s - %(levelname)s - %(message)s"
 logging.basicConfig(level=logging.INFO, format=LOGGING_FORMAT)
 
-def remove_existing_file(filename: str, directory: str) -> None:
-    """Remove existing file if it exists in the directory."""
-    file_path = os.path.join(directory, filename)
-    if filename in os.listdir(directory):
-        os.remove(file_path)
-
-remove_existing_file(FILENAME, DOWNLOAD_DIR)
 
 def get_etuovi_url() -> str:
     """Retrieve the URL for cabin listings on Etuovi.com."""
     options = webdriver.FirefoxOptions()
     options.set_preference("browser.download.folderList", 2)
     options.set_preference("browser.download.manager.showWhenStarting", False)
-    options.set_preference("browser.download.dir", DOWNLOAD_DIR)
     options.set_preference("browser.helperApps.neverAsk.saveToDisk", "application/x-gzip")
 
     driver = webdriver.Firefox(options=options)
@@ -82,6 +81,7 @@ def get_etuovi_url() -> str:
     return etuovi_url
 
 etuovi_url = get_etuovi_url()
+listing_urls = []
 
 class EtuoviSpider(scrapy.Spider):
     name = "all_listings"
@@ -96,12 +96,14 @@ class EtuoviSpider(scrapy.Spider):
         results = response.css(f'div.{filtered_classes[0]}')
 
         for r in results:
+            url = "https://www.etuovi.com" + r.css('a::attr(href)').get().split("?haku")[0]
             cabin = {
                 "address": r.css('h4::text').get(),
-                "url": "https://www.etuovi.com" + r.css('a::attr(href)').get().split("?haku")[0],
+                "url": url,
                 "metrics": r.css('span::text').getall(),
                 "description": r.css('h5::text').get()
             }
+            listing_urls.append(url)
             yield cabin
 
         current_url = response.request.url
@@ -148,8 +150,14 @@ class CrawlerScript:
             'LOG_LEVEL': logging.INFO,
             'DOWNLOAD_DELAY': 3,
             'ROBOTSTXT_OBEY': False,
+            'AWS_ACCESS_KEY_ID ': AWS_ACCESS_KEY_ID,
+            'AWS_SECRET_ACCESS_KEY ': AWS_SECRET_ACCESS_KEY,
             "FEEDS": {
-                FILE_PATH: {"format": "json"}
+                AWS_BUCKET_PATH: {
+                'format': 'json',
+                'encoding': 'utf8',
+                'store_empty': False
+                        }
             }
         }
         self.runner = CrawlerRunner(self.settings)
@@ -159,11 +167,8 @@ class CrawlerScript:
         @defer.inlineCallbacks
         def crawl():
             yield self.runner.crawl(EtuoviSpider)
-            with open(FILE_PATH) as f:
-                self.listing_data = json.load(f)
-            urls = [listing['url'] for listing in self.listing_data]
-            logging.info("The number of listing URLs is: %d", len(urls))
-            yield self.runner.crawl(ListingsSpider, urls=urls)
+            logging.info("The number of listing URLs is: %d", len(listing_urls))
+            yield self.runner.crawl(ListingsSpider, urls=listing_urls)
             reactor.stop()
 
         crawl()
