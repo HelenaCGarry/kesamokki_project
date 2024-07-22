@@ -7,12 +7,15 @@ from datetime import datetime
 
 from geopy.geocoders import Nominatim # type: ignore
 from geopy.extra.rate_limiter import RateLimiter # type: ignore
+from dotenv import load_dotenv
+import os
 
-from secrets import OPENROUTESERVICE_API_KEY, GOOGLE_API_KEY
+# Load environment variables from the .env file (if present)
+load_dotenv()
 
-OPENROUTESERVICE_KEY = OPENROUTESERVICE_API_KEY
-GOOGLE_KEY = GOOGLE_API_KEY
-
+# Access environment variables as if they came from the actual environment
+OPENROUTESERVICE_KEY = os.getenv('OPENROUTESERVICE_API_KEY')
+GOOGLE_KEY = os.getenv('GOOGLE_API_KEY')
 
 
 # Define the folder path

@@ -3,12 +3,15 @@ import pandas as pd # type: ignore
 import requests # type: ignore
 from bs4 import BeautifulSoup # type: ignore
 
+from dotenv import load_dotenv
+import os
 
 # API Key
-from secrets import OPENROUTESERVICE_API_KEY
+# Load environment variables from the .env file (if present)
+load_dotenv()
 
-API_KEY = OPENROUTESERVICE_API_KEY
-
+# Access environment variables as if they came from the actual environment
+OPENROUTESERVICE_KEY = os.getenv('OPENROUTESERVICE_API_KEY')
 
 # Define URL and retrieve the page content
 url_hospitals = "https://fi.wikipedia.org/wiki/Luettelo_Suomen_sairaaloista"
@@ -316,7 +319,7 @@ def get_coordinates_openrouteservice(address, api_key):
 
 
 # Apply the get_coordinates function to the DataFrame
-df_combined[['latitude', 'longitude']] = df_combined['address'].apply(lambda addr: pd.Series(get_coordinates_openrouteservice(addr, API_KEY)))
+df_combined[['latitude', 'longitude']] = df_combined['address'].apply(lambda addr: pd.Series(get_coordinates_openrouteservice(addr, OPENROUTESERVICE_KEY)))
 
 # Manually correct final coordinates
 
