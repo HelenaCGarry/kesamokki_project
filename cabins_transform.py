@@ -23,11 +23,11 @@ FOLDER_PATH = 'data/cabins'
 # Helper functions to find price, surface, and year
 def find_price(metrics):
     price = next((i.replace('€', '').replace('\xa0', '').replace(',', '.').strip() for i in metrics if '€' in i), pd.NA)
-    return float(price) if price != pd.NA else price
+    return float(price) if not pd.isna(price) else price
 
 def find_surface(metrics):
     surface = next((i.split(' ')[0].replace('\xa0', '').replace(',', '.').strip() for i in metrics if 'm²' in i), pd.NA)
-    return float(surface) if surface != pd.NA else surface
+    return float(surface) if not pd.isna(surface) else surface
 
 def find_year(metrics):
     years = [int(i) for i in metrics if re.search(r'\d{4}', i)]
@@ -110,6 +110,7 @@ most_recent_date = datetime.strptime(os.path.basename(json_files[0]).split('_')[
 
 # Load data from the previous week (already in csv format)
 old_df = pd.read_csv(csv_files[0])
+
 
 # Load data from latest scraping (still in json format)
 with open(json_files[0], 'r') as data_raw:
