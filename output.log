@@ -1,0 +1,4 @@
+Traceback (most recent call last):
+  File "C:\Users\helen\Desktop\Coding\Repos\kesamokki_project\scripts\run_data_pipeline.py", line 1, in <module>
+    from src.data_pipeline.cabins_extraction import extract_data
+ModuleNotFoundError: No module named 'src'

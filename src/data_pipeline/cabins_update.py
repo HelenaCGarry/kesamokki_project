@@ -12,14 +12,21 @@ load_dotenv()
 # Access environment variables 
 POSTGRES_USER = os.getenv('PostgreSQL_USERNAME')
 POSTGRES_PSW = os.getenv('PostgreSQL_PSW')
+POSTGRES_SERVER = os.getenv('PostgreSQL_SERVER')
+POSTGRES_PORT = os.getenv('PostgreSQL_PORT')
+POSTGRES_DATABASE = os.getenv('PostgreSQL_DATABASE')
 
 # Define the folder path
 FOLDER_PATH = 'data\cabins'
 
-# Get the list of CSV files sorted by the date in the filename
-csv_files = sorted(glob(os.path.join(FOLDER_PATH, 'etuovi_data_*.csv')), key=lambda x: os.path.basename(x).split('_')[-1].split('.')[0], reverse=False)
+def define_new_file():
+    # Get the list of CSV files sorted by the date in the filename
+    csv_files = sorted(glob(os.path.join(FOLDER_PATH, 'etuovi_data_*.csv')), key=lambda x: os.path.basename(x).split('_')[-1].split('.')[0], reverse=True)
+    return csv_files[0]
 
-def update_database(new_data):
+def update_database():
+    new_file = define_new_file()
+    new_data = pd.read_csv(new_file)
 
     new_data['winterized'] = new_data['winterized'].apply(lambda x: True if x == 'YES' else False)
 
@@ -28,7 +35,7 @@ def update_database(new_data):
     new_data['last_posting_date'] = pd.to_datetime(new_data['last_posting_date']).dt.date
 
     # Database connection
-    engine = create_engine(f'postgresql://{POSTGRES_USER}:{POSTGRES_PSW}@localhost:5432/cabins_main')
+    engine = create_engine(f'postgresql://{POSTGRES_USER}:{POSTGRES_PSW}@{POSTGRES_SERVER}:{POSTGRES_PORT}/{POSTGRES_DATABASE}')
     
     # Insert new data into temporary table
     new_data.to_sql('cabins_temp', engine, if_exists='replace', index=False)
@@ -63,11 +70,7 @@ def update_database(new_data):
 
         """))
 
-# Process and update the database for each CSV file
-for file in csv_files:
-    # Read the CSV file into a DataFrame
-    new_data = pd.read_csv(file)
-
-    # Update the database with the new data
-    update_database(new_data)
     
+# If running this file directly
+if __name__ == "__main__":
+    update_database()

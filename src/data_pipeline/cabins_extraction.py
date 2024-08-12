@@ -17,6 +17,8 @@ from twisted.internet import reactor, defer  # type: ignore
 
 # Configuration and Constants
 DOWNLOAD_DIR = os.path.abspath("data/cabins")
+START_URL = 'https://www.etuovi.com/myytavat-loma-asunnot'
+BASE_URL = 'https://www.etuovi.com'
 TIME_STAMP = datetime.now().strftime("%Y%m%d-%H%M%S")
 FILENAME = f"etuovi_data_{TIME_STAMP}.json"
 FILE_PATH = os.path.join(DOWNLOAD_DIR, FILENAME)
@@ -24,13 +26,7 @@ FILE_PATH = os.path.join(DOWNLOAD_DIR, FILENAME)
 LOGGING_FORMAT = "%(asctime)s - %(name)s - %(levelname)s - %(message)s"
 logging.basicConfig(level=logging.INFO, format=LOGGING_FORMAT)
 
-def remove_existing_file(filename: str, directory: str) -> None:
-    """Remove existing file if it exists in the directory."""
-    file_path = os.path.join(directory, filename)
-    if filename in os.listdir(directory):
-        os.remove(file_path)
 
-remove_existing_file(FILENAME, DOWNLOAD_DIR)
 
 def get_etuovi_url() -> str:
     """Retrieve the URL for cabin listings on Etuovi.com."""
@@ -43,8 +39,7 @@ def get_etuovi_url() -> str:
     driver = webdriver.Firefox(options=options)
     wait = WebDriverWait(driver, 100)
 
-    url = 'https://www.etuovi.com/myytavat-loma-asunnot'
-    driver.get(url)
+    driver.get(START_URL)
 
     try:
         accept_cookies = wait.until(EC.element_to_be_clickable((By.XPATH, '//*[@id="almacmp-modalConfirmBtn"]')))
@@ -81,11 +76,10 @@ def get_etuovi_url() -> str:
 
     return etuovi_url
 
-etuovi_url = get_etuovi_url()
 
 class EtuoviSpider(scrapy.Spider):
     name = "all_listings"
-    start_urls = [etuovi_url]
+    start_urls = [get_etuovi_url()]
 
     def parse(self, response):
         elements_with_classes = response.xpath('//*[@class]')
@@ -98,7 +92,7 @@ class EtuoviSpider(scrapy.Spider):
         for r in results:
             cabin = {
                 "address": r.css('h4::text').get(),
-                "url": "https://www.etuovi.com" + r.css('a::attr(href)').get().split("?haku")[0],
+                "url": BASE_URL + r.css('a::attr(href)').get().split("?haku")[0],
                 "metrics": r.css('span::text').getall(),
                 "description": r.css('h5::text').get()
             }

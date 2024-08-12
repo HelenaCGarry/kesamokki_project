@@ -41,7 +41,7 @@ address,url,description,rooms,winterized,price,surface,year,original_price,latit
 "Vesilahdentie 290, Tottijärvi, Nokia",https://www.etuovi.com/kohde/21245872,2h + kk + s,2,YES,200000.0,46.0,1991,200000.0,61.3989454,23.3424953,185 km,2 hours 1 min,2024-07-08,2024-08-05
 "Kuikanniementie 14, Kurkijärvi, Kuusamo",https://www.etuovi.com/kohde/582391,"2 mh, oh, k, eteinen",3,NO,59000.0,74.0,1953,59000.0,65.95952799999999,28.662244,822 km,8 hours 53 mins,2024-08-05,2024-08-05
 "Vähä-Työläjärventie 86, Hämeenkyrö (Ylöjärvi Metsäkylä), Hämeenkyrö",https://www.etuovi.com/kohde/21497450,1h,,NO,35000.0,12.0,,35000.0,61.58285610000001,23.4867363,195 km,1 hour 58 mins,2024-08-05,2024-08-05
-"Vallolamminraitti 370, Pahojoki, Laitila",https://www.etuovi.com/kohde/80368354,1h + kk + pkh + s + terassi,1,NO,85000.0,30.0,1976,85000.0,60.89741405,22.006382600000002,228 km,2 hours 33 mins,2024-08-05,2024-08-05
+"Vallolamminraitti 370, Pahojoki, Laitila",https://www.etuovi.com/kohde/80368354,1h + kk + pkh + s + terassi,1,NO,85000.0,30.0,1976,85000.0,60.89741405,22.0063826,228 km,2 hours 33 mins,2024-08-05,2024-08-05
 "Rantatie 3, Anttola, Mikkeli",https://www.etuovi.com/kohde/582441,"3h, k, s",3,NO,399000.0,107.0,1955,399000.0,61.5937338,27.6348629,249 km,2 hours 37 mins,2024-08-05,2024-08-05
 "Myssylänlahdentie 46 A, Sinervämäki, Multia",https://www.etuovi.com/kohde/20919512,"Tupa, keittokomero, alkovi",2,NO,75000.0,37.0,1970,75000.0,62.3635124,24.8759472,302 km,3 hours 19 mins,2024-08-05,2024-08-05
 "Miestamontie 46, Rajalahti, Ruovesi",https://www.etuovi.com/kohde/21232885,"Tupakeittiö, huone",,NO,108000.0,55.0,1902,120000.0,61.95259799999999,24.0233082,246 km,2 hours 43 mins,2024-07-08,2024-08-05
@@ -49,7 +49,7 @@ address,url,description,rooms,winterized,price,surface,year,original_price,latit
 "Ala-Kärpäntie 64, Anttula, Kuhmoinen",https://www.etuovi.com/kohde/582359,"2h, k, makuualkova, kuisti, var",2,NO,94000.0,56.0,1970,94000.0,61.65000999999999,25.360188,201 km,2 hours 22 mins,2024-08-05,2024-08-05
 "Kannaksenpolku 37, Karjalohja, Lohja",https://www.etuovi.com/kohde/1372980,"3h, k, s, wc",3,NO,259000.0,65.5,,259000.0,60.2437805,23.6640653,94.1 km,1 hour 13 mins,2024-08-05,2024-08-05
 "Laukkulammentie, Sääksjärvi, Vimpeli",https://www.etuovi.com/kohde/80368185,2h + tk + parvi + parv + ter. + rantasauna + ulkowc + puuvaja,2,NO,69000.0,60.0,2007,69000.0,63.220856,23.971267,399 km,4 hours 28 mins,2024-08-05,2024-08-05
-"Ranta-ahontie 11, Mutoudenniemi, Paltamo",https://www.etuovi.com/kohde/57492434,,,NO,110000.0,,,110000.0,64.3307997,27.528678,620 km,6 hours 48 mins,2024-08-05,2024-08-05
+"Ranta-ahontie 11, Mutoudenniemi, Paltamo",https://www.etuovi.com/kohde/57492434,Mökki tai huvila,,NO,110000.0,,,110000.0,64.3307997,27.528678,620 km,6 hours 48 mins,2024-08-05,2024-08-05
 "Rehtsuontie 171, Kalkkinen, Asikkala",https://www.etuovi.com/kohde/581971,"2h, k, terassi",2,NO,120000.0,59.0,2004,120000.0,61.3062688,25.7126627,148 km,1 hour 45 mins,2024-08-05,2024-08-05
 "Kiminginjärventie 85A, Kukko, Saarijärvi",https://www.etuovi.com/kohde/80359691,OH + K + RT + PARV,,NO,73900.0,40.0,1983,78900.0,62.617931,24.754742,336 km,3 hours 44 mins,2024-07-08,2024-08-05
 "Joensuuntie 54, Ritola, Alavus",https://www.etuovi.com/kohde/20557449,2mh + oh + k + pkh + ph + s,,NO,55000.0,52.0,1970,55000.0,62.6974224,23.8885824,336 km,3 hours 42 mins,2024-08-05,2024-08-05
@@ -89,7 +89,7 @@ address,url,description,rooms,winterized,price,surface,year,original_price,latit
 "Kariniementie 66, Vehkajärvi, Pälkäne",https://www.etuovi.com/kohde/80367587,oh + 2 mh + kk + khh + wc,3,NO,199000.0,68.5,2015,199000.0,61.47721809999999,24.8244014,181 km,2 hours 5 mins,2024-08-05,2024-08-05
 "Ylätjoentie 69 B, Vuolinko, Korpijärvi, Mikkeli",https://www.etuovi.com/kohde/56351494,"Kesämökki, aitta ja talousrakennus",,NO,148000.0,55.0,1955,148000.0,61.7557507,27.1009106,236 km,2 hours 27 mins,2024-08-05,2024-08-05
 "Jousniementie 16, Konginkangas, Äänekoski",https://www.etuovi.com/kohde/581707,"2h, k",2,NO,115000.0,32.4,1994,115000.0,62.79474099999999,25.9128205,338 km,3 hours 42 mins,2024-08-05,2024-08-05
-"Suokannanvaarantie 41, Naamankajärvi, Kuusamo",https://www.etuovi.com/kohde/21131410,,,NO,59000.0,70.0,,59000.0,65.8290736,29.6876284,821 km,9 hours 3 mins,2024-08-05,2024-08-05
+"Suokannanvaarantie 41, Naamankajärvi, Kuusamo",https://www.etuovi.com/kohde/21131410,Mökki tai huvila,,NO,59000.0,70.0,,59000.0,65.8290736,29.6876284,821 km,9 hours 3 mins,2024-08-05,2024-08-05
 "Kumpuniementie 32, Juankoski, Kuopio",https://www.etuovi.com/kohde/1374833,"tupakeittiö, 2mh, kph / wc",3,NO,108000.0,70.0,1951,108000.0,63.0127223,28.1906846,438 km,4 hours 41 mins,2024-08-05,2024-08-05
 "Tauriaisentie 43 B, Lämsänkylä, Kuusamo",https://www.etuovi.com/kohde/581563,"3 mh, oh, k, pkh, kph, s ja wc",3,NO,39000.0,170.0,1948,39000.0,65.8453277,30.0396014,835 km,9 hours 2 mins,2024-08-05,2024-08-05
 "Kyyhkyentie 316, Kutemajärvi, Kangasniemi",https://www.etuovi.com/kohde/581794,"Tupakeittiö, sauna",1,NO,49000.0,27.0,1988,49000.0,62.1291155,26.8431388,266 km,2 hours 56 mins,2024-08-05,2024-08-05
@@ -134,7 +134,7 @@ address,url,description,rooms,winterized,price,surface,year,original_price,latit
 "Sarkalahdentie 86, Kosola, Savonlinna",https://www.etuovi.com/kohde/w48494,2h + kk + var + wc,2,NO,156000.0,44.0,,156000.0,61.71774790000001,29.1205905,358 km,4 hours 0 mins,2024-08-05,2024-08-05
 "Karkiantie 991, Huuhkala, Puumala",https://www.etuovi.com/kohde/80367563,Tupa + k,1,NO,64000.0,28.0,1968,64000.0,61.44773799999999,28.356297,309 km,3 hours 24 mins,2024-08-05,2024-08-05
 "Matalajärventie 213, Kangasala",https://www.etuovi.com/kohde/1373959,"2 mh, tupa, kk + rantasauna",3,NO,157000.0,43.0,1975,157000.0,61.6140441,24.1317335,196 km,2 hours 1 min,2024-08-05,2024-08-05
-"Harikorventie 14 B, Romppala, Kontiolahti",https://www.etuovi.com/kohde/21809380,,2,NO,79000.0,35.5,1988,85000.0,63.00061289999999,29.7855725,480 km,5 hours 20 mins,2024-07-08,2024-08-05
+"Harikorventie 14 B, Romppala, Kontiolahti",https://www.etuovi.com/kohde/21809380,Mökki tai huvila,2,NO,79000.0,35.5,1988,85000.0,63.00061289999999,29.7855725,480 km,5 hours 20 mins,2024-07-08,2024-08-05
 "Varsalahdentie 90, Asunta, Multia",https://www.etuovi.com/kohde/w48484,1h + kk + s + ph,1,NO,148000.0,40.0,1995,148000.0,62.3240759,24.9114522,298 km,3 hours 13 mins,2024-08-05,2024-08-05
 "Hatunpolku 2, Koli, Lieksa",https://www.etuovi.com/kohde/20458881,3h + k + pkh + kph + s + wc,3,YES,148000.0,79.5,2012,158000.0,63.11375139999999,29.7773671,481 km,5 hours 25 mins,2024-07-08,2024-08-05
 "Niemimäentie 72, Smedsby, Raasepori",https://www.etuovi.com/kohde/20831400,1h,,NO,237000.0,18.0,1949,245000.0,59.9741481,23.4375803,111 km,1 hour 22 mins,2024-07-08,2024-08-05
@@ -164,14 +164,14 @@ address,url,description,rooms,winterized,price,surface,year,original_price,latit
 "Lohirannantie 119c, Lohiranta, Posio",https://www.etuovi.com/kohde/w48296,1h + tupak + var + s + aitta,1,YES,59000.0,23.4,1999,59000.0,66.0413613,28.6501527,833 km,9 hours 0 mins,2024-08-05,2024-08-05
 "Sompasaarentie 2 A, Sompasaari, Heinävesi",https://www.etuovi.com/kohde/575797,"tupa, 2h, kph, et",2,NO,90000.0,72.0,1903,110000.0,62.3206876,28.6060532,359 km,4 hours 5 mins,2024-07-08,2024-08-05
 "Kuusirannantie 46 B, Sumiainen, Äänekoski",https://www.etuovi.com/kohde/581423,"1h, alkovi kk",1,NO,99000.0,26.0,1985,99000.0,62.73782,25.97984,339 km,3 hours 41 mins,2024-08-05,2024-08-05
-"Ruhantie 282, Tervakoski, Janakkala",https://www.etuovi.com/kohde/20520067,", rantasauna",3,YES,219000.0,92.4,,219000.0,60.7893484,24.5985602,79.4 km,54 mins,2024-08-05,2024-08-05
+"Ruhantie 282, Tervakoski, Janakkala",https://www.etuovi.com/kohde/20520067,"Mökki tai huvila, rantasauna",3,YES,219000.0,92.4,,219000.0,60.7893484,24.5985602,79.4 km,54 mins,2024-08-05,2024-08-05
 "Kettulantie 42, Virmaila, Padasjoki",https://www.etuovi.com/kohde/20469583,"Tupak, 2mh, 2wc, kph, s",,YES,425000.0,85.0,,425000.0,61.418209,25.3311465,170 km,1 hour 59 mins,2024-08-05,2024-08-05
 "Ylähuuhintie 254, Savonranta, Savonlinna",https://www.etuovi.com/kohde/1374644,"tupa, pkh, sauna",1,NO,35000.0,24.0,1972,35000.0,62.2262027,29.0504199,399 km,4 hours 23 mins,2024-08-05,2024-08-05
 "Tammiontie 70, Vohdensaari, Uusikaupunki",https://www.etuovi.com/kohde/20671321,2h + k + wc + parvi,2,YES,280000.0,94.5,2010,280000.0,60.8249922,21.3374329,255 km,2 hours 50 mins,2024-08-05,2024-08-05
 "Pohjaniementie 556, Kangasniemi",https://www.etuovi.com/kohde/1373686,"2h, kk, s",2,NO,119000.0,48.0,1984,119000.0,61.9090873,26.97337809842381,266 km,2 hours 53 mins,2024-08-05,2024-08-05
 "Jousniementie 42, Konginkangas, Äänekoski",https://www.etuovi.com/kohde/21961801,"2 huvilaa, rantasauna, kota ja varasto",5,NO,98000.0,63.0,1993,98000.0,62.795523,25.917767,338 km,3 hours 43 mins,2024-08-05,2024-08-05
 "Valkealuomentie 759, Haavisto, Jämsä",https://www.etuovi.com/kohde/21962554,"Keittiö + 6 h + sauna x 2 + eteinen + matkailuauton autotalli (64m2) + varasto (6,5m2)",6,YES,299000.0,116.8,1942,299000.0,62.03793159999999,25.0289152,243 km,2 hours 55 mins,2024-08-05,2024-08-05
-"Hautasaari, Lappeenranta",https://www.etuovi.com/kohde/80367324,,,NO,79000.0,25.0,2017,79000.0,61.12297345,28.291720752770537,236 km,2 hours 40 mins,2024-08-05,2024-08-05
+"Hautasaari, Lappeenranta",https://www.etuovi.com/kohde/80367324,Mökki tai huvila,,NO,79000.0,25.0,2017,79000.0,61.12297345,28.291720752770537,236 km,2 hours 40 mins,2024-08-05,2024-08-05
 "Valkeisniementie 70c, Pirttimäki, Enonkoski",https://www.etuovi.com/kohde/21882552,3h + parvitila + k + ph / wc + s,4,NO,165000.0,72.0,2010,165000.0,62.174224,28.901904,405 km,4 hours 30 mins,2024-08-05,2024-08-05
 "Vähä Suojärventie 276, Pihlajavesi, Keuruu",https://www.etuovi.com/kohde/582035,"Tupa, keittiö, makuuhuone, parvi, sauna",2,NO,110000.0,46.0,,110000.0,62.4465198,24.3421024,309 km,3 hours 29 mins,2024-08-05,2024-08-05
 "Soukonlahdentie 65, Väärinmaja, Ruovesi",https://www.etuovi.com/kohde/20947559,"3h, k, khh / kph, vh, wc, parvi",3,YES,449000.0,70.0,2014,449000.0,61.98718179999999,24.216868,250 km,2 hours 43 mins,2024-08-05,2024-08-05
@@ -184,10 +184,10 @@ address,url,description,rooms,winterized,price,surface,year,original_price,latit
 "Valkamalahdentie 18, Tahkovuori, Kuopio",https://www.etuovi.com/kohde/1373845,"Tupakeittiö, kph / wc, sauna, mh, yläaula + parveke",3,NO,335000.0,60.5,1992,335000.0,63.29525040000001,28.0491767,446 km,4 hours 48 mins,2024-08-05,2024-08-05
 "Kiviniemi 10 A, Papelonsaari, Liperi",https://www.etuovi.com/kohde/80367030,tupak + pkh + s + yläk,2,NO,80000.0,44.0,1975,80000.0,62.5727452,29.3584931,415 km,4 hours 27 mins,2024-08-05,2024-08-05
 "Lahnakuja 22, Kokemäki",https://www.etuovi.com/kohde/35217880,"2h, kk, s, terassi",2,NO,65000.0,36.0,,65000.0,61.38979025,22.309697521242565,226 km,2 hours 43 mins,2024-08-05,2024-08-05
-"Laakasalontie 66, Räyskälä, Loppi",https://www.etuovi.com/kohde/80366330,,,NO,588000.0,,2010,588000.0,60.7358291,24.1710247,99.3 km,1 hour 8 mins,2024-08-05,2024-08-05
+"Laakasalontie 66, Räyskälä, Loppi",https://www.etuovi.com/kohde/80366330,Mökki tai huvila,,NO,588000.0,,2010,588000.0,60.7358291,24.1710247,99.3 km,1 hour 8 mins,2024-08-05,2024-08-05
 "Matoperäntie 9 A, Koitila, Koitijärvi, Taivalkoski",https://www.etuovi.com/kohde/w47887,"Mökki, rantasauna, varasto-huussi, varasto",2,NO,69000.0,29.7,1967,69000.0,65.64331469999999,28.4479213,765 km,8 hours 26 mins,2024-08-05,2024-08-05
 "Lapinsaarentie 101, Isosaari, Iitti",https://www.etuovi.com/kohde/20334279,2mh + oh + k + ruokailut. + wc + kph + s + parvi,3,YES,475000.0,100.0,,475000.0,61.126074,26.138096,140 km,1 hour 37 mins,2024-08-05,2024-08-05
-"Kirveslahdentie 37, Laajapohja, Miehikkälä",https://www.etuovi.com/kohde/20829377,,2,NO,250000.0,61.0,,250000.0,60.68508989999999,27.600949,190 km,2 hours 0 mins,2024-08-05,2024-08-05
+"Kirveslahdentie 37, Laajapohja, Miehikkälä",https://www.etuovi.com/kohde/20829377,Mökki tai huvila,2,NO,250000.0,61.0,,250000.0,60.68508989999999,27.600949,190 km,2 hours 0 mins,2024-08-05,2024-08-05
 "Kalliosyrjäntie 133, Vehmersalmi, Kuopio",https://www.etuovi.com/kohde/580744,"Tupa, sauna",1,NO,55000.0,16.0,2003,59000.0,62.7152884,27.9480654,374 km,4 hours 0 mins,2024-08-05,2024-08-05
 "Puruntie 246 B, Tuukkala, Hirvensalmi",https://www.etuovi.com/kohde/w47876,2h,2,NO,249900.0,70.0,1976,249900.0,61.7898389,26.522793,223 km,2 hours 39 mins,2024-08-05,2024-08-05
 "Uittajantie 35, Öja, Kokkola",https://www.etuovi.com/kohde/80366374,"Vapaa-ajantontti, hirsisaunalla",1,NO,79000.0,,,79000.0,63.8415054,23.1249952,494 km,5 hours 22 mins,2024-08-05,2024-08-05
@@ -212,7 +212,7 @@ address,url,description,rooms,winterized,price,surface,year,original_price,latit
 "Paakkosentie 16, Kitsi, Lieksa",https://www.etuovi.com/kohde/w47747,1h + tupak,1,NO,48500.0,22.0,2016,48500.0,63.2554003,30.7223426,528 km,5 hours 50 mins,2024-08-05,2024-08-05
 "Avokidantie 38, Punkaharju, Savonlinna",https://www.etuovi.com/kohde/20515798,tupak + 2mh + pukuh + s,,NO,84000.0,50.0,1975,99000.0,61.7787733,29.4436802205988,347 km,3 hours 56 mins,2024-07-08,2024-08-05
 "Koikkalantie 1615, Koikkala, Juva",https://www.etuovi.com/kohde/80366858,"Tupa + keittokomero + makuuhuone + parvi, 41 m²",,NO,104800.0,41.0,1988,104800.0,61.70685915,27.89495385,285 km,3 hours 4 mins,2024-08-05,2024-08-05
-"Vitträskholmen, Vitträsk, Kirkkonummi",https://www.etuovi.com/kohde/80366548,,,NO,690000.0,,1932,690000.0,60.18097505,24.5057328733482,34.6 km,32 mins,2024-08-05,2024-08-05
+"Vitträskholmen, Vitträsk, Kirkkonummi",https://www.etuovi.com/kohde/80366548,Mökki tai huvila,,NO,690000.0,,1932,690000.0,60.18097505,24.5057328733482,34.6 km,32 mins,2024-08-05,2024-08-05
 "Majalahdentie 195, Jähdyspohja, Virrat",https://www.etuovi.com/kohde/576521,"Tupa, keittiö, pukuhuone, sauna",1,NO,43000.0,38.0,1970,49000.0,62.1923329,23.8225891,271 km,2 hours 59 mins,2024-07-08,2024-08-05
 "Luotoperäntie 20f, Tutjunniemi, Liperi",https://www.etuovi.com/kohde/9798372,2h + kk + wc,2,NO,85000.0,38.0,,85000.0,62.442522,29.610229,430 km,4 hours 48 mins,2024-08-05,2024-08-05
 "Rianniementie 25, Viinijärvi, Liperi",https://www.etuovi.com/kohde/80365605,"1 h, k",1,NO,42000.0,24.0,,42000.0,62.643797,29.2515979,408 km,4 hours 22 mins,2024-08-05,2024-08-05
@@ -234,7 +234,7 @@ address,url,description,rooms,winterized,price,surface,year,original_price,latit
 "Aittoniementie 181, Pilpala, Loppi",https://www.etuovi.com/kohde/21197085,"Tupa, kk, 2 alkovia, pukuh, s + okt, kalustosuoja",3,NO,110000.0,40.0,1979,110000.0,60.64982539999999,24.2537892,74.1 km,1 hour 5 mins,2024-08-05,2024-08-05
 "Länsirannantie 24, Koli, Lieksa",https://www.etuovi.com/kohde/80366738,3h + tupakeittiö + khh + ph + s + wc,3,NO,255000.0,99.5,2006,255000.0,63.164602,29.747653,492 km,5 hours 36 mins,2024-08-05,2024-08-05
 "Klopikkiluoto, Isojärvi, Leväsjoki, Siikainen",https://www.etuovi.com/kohde/581359,"Tupa, pkh, s",2,NO,98000.0,32.0,1962,98000.0,61.7468963,21.7975016,291 km,3 hours 27 mins,2024-08-05,2024-08-05
-"Kitkanperä 1a, Mourujärvi, Posio",https://www.etuovi.com/kohde/21357239,,,NO,74000.0,48.5,2003,74000.0,66.3677189,28.4568005,854 km,9 hours 35 mins,2024-08-05,2024-08-05
+"Kitkanperä 1a, Mourujärvi, Posio",https://www.etuovi.com/kohde/21357239,Mökki tai huvila,,NO,74000.0,48.5,2003,74000.0,66.3677189,28.4568005,854 km,9 hours 35 mins,2024-08-05,2024-08-05
 "Kylmäniemi 124, Isokylä, Kemijärvi",https://www.etuovi.com/kohde/21901261,"Tupakeittiö, mh, kuistihuone, pukuhuone, sauna",,NO,74000.0,69.0,2014,74000.0,66.6607217,27.6478183,939 km,10 hours 13 mins,2024-08-05,2024-08-05
 "Pörönlahdentie 53, Haapalahti, Joensuu",https://www.etuovi.com/kohde/21077905,tupa + kk + s,1,NO,57000.0,39.0,1982,57000.0,62.9638575,30.1527212,486 km,5 hours 22 mins,2024-08-05,2024-08-05
 "Kullasniementie 491, Pärnämäki, Joutsa",https://www.etuovi.com/kohde/80359791,6h + k + kph + s + takkah.,6,NO,745000.0,111.5,2002,745000.0,61.7124357,26.4663775,217 km,2 hours 29 mins,2024-08-05,2024-08-05
@@ -321,7 +321,7 @@ address,url,description,rooms,winterized,price,surface,year,original_price,latit
 "Inarijärventie 1650, Ivalo, Inari",https://www.etuovi.com/kohde/1372125,"Kabinetti, takkahuone, kph, s, keittiö / tarjoiluvälikkö, wc, erillinen yksiö omalla wc:llä, rantasauna.",3,NO,190000.0,143.0,,190000.0,68.7829825,27.3963979,"1,125 km",12 hours 41 mins,2024-07-16,2024-08-05
 "Koskenkyläntie 28B, Koskenkylä, Kuusamo",https://www.etuovi.com/kohde/580963,"tupakeittiö, pukuhuone, sauna",1,NO,67000.0,40.0,1970,67000.0,65.8968413,29.7964687,825 km,9 hours 10 mins,2024-07-16,2024-08-05
 "Seläntauksentie 1364, Alvajärvi, Pihtipudas",https://www.etuovi.com/kohde/80362297,Oh + mh + k + s + wc + yläkerta,3,NO,49000.0,53.0,1992,49000.0,63.4415271,25.3348213,417 km,4 hours 31 mins,2024-08-05,2024-08-05
-"Petäjäsniementie 48, MAAKESKI, Padasjoki",https://www.etuovi.com/kohde/80365092,,3,NO,465000.0,80.0,2012,465000.0,61.28768770000001,25.3899128,149 km,1 hour 45 mins,2024-07-16,2024-08-05
+"Petäjäsniementie 48, MAAKESKI, Padasjoki",https://www.etuovi.com/kohde/80365092,Mökki tai huvila,3,NO,465000.0,80.0,2012,465000.0,61.28768770000001,25.3899128,149 km,1 hour 45 mins,2024-07-16,2024-08-05
 "Hangaslahdentie 54, Luhanka, Luhanka",https://www.etuovi.com/kohde/1369870,"4h, k, 2vh, s, ph, pkh, kuisti, at., var.",4,NO,217000.0,104.0,1986,217000.0,61.7214823,25.5215058,215 km,2 hours 25 mins,2024-07-16,2024-08-05
 "Saunarannantie 67, Horontaival, Vesanto",https://www.etuovi.com/kohde/21243972,tupa / keittiö + 2mh + s + psh + wc + et + tk + kuisti + terassi,,YES,229000.0,71.0,2012,229000.0,62.89000409999999,26.1430932,363 km,4 hours 15 mins,2024-07-16,2024-08-05
 "Ahmasjärventie 78, Ahmasjärvi, Utajärvi",https://www.etuovi.com/kohde/80366046,3h + k + s + kph + parvi,3,NO,95000.0,72.0,1993,95000.0,64.6399466,26.3904221,578 km,6 hours 32 mins,2024-07-16,2024-08-05
@@ -336,7 +336,7 @@ address,url,description,rooms,winterized,price,surface,year,original_price,latit
 "Suusinsaarentie 183 a, Lintusalo, Puumala",https://www.etuovi.com/kohde/573215,"Tupakeittiö, 2mh, parvi, ph, s",3,NO,359000.0,96.0,2004,379000.0,61.4110252,27.9956109,321 km,4 hours 9 mins,2024-07-08,2024-08-05
 "Rutalahdentie 75, Hyyrylä, Kangasniemi",https://www.etuovi.com/kohde/580719,"Tupakeittiö, alkovi, s",1,NO,79000.0,26.0,1975,79000.0,62.2053539,26.473938,266 km,3 hours 2 mins,2024-07-16,2024-08-05
 "Levonkallio 57, Tyrväntö, Hattula",https://www.etuovi.com/kohde/1373022,"2h, kk, terassi + rantasauna.",2,NO,138000.0,33.0,1966,138000.0,61.1472361,24.3175409,115 km,1 hour 21 mins,2024-07-16,2024-08-05
-"Ihalemmentie 439, Hattula",https://www.etuovi.com/kohde/80357602,,,NO,297000.0,,,297000.0,61.0494141,24.2898594,109 km,1 hour 11 mins,2024-07-16,2024-08-05
+"Ihalemmentie 439, Hattula",https://www.etuovi.com/kohde/80357602,Mökki tai huvila,,NO,297000.0,,,297000.0,61.0494141,24.2898594,109 km,1 hour 11 mins,2024-07-16,2024-08-05
 "Louhijärventie , Rasinkylä, Puolanka",https://www.etuovi.com/kohde/w46439,tupak + 1h,2,NO,98000.0,43.0,2008,111111.0,64.8233846,27.9562097,654 km,7 hours 15 mins,2024-07-16,2024-08-05
 "Ilvesniementie 199, Laitikkala, Pälkäne",https://www.etuovi.com/kohde/31708520,"2h, k, s, khh, kph, terassi + ullakkovaraus",2,YES,218000.0,91.5,2005,218000.0,61.2954181,24.4650144,137 km,1 hour 35 mins,2024-07-16,2024-08-05
 "Koivuluhdantie 59, Lavia, Pori",https://www.etuovi.com/kohde/80335023,"3h, k, s, ph, puucee",3,NO,159000.0,40.0,1969,164000.0,61.5884708,22.3641603,261 km,2 hours 50 mins,2024-07-08,2024-08-05
@@ -350,17 +350,17 @@ address,url,description,rooms,winterized,price,surface,year,original_price,latit
 "Metjotanniementie 168g, Hirvensalmi",https://www.etuovi.com/kohde/39502834,"Tupa, k, mh, parvi, katettu terassi",2,NO,149000.0,56.0,1992,149000.0,61.690417,26.9539114,224 km,2 hours 29 mins,2024-07-16,2024-08-05
 "Jussilantie 59, Raikku, Pälkäne",https://www.etuovi.com/kohde/80364590,oh / k + alkovi + mh + ph + th + s + pukuh.,3,NO,165000.0,100.0,1974,165000.0,61.4146775,24.3269371,150 km,1 hour 43 mins,2024-07-16,2024-08-05
 "Selänrannantie 191, Ristiina, Mikkeli",https://www.etuovi.com/kohde/1373555,"3h, k, varastohuone, tuulikaappi ja lasitettu terassi",3,NO,179000.0,60.0,1975,179000.0,61.5038747,27.50725765589131,244 km,2 hours 46 mins,2024-07-16,2024-08-05
-"Hinttolan saari, VASTAMÄKI 576-403-1-145 , Padasjoki",https://www.etuovi.com/kohde/55654060,,,NO,98000.0,12.0,,98000.0,61.33121939999999,25.4974552,145 km,1 hour 42 mins,2024-07-16,2024-08-05
+"Hinttolan saari, VASTAMÄKI 576-403-1-145 , Padasjoki",https://www.etuovi.com/kohde/55654060,Mökki tai huvila,,NO,98000.0,12.0,,98000.0,61.33121939999999,25.4974552,145 km,1 hour 42 mins,2024-07-16,2024-08-05
 "Korpiniementie 67 B, Rannankylä, Rautavaara",https://www.etuovi.com/kohde/20975147,oh + k + mh + ph + s + pukuh + veranta + wc,,YES,98000.0,72.0,1973,98000.0,63.4941835,28.2984028,485 km,5 hours 16 mins,2024-07-16,2024-08-05
 "Siikamäentie 50c, Leuhu, Saarijärvi",https://www.etuovi.com/kohde/w36339,tupakeittiö + parvi + sauna + pukuhuone,1,NO,64000.0,25.5,1986,69000.0,62.68660260000001,25.2360009,329 km,3 hours 36 mins,2024-07-08,2024-08-05
-"Peltolantie 93, Kukkola, Pälkäne",https://www.etuovi.com/kohde/43430638,,,NO,126000.0,,1977,126000.0,61.3377237,24.4346873,145 km,1 hour 37 mins,2024-07-16,2024-08-05
+"Peltolantie 93, Kukkola, Pälkäne",https://www.etuovi.com/kohde/43430638,Mökki tai huvila,,NO,126000.0,,1977,126000.0,61.3377237,24.4346873,145 km,1 hour 37 mins,2024-07-16,2024-08-05
 "Lapinsaari 20, Kesamonsaari, Savonlinna",https://www.etuovi.com/kohde/1370920,"1h, alkovi, sauna",1,NO,49000.0,25.0,2016,59000.0,61.81648019999999,28.6473213,339 km,4 hours 11 mins,2024-07-08,2024-08-05
 "Talvitie 137B, Paalasmaa, Juuka",https://www.etuovi.com/kohde/21792882,Tpk + 2 pientä huonetta (alkovia) + komp.sisäwc + eteistilat,,YES,108000.0,64.0,2008,124000.0,63.273678,29.44485,515 km,6 hours 12 mins,2024-07-08,2024-08-05
 "Matinsaarenraitti 35, Itä- Karttula, Kuopio",https://www.etuovi.com/kohde/20228242,3h + k + s + khh,3,YES,365000.0,107.0,2014,365000.0,62.9069356,27.2062891,393 km,4 hours 22 mins,2024-07-16,2024-08-05
 "Käsämäntie 16, Sotkuma, Polvijärvi",https://www.etuovi.com/kohde/20297004,"tupakeittiö, makuuhuone.",,YES,55000.0,20.0,1990,55000.0,62.73403980000001,29.4248565,419 km,4 hours 36 mins,2024-07-16,2024-08-05
 "Erkkilänjuntu 84, Niinimaa, Alavus",https://www.etuovi.com/kohde/559453,tupak. + 2h,2,NO,119000.0,31.0,1997,119000.0,62.6288128,23.4143863,327 km,3 hours 38 mins,2024-07-08,2024-08-05
 "Siikaniementie 202, Orala, Kangasniemi",https://www.etuovi.com/kohde/574201,"Tupa, k",1,NO,69000.0,28.0,1970,79000.0,62.095829,26.451163,258 km,2 hours 53 mins,2024-07-08,2024-08-05
-"Ahvenniementie 172, Nilsiä, Kuopio",https://www.etuovi.com/kohde/21092642,,,YES,279000.0,76.5,2019,279000.0,63.0695208,27.9630376,435 km,4 hours 45 mins,2024-07-16,2024-08-05
+"Ahvenniementie 172, Nilsiä, Kuopio",https://www.etuovi.com/kohde/21092642,Mökki tai huvila,,YES,279000.0,76.5,2019,279000.0,63.0695208,27.9630376,435 km,4 hours 45 mins,2024-07-16,2024-08-05
 "Uimaniementie 105, Vuottolahti, Kajaani",https://www.etuovi.com/kohde/21759347,2h + tupakeittiö + ph + s + wc + tekninen tila,,NO,275000.0,88.5,2008,295000.0,64.1858518,27.2230756,551 km,6 hours 2 mins,2024-07-16,2024-08-05
 "Isosalon saari, Lavia, Pori",https://www.etuovi.com/kohde/80365113,2h + kk + saunarak. + ulkowc + varastorak.,2,NO,49000.0,40.0,1973,49000.0,61.57138620000001,22.4687674,255 km,2 hours 45 mins,2024-07-16,2024-08-05
 "Rantatie 206 b, Savonkylä, Lappajärvi",https://www.etuovi.com/kohde/544685,2h + k + kh + s + varasto,2,NO,229000.0,80.0,1989,229000.0,63.04772499999999,23.6453736,372 km,4 hours 10 mins,2024-07-08,2024-08-05
@@ -405,7 +405,7 @@ address,url,description,rooms,winterized,price,surface,year,original_price,latit
 "Kassinsaari 45, Visuvesi, Ruovesi",https://www.etuovi.com/kohde/580988,Tupa ja makuutila,1,NO,105000.0,19.5,1960,105000.0,62.1238298,23.9211335,260 km,2 hours 50 mins,2024-07-08,2024-08-05
 "Riitalankuja 9, Räyskälä, Loppi",https://www.etuovi.com/kohde/80364777,1h + kk + s,1,NO,35000.0,20.0,1972,35000.0,60.7500046,24.0571191,106 km,1 hour 15 mins,2024-07-08,2024-08-05
 "Kristallikuja 25, Porras, Tammela",https://www.etuovi.com/kohde/20259295,"1h, tupak., et + rantasauna + at",2,YES,288000.0,40.0,1933,288000.0,60.786967,24.0474195,106 km,1 hour 17 mins,2024-07-08,2024-08-05
-"Paakkunalantie, Punkaharju, Vaara, Savonlinna",https://www.etuovi.com/kohde/20090744,,,NO,70000.0,,,0.0,61.7559118,29.3930643,341 km,3 hours 46 mins,2024-07-08,2024-08-05
+"Paakkunalantie, Punkaharju, Vaara, Savonlinna",https://www.etuovi.com/kohde/20090744,Mökki tai huvila,,NO,70000.0,,,0.0,61.7559118,29.3930643,341 km,3 hours 46 mins,2024-07-08,2024-08-05
 "Ritoniementie 211, Sulkava",https://www.etuovi.com/kohde/564646,"4h, k, kph, wc, parvi",4,NO,189000.0,80.0,2008,189000.0,61.6502212,28.5766508,327 km,3 hours 38 mins,2024-07-08,2024-08-05
 "Tulivedentie, Kyrönlahti, Ylöjärvi",https://www.etuovi.com/kohde/20993686,"tupakeittiö, parvi",,NO,115000.0,30.3,1977,115000.0,61.7786367,23.5087095,215 km,2 hours 17 mins,2024-07-08,2024-08-05
 "Karhusuontie 253, Lappeenranta",https://www.etuovi.com/kohde/62179278,"tupa, makuutila, keittokomero",,NO,89000.0,33.0,1987,89000.0,60.8572736,27.911087315208825,220 km,2 hours 25 mins,2024-07-08,2024-08-05
@@ -441,13 +441,13 @@ address,url,description,rooms,winterized,price,surface,year,original_price,latit
 "Tapionrannantie 35, Sumiainen, Äänekoski",https://www.etuovi.com/kohde/580849,"1h, kk, alkovi",2,NO,69000.0,18.0,1972,69000.0,62.7408345,25.9732456,337 km,3 hours 42 mins,2024-07-08,2024-08-05
 "Hiidenmäentie 137, Luusniemi, Kangasniemi",https://www.etuovi.com/kohde/580147,"Tupakeittiö, mh",2,NO,138000.0,45.0,1967,138000.0,61.97754815,26.995912500000003,262 km,2 hours 55 mins,2024-07-08,2024-08-05
 "Kouervaarantie 16, Holtinniemi, Kuusamo",https://www.etuovi.com/kohde/580770,"1h, kk, s",1,NO,68000.0,21.0,1974,68000.0,66.1470049,28.814802,831 km,9 hours 16 mins,2024-07-08,2024-08-05
-"Hiidensalmentie 27, Rapattila, Lappeenranta",https://www.etuovi.com/kohde/9661866,,,NO,62000.0,,,62000.0,60.92762339999999,28.4435848,241 km,2 hours 49 mins,2024-07-08,2024-08-05
+"Hiidensalmentie 27, Rapattila, Lappeenranta",https://www.etuovi.com/kohde/9661866,Mökki tai huvila,,NO,62000.0,,,62000.0,60.92762339999999,28.4435848,241 km,2 hours 49 mins,2024-07-08,2024-08-05
 "Vesannontie 1720, Rautalampi",https://www.etuovi.com/kohde/66107069,tupak + h + et,2,YES,39500.0,50.0,1932,39500.0,62.7116847,26.8815645,343 km,3 hours 48 mins,2024-07-08,2024-08-05
 "Kokkosenkyläntie 1612, Halmeniemi, Mäntyharju",https://www.etuovi.com/kohde/60722933,"Mökki 3h, k, Rantasauna, Aitta, Laavu",3,YES,199000.0,46.0,2002,199000.0,61.2962658,27.1607909,196 km,2 hours 15 mins,2024-07-08,2024-08-05
 "Nääringinrannantie 73, Näärinki, Juva",https://www.etuovi.com/kohde/58341573,"Takkatupa, keittiö ja yläkerrassa makuuhuone",,NO,42000.0,34.0,1973,42000.0,61.89879709999999,27.668359,266 km,2 hours 48 mins,2024-07-08,2024-08-05
 "Vääräjärventie 100, Pollari, Alavus",https://www.etuovi.com/kohde/580177,tupa + pkh + s,1,NO,51000.0,32.0,1968,51000.0,62.49541129999999,23.693838,310 km,3 hours 27 mins,2024-07-08,2024-08-05
 "Pitkänrannantie 104 B, Hirviniemi, Pielavesi",https://www.etuovi.com/kohde/21098592,"tupa, makuutila, sauna, terassi",1,NO,88000.0,25.0,2001,88000.0,63.0872608,26.5730079,402 km,4 hours 39 mins,2024-07-08,2024-08-05
-"Mustalahdentie 181, Mietinsaari, Ruokolahti",https://www.etuovi.com/kohde/20159450,,,NO,149800.0,56.0,,149800.0,61.2183922,28.622292,296 km,3 hours 49 mins,2024-07-08,2024-08-05
+"Mustalahdentie 181, Mietinsaari, Ruokolahti",https://www.etuovi.com/kohde/20159450,Mökki tai huvila,,NO,149800.0,56.0,,149800.0,61.2183922,28.622292,296 km,3 hours 49 mins,2024-07-08,2024-08-05
 "Savisaari Revonpesä, Koutaniemi, Kajaani",https://www.etuovi.com/kohde/21738059,"2mh, tupa, kk, ph, s, wc, parvella 2 h",5,YES,95000.0,116.0,1986,109000.0,64.2634045,27.6031406,557 km,6 hours 7 mins,2024-07-08,2024-08-05
 "Aurinkorinteentie 33, Savonlinna",https://www.etuovi.com/kohde/63665563,"Tupa, tupak., 3mh, kph / khh, s, wc, 3xkuisti",4,YES,399500.0,127.0,2008,399500.0,61.79474775,29.29045112048717,351 km,3 hours 57 mins,2024-07-08,2024-08-05
 "Haminatie 4b, Sahanranta, Vaala",https://www.etuovi.com/kohde/w44329,"Tupakeittiö, 2mh, kph, sauna, terassi, kotalaavu",3,NO,295000.0,53.0,2019,295000.0,64.5518779,26.8333596,575 km,6 hours 30 mins,2024-07-08,2024-08-05
@@ -490,7 +490,7 @@ address,url,description,rooms,winterized,price,surface,year,original_price,latit
 "Tonttulahdentie 63, Lepsala, Hartola",https://www.etuovi.com/kohde/20781838,"tupa, kk, psh, s, terassi",1,NO,100000.0,47.0,1968,100000.0,61.42382249999999,26.1838934,161 km,1 hour 45 mins,2024-07-08,2024-08-05
 "Huvilatie 32, Halli, Jämsä",https://www.etuovi.com/kohde/w43836,2h + k,3,NO,125000.0,40.0,1964,136000.0,61.8619823,25.1802074,219 km,2 hours 30 mins,2024-07-08,2024-08-05
 "Tervo, Juurikkaniemi, Tervo",https://www.etuovi.com/kohde/20153605,tupakeittiö + 1 mh + sauna + pukuhuone,,NO,199000.0,40.0,1983,199000.0,62.95647089999999,26.7604237,377 km,4 hours 14 mins,2024-07-08,2024-08-05
-"Niementie 121, Pomarkku",https://www.etuovi.com/kohde/38976644,,,NO,99000.0,,,99000.0,61.7480539,22.0134689,283 km,3 hours 21 mins,2024-07-08,2024-08-05
+"Niementie 121, Pomarkku",https://www.etuovi.com/kohde/38976644,Mökki tai huvila,,NO,99000.0,,,99000.0,61.7480539,22.0134689,283 km,3 hours 21 mins,2024-07-08,2024-08-05
 "Nuijimalahdentie 6, Liikola, Sysmä",https://www.etuovi.com/kohde/579534,"2h, kk, kph / wc, parvi",,NO,235000.0,61.8,2002,235000.0,61.6440109,25.6334123,198 km,2 hours 9 mins,2024-07-08,2024-08-05
 "Tukkitie 25, Liesjärvi, Keuruu",https://www.etuovi.com/kohde/w43823,3h + k + s + ph / wc + kesäsauna + talousrakennus,4,YES,196000.0,78.5,2011,196000.0,62.4506662,24.5032123,310 km,3 hours 31 mins,2024-07-08,2024-08-05
 "Ritolantie 24, Ylikylä, Nurmes",https://www.etuovi.com/kohde/20746158,Tupa + kk,,NO,27000.0,29.0,1986,27000.0,63.6598589,29.027026,526 km,5 hours 47 mins,2024-07-08,2024-08-05
@@ -526,7 +526,7 @@ address,url,description,rooms,winterized,price,surface,year,original_price,latit
 "Ikoinniementie 257, Ikoinniemi, Savonlinna",https://www.etuovi.com/kohde/1373067,"3h, k, parvi, s",3,NO,180000.0,82.0,2000,180000.0,61.7834692,29.0653443,344 km,3 hours 47 mins,2024-08-05,2024-08-05
 "Jaarnintie 151, Karjalohja, Lohja",https://www.etuovi.com/kohde/20513153,tupa + kk + makuutila (ja toisessa mökissä sauna),,NO,133000.0,42.0,,150000.0,60.2883376,23.675509,94.6 km,1 hour 16 mins,2024-07-08,2024-08-05
 "Nunnamaantie, Otamo, Siikainen",https://www.etuovi.com/kohde/21789171,"(1h, kk, rantasauna)",1,NO,79000.0,30.0,2005,79000.0,61.8282542,21.7689148,281 km,3 hours 28 mins,2024-07-08,2024-08-05
-"Rianniementie 28 a, Viinijärvi, Liperi",https://www.etuovi.com/kohde/80364112,,1,NO,67000.0,25.0,1966,67000.0,62.643797,29.2515979,408 km,4 hours 27 mins,2024-07-08,2024-08-05
+"Rianniementie 28 a, Viinijärvi, Liperi",https://www.etuovi.com/kohde/80364112,Mökki tai huvila,1,NO,67000.0,25.0,1966,67000.0,62.643797,29.2515979,408 km,4 hours 27 mins,2024-07-08,2024-08-05
 "Erkkolantie 9 B, Kemilä, Kuusamo",https://www.etuovi.com/kohde/580107,"tupa, k, mh, parvi",2,NO,65000.0,38.9,1984,65000.0,65.87649619999999,29.4581838,805 km,8 hours 50 mins,2024-07-08,2024-08-05
 "Pisminniementie 285, Ukonniemi, Kangasniemi",https://www.etuovi.com/kohde/579927,"oh, k, mh, 2x eteinen, kylpyhuone",2,NO,179000.0,68.0,1972,179000.0,61.9203857,26.8006101,260 km,2 hours 59 mins,2024-07-08,2024-08-05
 "Pitkärannantie 132, Laukkavirta, Laukaa",https://www.etuovi.com/kohde/579958,"1h, tupakeittiö",1,NO,85000.0,26.0,1972,85000.0,62.4006428,26.0435307,287 km,3 hours 10 mins,2024-07-08,2024-08-05
@@ -545,12 +545,12 @@ address,url,description,rooms,winterized,price,surface,year,original_price,latit
 "Tuohisaarentie 941, Tuohisaari, Savonlinna",https://www.etuovi.com/kohde/579320,"Tupa, kk, mh",1,NO,128000.0,38.0,1993,128000.0,61.7235077,28.6637749,327 km,4 hours 5 mins,2024-07-08,2024-08-05
 "Patoniementie 26, Ylikitka, Posio",https://www.etuovi.com/kohde/20638165,"Tupa, k, 2 mh, yläkerran huone",,NO,75000.0,52.3,2000,82000.0,66.1145082,28.4335885,848 km,9 hours 22 mins,2024-07-08,2024-08-05
 "Ristimäentie 135, Kouma, Laitila",https://www.etuovi.com/kohde/w43276,4h + tupak + ma + kph + wc + p + s + var,4,YES,199500.0,95.0,1985,199500.0,60.89221919999999,21.5528391,236 km,2 hours 36 mins,2024-07-08,2024-08-05
-"Kilvensalontie 91, Kilvensalo, Jyväskylä",https://www.etuovi.com/kohde/20348965,,,NO,345000.0,70.0,2003,345000.0,61.87225419999999,25.6265499,233 km,2 hours 36 mins,2024-07-08,2024-08-05
+"Kilvensalontie 91, Kilvensalo, Jyväskylä",https://www.etuovi.com/kohde/20348965,Mökki tai huvila,,NO,345000.0,70.0,2003,345000.0,61.87225419999999,25.6265499,233 km,2 hours 36 mins,2024-07-08,2024-08-05
 "Kivijärventie 2, Liesjärvi, Tammela",https://www.etuovi.com/kohde/66073053,"Saunamökki, (tupa + sauna), vanha mökki, käymälä, puusuoja.",1,NO,39500.0,15.0,2015,39500.0,60.7003704,23.9386856,88.2 km,1 hour 14 mins,2024-07-08,2024-08-05
 "Museotie 295, Kelvä, Lieksa",https://www.etuovi.com/kohde/579132,2h,2,NO,93000.0,50.0,1981,93000.0,63.06802269999999,30.0939244,493 km,5 hours 33 mins,2024-07-08,2024-08-05
 "Jouttiahontie 51, Nerkoo, Ylöjärvi",https://www.etuovi.com/kohde/20437027,4 h + k + s,4,NO,59000.0,61.0,1980,59000.0,62.110775,23.310042,267 km,2 hours 59 mins,2024-07-08,2024-08-05
 "Viianlahdentie 121, SEPÄNKYLÄ, Puumala",https://www.etuovi.com/kohde/80362513,tupa + pukuh + sauna + terassi,1,NO,129000.0,40.0,1972,129000.0,61.5238519,28.1777513,294 km,3 hours 15 mins,2024-07-08,2024-08-05
-"Knuutilantie 372, Sali, Tervo",https://www.etuovi.com/kohde/20835770,,,NO,55000.0,25.0,,63000.0,62.9895805,26.7407572,382 km,4 hours 20 mins,2024-07-08,2024-08-05
+"Knuutilantie 372, Sali, Tervo",https://www.etuovi.com/kohde/20835770,Mökki tai huvila,,NO,55000.0,25.0,,63000.0,62.9895805,26.7407572,382 km,4 hours 20 mins,2024-07-08,2024-08-05
 "Härkäniementie 14-24, Norola, Mikkeli",https://www.etuovi.com/kohde/w43247,3mh + avok + oh + khh + s + ph + 2xwc + parvi,,YES,299000.0,139.5,2005,299000.0,61.7023674,27.4027256,232 km,2 hours 27 mins,2024-07-08,2024-08-05
 "Haukantie 441, Sammatti, Lohja",https://www.etuovi.com/kohde/1371966,"2h, kk, s",2,NO,145000.0,39.0,1970,109000.0,60.3546841,23.7553657,88.0 km,1 hour 2 mins,2024-07-08,2024-08-05
 "Hakolahdentie 18, Kongonsaari, Savonlinna",https://www.etuovi.com/kohde/20135955,tupakeittiö + parvi + 2 saunaa,,NO,98000.0,30.0,1988,98000.0,61.6936892,29.0221107,370 km,4 hours 40 mins,2024-07-08,2024-08-05
@@ -732,7 +732,7 @@ address,url,description,rooms,winterized,price,surface,year,original_price,latit
 "Kumpusenmäentie, Kumpusenmäki , Sonkajärvi",https://www.etuovi.com/kohde/44961796,Tupakeittiö + pukuhuone + sauna,,NO,47000.0,27.0,1974,47000.0,63.7090709,27.4201539,488 km,5 hours 17 mins,2024-07-08,2024-08-05
 "Rimpantie 43, Hirvensalmi",https://www.etuovi.com/kohde/61268534,"Alak: Tupak, mh, kph / wc, s, pukuh, tk, ter, yläk: mh, aula, p",3,YES,195000.0,108.0,1997,195000.0,61.6076569,26.589546923231133,196 km,2 hours 12 mins,2024-07-08,2024-08-05
 "Noisniementie 23d, Ruvaslahti, Polvijärvi",https://www.etuovi.com/kohde/20771985,3h + k + s,,NO,79000.0,57.0,1990,79000.0,62.9793121,29.5305111,455 km,5 hours 7 mins,2024-07-08,2024-08-05
-"Iso-poro 62, Iso-Poro, Jyväskylä",https://www.etuovi.com/kohde/80360540,,1,NO,51000.0,,,51000.0,62.16312670000001,25.7873845,268 km,3 hours 3 mins,2024-07-08,2024-08-05
+"Iso-poro 62, Iso-Poro, Jyväskylä",https://www.etuovi.com/kohde/80360540,Mökki tai huvila,1,NO,51000.0,,,51000.0,62.16312670000001,25.7873845,268 km,3 hours 3 mins,2024-07-08,2024-08-05
 "Ahjopolku 8, Keho, Nokia",https://www.etuovi.com/kohde/1371386,"1h, kt, parvi + terassi + varasto, biowc",1,NO,42000.0,25.0,1974,42000.0,61.4502681,23.5033996,188 km,1 hour 57 mins,2024-07-08,2024-08-05
 "Vuohiniementie 44, Inkerilä, Kouvola",https://www.etuovi.com/kohde/21208864,"Tupa, kph, sauna, makuuparvi, terassi, perinnesauna",1,YES,229000.0,25.0,2013,249000.0,60.9990698,27.0658284,168 km,2 hours 0 mins,2024-07-08,2024-08-05
 "Nurmelantie 144, Eräjärvi, Orivesi",https://www.etuovi.com/kohde/21938114,"Mökki, sauna, autokatos / varasto, aitta, varasto.",,YES,298000.0,45.0,1991,298000.0,61.5672073,24.498361,183 km,2 hours 18 mins,2024-07-08,2024-08-05
@@ -759,18 +759,18 @@ address,url,description,rooms,winterized,price,surface,year,original_price,latit
 "Huhtisaari, Ruskeala, Joutsa",https://www.etuovi.com/kohde/578742,"Tupa, makuusoppi, kk, psh, s, phk, makuuaitta, veranta",1,NO,120000.0,58.5,1985,120000.0,61.7421434,26.1149432,196 km,2 hours 3 mins,2024-07-08,2024-08-05
 "Koutturin saaripaikka, Korpilahti, Putkilahti, Jyväskylä",https://www.etuovi.com/kohde/579171,"3 makuusoppea, tupa / oh, k, pukuh., sauna",4,NO,95000.0,71.5,1967,95000.0,61.88837059999999,25.7237778,226 km,2 hours 26 mins,2024-07-08,2024-08-05
 "Kiuasniementie 8A, Kamulankylä, Pyhäntä",https://www.etuovi.com/kohde/80362200,oh + k + 2mh,3,NO,89000.0,35.0,1974,89000.0,64.022949,26.3061983,516 km,5 hours 43 mins,2024-07-08,2024-08-05
-"Jänissalontie 640 a, Vehmersalmi, Kuopio",https://www.etuovi.com/kohde/80360972,,6,NO,89000.0,,,89000.0,62.7273554,28.2430225,400 km,4 hours 25 mins,2024-07-08,2024-08-05
+"Jänissalontie 640 a, Vehmersalmi, Kuopio",https://www.etuovi.com/kohde/80360972,Mökki tai huvila,6,NO,89000.0,,,89000.0,62.7273554,28.2430225,400 km,4 hours 25 mins,2024-07-08,2024-08-05
 "Airakselan Kumpusaari 28, Airaksela, Kuopio",https://www.etuovi.com/kohde/20995895,"Tupakeittiö, 3 h, aula, 2 kuistia, kesäkeittiö, rantasauna, grillikatos, ulkowc / varasto",,NO,118000.0,0.0,,118000.0,62.757444,27.4005045,357 km,4 hours 3 mins,2024-07-08,2024-08-05
 "Paajalansaari, Satamatie 10, Anttola, Mikkeli",https://www.etuovi.com/kohde/1370555,"2h, k",2,NO,160000.0,40.0,1990,160000.0,61.58349759999999,27.6515641,249 km,2 hours 41 mins,2024-07-08,2024-08-05
 "Muhosentie 162a, Niemisvesi, Ähtäri",https://www.etuovi.com/kohde/21901638,Oh + k + mh + wc + s + pkh,,NO,129000.0,60.0,1973,138000.0,62.5747769,24.2569257,331 km,3 hours 42 mins,2024-07-08,2024-08-05
 "Kureniemi 24, Salonsaari, Asikkala",https://www.etuovi.com/kohde/80361657,"Oh, avok, 2mh, parvi, p, terassi",3,NO,319000.0,50.0,2000,349000.0,61.22263909999999,25.5960854,135 km,1 hour 39 mins,2024-07-08,2024-08-05
-"Kelveneenpolku 7, Virmajärvi, Savitaipale",https://www.etuovi.com/kohde/20433436,,,NO,85000.0,50.0,,85000.0,61.14820590000001,27.4692816,201 km,2 hours 25 mins,2024-07-08,2024-08-05
+"Kelveneenpolku 7, Virmajärvi, Savitaipale",https://www.etuovi.com/kohde/20433436,Mökki tai huvila,,NO,85000.0,50.0,,85000.0,61.14820590000001,27.4692816,201 km,2 hours 25 mins,2024-07-08,2024-08-05
 "Siikakoskentie 769, Mikkeli",https://www.etuovi.com/kohde/1370792,"Keittiö, tupa, oh / mh, et, vintti, terassi",2,NO,145000.0,60.0,1910,145000.0,61.7468294,27.69737255,251 km,2 hours 40 mins,2024-07-08,2024-08-05
 "Luhtitie 48 a, Kylmäkoski / Tipuri, Akaa",https://www.etuovi.com/kohde/579196,"Tupa, kk, mh, pkh, s, avokuisti",2,NO,116000.0,40.0,1977,116000.0,61.1736258,23.7229658,149 km,1 hour 32 mins,2024-07-08,2024-08-05
 "Hietatie 18, Sirkkakoski, Pello",https://www.etuovi.com/kohde/w38248,"Alakerta: olohuone, keittiö, pesuhuone, sauna, makuuhuone, wc; YLÄKERTA: makuuhuone, aula, kaksi alkovia, parveke",3,YES,255000.0,80.0,2008,255000.0,66.6792121,24.3785119,831 km,9 hours 39 mins,2024-07-08,2024-08-05
 "Pankalahdentie 414, Mäntyharju, Mäntyharju",https://www.etuovi.com/kohde/578717,"3h, s, terassi",3,NO,139000.0,80.0,1979,139000.0,61.3239321,26.617815007321976,175 km,2 hours 0 mins,2024-07-08,2024-08-05
 "Teerenranta 32, Orivesi, Orivesi",https://www.etuovi.com/kohde/21829090,Tupakeitti + makuuhuone + wc,,YES,169000.0,38.0,,169000.0,61.6666441,24.2890347,212 km,2 hours 21 mins,2024-07-08,2024-08-05
-"Hautasaari, Hautasaari, Evijärvi",https://www.etuovi.com/kohde/80360369,,1,NO,59000.0,24.0,1997,59000.0,63.40407510000001,23.46714,418 km,4 hours 47 mins,2024-07-08,2024-08-05
+"Hautasaari, Hautasaari, Evijärvi",https://www.etuovi.com/kohde/80360369,Mökki tai huvila,1,NO,59000.0,24.0,1997,59000.0,63.40407510000001,23.46714,418 km,4 hours 47 mins,2024-07-08,2024-08-05
 "Lietvedentie 1930, Puumala",https://www.etuovi.com/kohde/1370824,"Tupa, kk, 2xmakuukammari",3,NO,110000.0,51.0,,110000.0,61.5470486,27.9620985,274 km,2 hours 58 mins,2024-07-08,2024-08-05
 "Katikkasaari 37, Veikkanen, Luumäki",https://www.etuovi.com/kohde/21306082,"2h, kk, parvi",2,NO,120000.0,29.0,1984,120000.0,61.00069155,27.63814075590849,214 km,2 hours 25 mins,2024-07-08,2024-08-05
 "Kalliokärjentie 5, Soiniemi, Sysmä",https://www.etuovi.com/kohde/578755,"2h, kk, wc varaus, yläkerta, parveke",3,NO,370000.0,62.0,1989,370000.0,61.6188023,25.5789267,199 km,2 hours 13 mins,2024-07-08,2024-08-05
@@ -779,7 +779,7 @@ address,url,description,rooms,winterized,price,surface,year,original_price,latit
 "Myllysaari 137, Kisko, Salo",https://www.etuovi.com/kohde/1371056,"2h, kk + saunamökki + vierasmökki",2,NO,125000.0,40.0,1984,125000.0,60.2477826,23.4753352,108 km,1 hour 17 mins,2024-07-08,2024-08-05
 "Rytinkisalmentie 2922, Pudasjärvi",https://www.etuovi.com/kohde/1370661,"Oh, k, parvi",2,NO,140000.0,50.0,1991,140000.0,65.6389239,27.4002725,738 km,8 hours 20 mins,2024-07-08,2024-08-05
 "Pellmänton 15, Lepplax Pedersören, kunta",https://www.etuovi.com/kohde/20909189,Keittiö + makuuparvi,,NO,34500.0,22.0,,34500.0,63.7119037,22.8251251,478 km,5 hours 21 mins,2024-07-08,2024-08-05
-"Kaikuniementie 19, Ahveninen / Sorvinginsalmi, Joensuu",https://www.etuovi.com/kohde/80362028,,2,NO,135000.0,50.0,1970,135000.0,62.99116529999999,30.0720016,483 km,5 hours 22 mins,2024-07-08,2024-08-05
+"Kaikuniementie 19, Ahveninen / Sorvinginsalmi, Joensuu",https://www.etuovi.com/kohde/80362028,Mökki tai huvila,2,NO,135000.0,50.0,1970,135000.0,62.99116529999999,30.0720016,483 km,5 hours 22 mins,2024-07-08,2024-08-05
 "Padankonnuntie 17, Kyynärö, Pälkäne",https://www.etuovi.com/kohde/21471456,2h + tupak + kph / wc + rantas,,YES,135000.0,44.0,,135000.0,61.3528073,24.8201407,153 km,1 hour 56 mins,2024-07-08,2024-08-05
 "Munaniementie 73e, Rikkaranta, Outokumpu",https://www.etuovi.com/kohde/21939691,tupa + k + mh + makuulakovi ja terassi,2,NO,58500.0,45.0,1978,58500.0,62.8162067,28.8096699,428 km,4 hours 52 mins,2024-07-08,2024-08-05
 "Nurmentie 74, Vanha-Lahti, Rauma",https://www.etuovi.com/kohde/576579,"Päärakennus huone ja keittiö, rantasaunarakennus 1h, kk ja sauna",3,NO,198000.0,90.0,1964,198000.0,61.1578158,21.4859501,263 km,2 hours 54 mins,2024-07-08,2024-08-05
@@ -799,13 +799,13 @@ address,url,description,rooms,winterized,price,surface,year,original_price,latit
 "Vaaluniementie 16 D, Vaaluvirta, Heinävesi",https://www.etuovi.com/kohde/21984327,"Tupa, pkh, s, kuisti",,NO,87000.0,17.4,2003,87000.0,62.30215999999999,28.6277784,378 km,4 hours 15 mins,2024-07-08,2024-08-05
 "Varisniementie 29 B, Varistaipale, Heinävesi",https://www.etuovi.com/kohde/578614,"Tupa, 2mh, k",3,NO,98000.0,66.0,,98000.0,62.537525,28.6247963,367 km,4 hours 4 mins,2024-07-08,2024-08-05
 "Yli-Utoksentie 80 b, Puokio, PUOLANKA",https://www.etuovi.com/kohde/67702955,"tupak, parvi, sauna, pesuhuone",2,YES,78000.0,46.0,2009,78000.0,64.78628189999999,27.2269171,626 km,7 hours 18 mins,2024-07-08,2024-08-05
-"Katossuontie 41, Lavia, Pori",https://www.etuovi.com/kohde/47672214,,,YES,88000.0,46.0,,88000.0,61.6461633,22.6770354,241 km,2 hours 48 mins,2024-07-08,2024-08-05
+"Katossuontie 41, Lavia, Pori",https://www.etuovi.com/kohde/47672214,Mökki tai huvila,,YES,88000.0,46.0,,88000.0,61.6461633,22.6770354,241 km,2 hours 48 mins,2024-07-08,2024-08-05
 "Kirjastentie 476 b, Tuusmäki, Rantasalmi",https://www.etuovi.com/kohde/21604969,"tupa, keittokomero",,NO,48000.0,30.0,1967,55000.0,61.982121,27.998502,287 km,3 hours 9 mins,2024-07-08,2024-08-05
 "Lammassaarenpolku 8, Kokkola",https://www.etuovi.com/kohde/80353154,5h + k + s,5,NO,98000.0,90.0,1993,98000.0,63.8280214,22.9878576,494 km,5 hours 31 mins,2024-07-08,2024-08-05
 "Kaipialantie 56, Kaipiala, Mikkeli",https://www.etuovi.com/kohde/52782159,"3h, tupak, ph, sauna, vilpola ja iso katettu terassi",3,NO,125000.0,121.0,,129000.0,61.536084,27.155082,215 km,2 hours 16 mins,2024-07-08,2024-08-05
 "Hekinkärki 30, Kuisema, Pälkäne",https://www.etuovi.com/kohde/1370779,"3h, k, s",3,NO,123000.0,56.0,1968,123000.0,61.2548829,24.3969512,130 km,1 hour 28 mins,2024-07-08,2024-08-05
 "Kultasaarentie 103 G, Pötsönlahti, Rääkkylä",https://www.etuovi.com/kohde/20091287,"2 mh, tupakeittiö, 2 aittahuonetta, vaatehuone, pesuhuone, sauna, wc. Lisäksi yläkerrassa lasitettu n. 10 m2 masemahuone, joka kylmää tilaa.",4,YES,145000.0,120.0,2000,145000.0,62.2376562,29.5887235,428 km,4 hours 51 mins,2024-07-08,2024-08-05
-"Nunnasentie 744, Peltovuoma, Enontekiö",https://www.etuovi.com/kohde/62517817,,,YES,225000.0,75.0,2009,225000.0,68.3855858,24.2084957,"1,071 km",12 hours 15 mins,2024-07-08,2024-08-05
+"Nunnasentie 744, Peltovuoma, Enontekiö",https://www.etuovi.com/kohde/62517817,Mökki tai huvila,,YES,225000.0,75.0,2009,225000.0,68.3855858,24.2084957,"1,071 km",12 hours 15 mins,2024-07-08,2024-08-05
 "Telkkäkuja 7, Eteläpää, Siikainen",https://www.etuovi.com/kohde/20983767,3h + k + sauna,3,YES,89000.0,70.0,1999,89000.0,61.88989470000001,21.8348515,306 km,3 hours 27 mins,2024-07-08,2024-08-05
 "Laitialantie 173 B, Laitiala, Mikkeli",https://www.etuovi.com/kohde/67359983,"7h, k, kph, s, terassi, p",6,YES,275000.0,200.0,1899,275000.0,61.58258679999999,27.2888476,230 km,2 hours 28 mins,2024-07-08,2024-08-05
 "Uitintie 82, Mainua, Kajaani",https://www.etuovi.com/kohde/20183815,"Oh + k + mh + kuisti, rantasauna / var / aitta, puucee / var",2,NO,119000.0,,1971,119000.0,64.1105692,27.4627792,534 km,5 hours 47 mins,2024-07-08,2024-08-05
@@ -851,7 +851,7 @@ address,url,description,rooms,winterized,price,surface,year,original_price,latit
 "Kiistasniementie 273, Heinola, Heinola",https://www.etuovi.com/kohde/21768596,"Oh / k / rt, 2mh, 2wc, saunatupa, kph / s, khh, vh + vilpola ja terassi + vierastalo + autotalli",5,YES,1275000.0,163.0,2022,1495000.0,61.192339,26.1119536,138 km,1 hour 31 mins,2024-07-08,2024-08-05
 "Evontie 52, Eko, Sastamala",https://www.etuovi.com/kohde/577284,"tupak., s",1,NO,180000.0,20.0,1995,240000.0,61.3402635,23.0102728,216 km,2 hours 15 mins,2024-07-08,2024-08-05
 "Mainiementie 1017 D Tervasaari, 52550 Hirvensalmi, Kuitula, Hirvensalmi",https://www.etuovi.com/kohde/20370025,Tupa + keittiönurkkaus + nukkumaparvi + sauna + pesuh. + terassi n. 30m²,2,NO,65000.0,30.0,,65000.0,61.642607,26.773174,211 km,2 hours 17 mins,2024-07-08,2024-08-05
-"Suidenniementie 67, Vaaraslahti, Pielavesi",https://www.etuovi.com/kohde/21809842,,,NO,78000.0,23.0,1993,78000.0,63.34241699999999,26.701747,431 km,4 hours 58 mins,2024-07-08,2024-08-05
+"Suidenniementie 67, Vaaraslahti, Pielavesi",https://www.etuovi.com/kohde/21809842,Mökki tai huvila,,NO,78000.0,23.0,1993,78000.0,63.34241699999999,26.701747,431 km,4 hours 58 mins,2024-07-08,2024-08-05
 "Rintalantie 176 D, Partsimaa, Mäntyharju",https://www.etuovi.com/kohde/578330,"Saunatupa, sauna + erillinen aitta- / varastorakennus",1,NO,89000.0,24.8,2014,98000.0,61.22828999999999,26.976889,196 km,2 hours 26 mins,2024-07-08,2024-08-05
 "Venetsiantie 214 A, Venetsia, Suonenjoki",https://www.etuovi.com/kohde/21437382,"1h, s, terassi",1,YES,99500.0,26.0,2012,99500.0,62.686650400000005,27.01851671377777,339 km,3 hours 49 mins,2024-07-08,2024-08-05
 "Kangasjärventie 598, Isojoki",https://www.etuovi.com/kohde/66135085,1Mh + Oh + K + Saunamökki,2,YES,145000.0,34.0,2023,145000.0,62.1764025,22.003074,324 km,3 hours 42 mins,2024-07-08,2024-08-05
@@ -894,7 +894,7 @@ address,url,description,rooms,winterized,price,surface,year,original_price,latit
 "Heinälammintie 960, Kyrönlahti, Ylöjärvi",https://www.etuovi.com/kohde/1370680,"2h, avok",2,NO,248000.0,72.0,2004,248000.0,61.80978649999999,23.4555976,220 km,2 hours 25 mins,2024-07-08,2024-08-05
 "Kuhanpurontie 10, Vaala, Vaala",https://www.etuovi.com/kohde/1370248,"2mh, oh, parvi, k, kh, s, pihasauna",4,NO,265000.0,98.0,2013,265000.0,64.5484883,27.1118619,589 km,6 hours 42 mins,2024-07-08,2024-08-05
 "Sääksniementie 226, Virtasalmi, Pieksämäki",https://www.etuovi.com/kohde/20871805,"tupa, keittiö, makuuhuone, yläkerta, parveke, kuisti",,NO,168000.0,50.0,1992,168000.0,62.0889543,27.5519014,287 km,3 hours 12 mins,2024-07-08,2024-08-05
-"Lohjansaarentie 1050, Lohjansaari, Lohja",https://www.etuovi.com/kohde/80361173,,,NO,695000.0,,,695000.0,60.22565549999999,23.8641796,83.2 km,1 hour 1 min,2024-07-08,2024-08-05
+"Lohjansaarentie 1050, Lohjansaari, Lohja",https://www.etuovi.com/kohde/80361173,Mökki tai huvila,,NO,695000.0,,,695000.0,60.22565549999999,23.8641796,83.2 km,1 hour 1 min,2024-07-08,2024-08-05
 "Pirttipolku 42, Haavisto, Jämsä",https://www.etuovi.com/kohde/20990144,"tupakeittiö, parvi, s",1,NO,76000.0,40.0,1988,76000.0,62.0488587,24.989314,246 km,3 hours 3 mins,2024-07-08,2024-08-05
 "Kivikankaantie 109, Juva",https://www.etuovi.com/kohde/1370720,"1h, k",1,NO,125000.0,44.0,1983,125000.0,61.908605,27.8995091,270 km,2 hours 53 mins,2024-07-08,2024-08-05
 "Hermanninkatu 20, Tasanne, Tampere",https://www.etuovi.com/kohde/21722310,Mökki ja saunamökki,,YES,175000.0,76.0,1947,175000.0,61.5203505,23.92455983563604,178 km,1 hour 53 mins,2024-07-08,2024-08-05
@@ -1019,9 +1019,9 @@ address,url,description,rooms,winterized,price,surface,year,original_price,latit
 "Pajamäentie 29, Siko, Pirkkala",https://www.etuovi.com/kohde/576288,"3h, k, kph, s, yläk. aula, p",3,NO,249000.0,80.0,2001,249000.0,61.4102916,23.659549,173 km,1 hour 55 mins,2024-07-08,2024-08-05
 "Tukkilantie 7, Muroleen kanava, Ruovesi",https://www.etuovi.com/kohde/20497396,10h + k + s,6,YES,595000.0,300.0,1890,595000.0,61.854902,23.9030935,225 km,2 hours 28 mins,2024-07-08,2024-08-05
 "Kaarelantie 4e, Kiitämäjärvi, Kuusamo",https://www.etuovi.com/kohde/20788033,"tupak, pkh, s + parvella nukkumatilat",,NO,45000.0,37.0,1978,45000.0,66.00273299999999,29.693485,830 km,9 hours 18 mins,2024-07-08,2024-08-05
-"Eerikinkartanontie 288b, Kurkisto, Kirkkonummi",https://www.etuovi.com/kohde/21316264,,,NO,225000.0,,,225000.0,60.2573866,24.4275152,39.6 km,31 mins,2024-07-08,2024-08-05
+"Eerikinkartanontie 288b, Kurkisto, Kirkkonummi",https://www.etuovi.com/kohde/21316264,Mökki tai huvila,,NO,225000.0,,,225000.0,60.2573866,24.4275152,39.6 km,31 mins,2024-07-08,2024-08-05
 "Niinikkoniementie 85, Haukivuori, Mikkeli",https://www.etuovi.com/kohde/1370252,"Tupa, sauna ja pesuhuone, parvi",1,NO,50000.0,26.0,2006,50000.0,62.0458824,27.1010485,278 km,3 hours 2 mins,2024-07-08,2024-08-05
-"Kukkolantie 92, Iitiä, Lappeenranta",https://www.etuovi.com/kohde/21454242,,,NO,55000.0,30.0,,62000.0,61.0306894,27.9811692,219 km,2 hours 28 mins,2024-07-08,2024-08-05
+"Kukkolantie 92, Iitiä, Lappeenranta",https://www.etuovi.com/kohde/21454242,Mökki tai huvila,,NO,55000.0,30.0,,62000.0,61.0306894,27.9811692,219 km,2 hours 28 mins,2024-07-08,2024-08-05
 "Valkeajärventie 100, Hauhuu, Virrat",https://www.etuovi.com/kohde/576845,"Saunatupa, sauna, pesuhuone",1,NO,89000.0,19.0,1995,89000.0,62.1633722,23.9145866,277 km,3 hours 6 mins,2024-07-08,2024-08-05
 "Marjamiehentie 6, Marjoniemi, Kangasniemi",https://www.etuovi.com/kohde/w33923,5h + k + rt + vh + kph + s + wc + khh + p + var + at,5,YES,540000.0,164.0,2007,540000.0,61.97967939999999,26.6577903,241 km,2 hours 39 mins,2024-07-08,2024-08-05
 "Pöllänniementie 136, Puumala",https://www.etuovi.com/kohde/57823889,"Huvila Puumala, Saimaa",3,NO,220000.0,60.0,1986,220000.0,61.5024354,28.3006774,304 km,3 hours 26 mins,2024-07-08,2024-08-05
@@ -1044,7 +1044,7 @@ address,url,description,rooms,winterized,price,surface,year,original_price,latit
 "Peuravuorentie 905, Raikkous, Äänekoski",https://www.etuovi.com/kohde/21805895,"2-3 mh, tupa, k, kph, tekninen tila",4,YES,158000.0,85.0,1991,158000.0,62.70903729999999,25.9648015,341 km,3 hours 50 mins,2024-07-08,2024-08-05
 "Makontie 15, Mikkeli",https://www.etuovi.com/kohde/35913199,"Takkatupa, keittiösyvennys ja parvi",1,NO,128000.0,30.0,1991,128000.0,61.64418055,27.21598465,234 km,2 hours 34 mins,2024-07-08,2024-08-05
 "Aittaniementie 35 B, Aittaniemi, Ala-Suolijärvi, Posio",https://www.etuovi.com/kohde/w33763,"mh, tupak, pkh, ph, s, parvi, aitta, saunakota",2,NO,99000.0,72.0,1989,99000.0,66.33333329999999,28.0,857 km,9 hours 51 mins,2024-07-08,2024-08-05
-"Kesulahdentie 374, Kopsuo, Asikkala",https://www.etuovi.com/kohde/80359842,,2,NO,135000.0,30.0,,135000.0,61.21672659999999,25.7026825,139 km,1 hour 42 mins,2024-07-08,2024-08-05
+"Kesulahdentie 374, Kopsuo, Asikkala",https://www.etuovi.com/kohde/80359842,Mökki tai huvila,2,NO,135000.0,30.0,,135000.0,61.21672659999999,25.7026825,139 km,1 hour 42 mins,2024-07-08,2024-08-05
 "Pitkänrannantie 320 D, Jokijärvi, Pielavesi",https://www.etuovi.com/kohde/20270252,"tupakeittiö / makuutila, terassi",1,NO,112000.0,31.0,1995,112000.0,63.0734045,26.6006363,404 km,4 hours 43 mins,2024-07-08,2024-08-05
 "Härköniementie 36, Koskenpää, Jämsä",https://www.etuovi.com/kohde/576823,tupakeittiö ja sauna,1,NO,112000.0,25.0,2013,112000.0,62.1079553,25.1732561,248 km,3 hours 0 mins,2024-07-08,2024-08-05
 "Rokuanjärventie, Pelso, Vaala",https://www.etuovi.com/kohde/w33728,tupak,1,NO,52000.0,30.0,1975,52000.0,64.5491381,26.5578135,571 km,6 hours 33 mins,2024-07-08,2024-08-05
@@ -1052,7 +1052,7 @@ address,url,description,rooms,winterized,price,surface,year,original_price,latit
 "Somparannantie 17 C, Kaavi, Luikonlahti, Kaavi",https://www.etuovi.com/kohde/20575653,"3-4h, tupakeittiö, parvi, wc, kph, s, autotalli + varasto",4,YES,149000.0,86.5,2010,149000.0,62.86098269999999,28.926882,436 km,4 hours 54 mins,2024-07-08,2024-08-05
 "Matilanvirrantie 947, Sumiainen, Äänekoski",https://www.etuovi.com/kohde/80352052,1h + tupak. + parvi,1,NO,122000.0,28.0,2002,122000.0,62.6814033,26.0374882,327 km,3 hours 39 mins,2024-07-08,2024-08-05
 "Karkausniementie 83, Mustajärvi, Ruovesi",https://www.etuovi.com/kohde/577203,Saunatupa + parvi + ph + s,1,NO,150000.0,20.0,1990,150000.0,62.0354949,24.0980913,251 km,2 hours 50 mins,2024-07-08,2024-08-05
-"Harantie 744, Joutsa",https://www.etuovi.com/kohde/46170547,,,NO,95000.0,,2019,95000.0,61.7750227,25.948922,202 km,2 hours 14 mins,2024-07-08,2024-08-05
+"Harantie 744, Joutsa",https://www.etuovi.com/kohde/46170547,Mökki tai huvila,,NO,95000.0,,2019,95000.0,61.7750227,25.948922,202 km,2 hours 14 mins,2024-07-08,2024-08-05
 "Immalanjärvi, Humpunsaari, Ruokolahti",https://www.etuovi.com/kohde/w23489,"Mökki 35 m2,1h + tupak + ma + s + var + ym",,NO,169000.0,59.0,,169000.0,61.221079,28.9155497,275 km,3 hours 6 mins,2024-07-08,2024-08-05
 "Himalanpohjantie 1731 C, Himalanpohja, Mikkeli",https://www.etuovi.com/kohde/55737039,"Tupa, kk, mh, parvi, wc, p. Erillinen vierasaitta, sauna ja talousrakennukset",,YES,74500.0,49.0,2012,79500.0,61.389509,27.546256,246 km,2 hours 43 mins,2024-07-08,2024-08-05
 "Lapinniementie 509, Pyyrinlahti, Äänekoski",https://www.etuovi.com/kohde/21460736,"Tupakeittiö, oh, 2 mh, pesuhuone, katettua terassia",3,YES,169000.0,64.0,1994,169000.0,62.7351975,25.8199675,333 km,3 hours 41 mins,2024-07-08,2024-08-05
@@ -1098,7 +1098,7 @@ address,url,description,rooms,winterized,price,surface,year,original_price,latit
 "Mustikkavuorentie 47, Karttula, Kuopio",https://www.etuovi.com/kohde/20815076,"1h, sauna, terassi",1,NO,73000.0,30.0,1992,73000.0,62.8823987,26.9592844,367 km,4 hours 12 mins,2024-07-08,2024-08-05
 "Rantakyläntie 622 A, Ahmovaara, Juuka",https://www.etuovi.com/kohde/576136,"2 mh, tupakeittiö, kph, ph, s",2,NO,157000.0,81.0,2009,157000.0,62.98674789999999,29.5977995,478 km,5 hours 22 mins,2024-07-08,2024-08-05
 "Somerontie 287, Kuivasjärvi, Parkano",https://www.etuovi.com/kohde/59994443,3 h + k + s,3,YES,250000.0,91.5,2010,250000.0,62.0102669,23.0213964,259 km,2 hours 44 mins,2024-07-08,2024-08-05
-"Viitasaari 220, Osmajärvi, Leppävirta",https://www.etuovi.com/kohde/21838866,,,NO,38000.0,41.0,1957,38000.0,62.4755463,27.6089766,335 km,3 hours 43 mins,2024-07-08,2024-08-05
+"Viitasaari 220, Osmajärvi, Leppävirta",https://www.etuovi.com/kohde/21838866,Mökki tai huvila,,NO,38000.0,41.0,1957,38000.0,62.4755463,27.6089766,335 km,3 hours 43 mins,2024-07-08,2024-08-05
 "Pihlajatie 106, Orivesi, Orivesi",https://www.etuovi.com/kohde/9725541,"Mökki, grillimökki, aitta, varasto, puucee",,YES,149000.0,21.0,1996,149000.0,61.699896,24.6460883,226 km,2 hours 24 mins,2024-07-08,2024-08-05
 "Korkeasaari, Länsi-Teisko, Ylöjärvi",https://www.etuovi.com/kohde/21245532,"Oma saari Näsijärveltä Tupa, alkovi, kk, pukuh., ph / s",1,NO,298000.0,33.9,1994,298000.0,61.74965940000001,23.6999405,222 km,2 hours 23 mins,2024-07-08,2024-08-05
 "Mäntyläntie 35, Kaltila, Jämsä",https://www.etuovi.com/kohde/576364,"2h, k",2,NO,115000.0,60.0,1914,115000.0,61.985743,24.634494,250 km,2 hours 38 mins,2024-07-08,2024-08-05
@@ -1145,13 +1145,13 @@ address,url,description,rooms,winterized,price,surface,year,original_price,latit
 "Haukkasaari 4, Liistonsaari, Savonlinna",https://www.etuovi.com/kohde/1351703,"Taloustupa, majoitustalo, luhtiaitta, sauna-huvila, päärakennus + muita rakennuksia",6,NO,360000.0,211.0,1995,360000.0,61.72686890000001,28.5876685,317 km,3 hours 29 mins,2024-07-08,2024-08-05
 "Iso-Särkijärventie 72, Kuru/Karjula, Ylöjärvi",https://www.etuovi.com/kohde/21243289,"tupa, alkovi, sauna ja terassi",1,NO,128000.0,22.0,2013,128000.0,61.5489401,23.5948785,189 km,1 hour 56 mins,2024-07-08,2024-08-05
 "Uikkutie 20, Kauttua, Eura",https://www.etuovi.com/kohde/21661490,"2 h, kk, ph / wc",,NO,179000.0,38.0,1999,179000.0,61.1020513,22.2050953,206 km,2 hours 36 mins,2024-07-08,2024-08-05
-"Kiukoolahdentie 72, Kaaraslahti, Siilinjärvi",https://www.etuovi.com/kohde/20734842,,2,YES,115000.0,40.0,1978,115000.0,63.1272879,27.7849099,417 km,4 hours 29 mins,2024-07-08,2024-08-05
+"Kiukoolahdentie 72, Kaaraslahti, Siilinjärvi",https://www.etuovi.com/kohde/20734842,Mökki tai huvila,2,YES,115000.0,40.0,1978,115000.0,63.1272879,27.7849099,417 km,4 hours 29 mins,2024-07-08,2024-08-05
 "Hautarannantie 160, Leppävirta, Leppävirta",https://www.etuovi.com/kohde/21821599,1mh + tupak + pukuh + sauna + var,1,NO,59500.0,46.0,1968,59500.0,62.4695481,27.7679526,331 km,3 hours 32 mins,2024-07-08,2024-08-05
 "Rantalan Haapasaari 1, Liikola, Sysmä",https://www.etuovi.com/kohde/575793,"oh, k, veranta",1,NO,60000.0,25.0,1952,60000.0,61.5038896,25.683206,180 km,1 hour 53 mins,2024-07-08,2024-08-05
 "Rapakontie 391, Syvänniemi, Kuopio",https://www.etuovi.com/kohde/1369695,"4h, keittiö, parvi",4,NO,75000.0,50.0,1968,75000.0,62.89247340000001,27.2889431,390 km,4 hours 21 mins,2024-07-08,2024-08-05
 "Lutakonsaari 2, Syyspohja, Ruokolahti",https://www.etuovi.com/kohde/20038911,"tupa, keittokomero ja makuunurkkaus",2,NO,122000.0,30.0,1961,122000.0,61.39933419999999,28.6274376,288 km,3 hours 11 mins,2024-07-08,2024-08-05
 "Elopellontie 7, Tikkala, Mikkeli",https://www.etuovi.com/kohde/20145447,"1h, s",1,NO,29000.0,17.0,2000,29000.0,61.6525981,27.1761089,220 km,2 hours 19 mins,2024-07-08,2024-08-05
-"Lövnäsintie 113, Evitskog, Kirkkonummi",https://www.etuovi.com/kohde/21192536,,,NO,260000.0,94.0,,260000.0,60.1909439,24.34470035,47.5 km,43 mins,2024-07-08,2024-08-05
+"Lövnäsintie 113, Evitskog, Kirkkonummi",https://www.etuovi.com/kohde/21192536,Mökki tai huvila,,NO,260000.0,94.0,,260000.0,60.1909439,24.34470035,47.5 km,43 mins,2024-07-08,2024-08-05
 "Louhenpolku 11, Korholanmäki, Sotkamo",https://www.etuovi.com/kohde/1369142,1h + s + nukkuma parvi,1,NO,125000.0,30.0,2022,125000.0,64.1450375,28.0475694,574 km,6 hours 22 mins,2024-07-08,2024-08-05
 "Pihlajatie 8, Pihlajakoski, Kuhmoinen",https://www.etuovi.com/kohde/1369876,"2h, k, rt, ph, s, khh, erill. wc, las. ter, askarteluhuone / varasto",2,NO,317000.0,70.0,2010,317000.0,61.68776690000001,25.3938528,204 km,2 hours 25 mins,2024-07-08,2024-08-05
 "Vehmaantie 61, Joutsa",https://www.etuovi.com/kohde/68193788,"Tupak, 4mh, wc, kph, s, et, kuisti",5,YES,68000.0,100.0,1947,68000.0,61.6369923,26.3355133,195 km,2 hours 8 mins,2024-07-08,2024-08-05
@@ -1161,7 +1161,7 @@ address,url,description,rooms,winterized,price,surface,year,original_price,latit
 "Telataipaleentie 545a, Kontiomäki, Pieksämäki",https://www.etuovi.com/kohde/w32486,"1h + k + kph + wc + vh + rantasauna, aitta, autotalli",,YES,83000.0,38.0,,83000.0,64.33765559999999,28.1101798,576 km,6 hours 19 mins,2024-07-08,2024-08-05
 "Tekojärventie 19, Ylivalli, Kurikka",https://www.etuovi.com/kohde/576492,tupak + parvi + s,1,NO,68000.0,63.0,1988,68000.0,62.3686946,23.0857192,318 km,3 hours 33 mins,2024-07-08,2024-08-05
 "Hangasniementie 76, Ristiina, Mikkeli",https://www.etuovi.com/kohde/68648469,"2h, kk, s, ph, pkh, aitta ja talousrakennus",3,NO,88000.0,69.0,1976,88000.0,61.395624,27.423619424784217,240 km,2 hours 38 mins,2024-07-08,2024-08-05
-"Häikiäntie 188, Leppävirta, Leppävirta",https://www.etuovi.com/kohde/20442232,,,YES,65000.0,63.0,1966,69000.0,62.4385506,27.8177758,326 km,3 hours 27 mins,2024-07-08,2024-08-05
+"Häikiäntie 188, Leppävirta, Leppävirta",https://www.etuovi.com/kohde/20442232,Mökki tai huvila,,YES,65000.0,63.0,1966,69000.0,62.4385506,27.8177758,326 km,3 hours 27 mins,2024-07-08,2024-08-05
 "Orvokkikuja 10, Puurtila, Varkaus",https://www.etuovi.com/kohde/575866,"Tupakeittiö, 2mh, s, terassi",3,NO,47000.0,31.7,2020,47000.0,62.3311073,27.9311887,320 km,3 hours 26 mins,2024-07-08,2024-08-05
 "Haisevanniementie 56, Tuohikotti, Kouvola",https://www.etuovi.com/kohde/20602616,"tupa keittosyvennyksellä, parvella makuutiloja",,NO,135000.0,52.0,1990,139000.0,61.10688339999999,27.006257,173 km,2 hours 4 mins,2024-07-08,2024-08-05
 "Neljänsavuntie 39, Vartiala, Kuopio",https://www.etuovi.com/kohde/20339946,"Katettu kuisti, tupa, 2 kamaria, keittokomero, pesuhuone, sauna",3,NO,83000.0,47.0,1973,88000.0,62.9055407,28.0651396,419 km,4 hours 33 mins,2024-07-08,2024-08-05
@@ -1172,7 +1172,7 @@ address,url,description,rooms,winterized,price,surface,year,original_price,latit
 "Rönön Lehtosaari 10, Rönö, Kuopio",https://www.etuovi.com/kohde/1369773,"3h, k, s",3,NO,129000.0,109.0,1994,148000.0,62.87294989999999,27.7228881,386 km,4 hours 14 mins,2024-07-08,2024-08-05
 "Mikkopekintie 364, Perniö, Salo",https://www.etuovi.com/kohde/w32378,3h + k + s + lasp,3,NO,169000.0,65.0,1972,169000.0,60.1062363,23.0918186,151 km,1 hour 48 mins,2024-07-08,2024-08-05
 "Vaikkojoentie 47, Kortteinen, Kaavi",https://www.etuovi.com/kohde/20400154,3h + k + kph + s,3,NO,109000.0,80.0,1980,109000.0,63.00240030000001,28.71777519999999,459 km,5 hours 4 mins,2024-07-08,2024-08-05
-"Haapalantie 119, Lappila, Kärkölä",https://www.etuovi.com/kohde/20872398,,,YES,0.0,,,0.0,60.8905934,25.1369868,96.8 km,1 hour 8 mins,2024-07-08,2024-08-05
+"Haapalantie 119, Lappila, Kärkölä",https://www.etuovi.com/kohde/20872398,Mökki tai huvila,,YES,0.0,,,0.0,60.8905934,25.1369868,96.8 km,1 hour 8 mins,2024-07-08,2024-08-05
 "Haamaa 0, Ruokolahti",https://www.etuovi.com/kohde/1369284,tupa + 2 makuusoppia,3,NO,120000.0,53.5,1978,147000.0,61.33191659999999,28.5243598,296 km,3 hours 24 mins,2024-07-08,2024-08-05
 "Kukkeistentie 163, Kirkonkylä, Puumala",https://www.etuovi.com/kohde/80358406,tupak + mh + ph / wc,2,NO,296000.0,56.0,2023,296000.0,61.55094629999999,28.199373,293 km,3 hours 16 mins,2024-07-08,2024-08-05
 "Syrjäläntie 52, Soini",https://www.etuovi.com/kohde/576512,Tupa + kk + pukuh + s,1,NO,56000.0,40.8,1971,59500.0,62.7394584,24.0931122,345 km,3 hours 54 mins,2024-07-08,2024-08-05
@@ -1180,7 +1180,7 @@ address,url,description,rooms,winterized,price,surface,year,original_price,latit
 "Mullikanmetsätie, Ruokojärvi, Varkaus",https://www.etuovi.com/kohde/21943864,"oh, kamari, k, yläk, et",3,YES,58000.0,100.0,1958,58000.0,62.3280507,27.7913949,320 km,3 hours 29 mins,2024-07-08,2024-08-05
 "Pihlajakoskentie 79, Harjunsalmi, Kuhmoinen",https://www.etuovi.com/kohde/1368028,"Tupakeittiö, 2 makuusoppea, s, ph, puucee, terassi",3,NO,117000.0,44.0,1988,127000.0,61.6893336,25.2830093,197 km,2 hours 14 mins,2024-07-08,2024-08-05
 "Kotaniementie 138 E, Kotaniemi, Pielavesi",https://www.etuovi.com/kohde/576021,"tupa, pukuh, sauna",1,NO,109500.0,23.7,2019,109500.0,63.14315689999999,26.6115164,404 km,4 hours 38 mins,2024-07-08,2024-08-05
-"Kelhäntie 2, Suomela, Kangasala",https://www.etuovi.com/kohde/20206204,,,NO,99000.0,,,99000.0,61.45903399999999,24.009576,159 km,1 hour 48 mins,2024-07-08,2024-08-05
+"Kelhäntie 2, Suomela, Kangasala",https://www.etuovi.com/kohde/20206204,Mökki tai huvila,,NO,99000.0,,,99000.0,61.45903399999999,24.009576,159 km,1 hour 48 mins,2024-07-08,2024-08-05
 "Koruniementie 72, Mannila, Eura",https://www.etuovi.com/kohde/20566595,"Tupakeittiö, makuuhuone, parvi",2,NO,230000.0,39.0,2004,230000.0,61.03655629999999,22.1625607,222 km,2 hours 34 mins,2024-07-08,2024-08-05
 "Valkeajärventie 220, Korkeakoski, Ruovesi",https://www.etuovi.com/kohde/20746581,"tupa, kk, mh, s, pukuh, terassi",2,NO,118000.0,44.0,1974,118000.0,61.86700519999999,24.2791922,233 km,2 hours 30 mins,2024-07-08,2024-08-05
 "Kukontie 197 B, Multia",https://www.etuovi.com/kohde/575868,Tupak. + kph + s,1,NO,89000.0,53.5,1988,89000.0,62.4192256,24.799684,304 km,3 hours 21 mins,2024-07-08,2024-08-05
@@ -1207,7 +1207,7 @@ address,url,description,rooms,winterized,price,surface,year,original_price,latit
 "Ukonniementie 258a, Jaala, Kouvola",https://www.etuovi.com/kohde/1368026,"2 mh, tupa, k, wc, parvi",4,NO,170000.0,55.0,2006,170000.0,61.0700742,26.5062187,158 km,1 hour 54 mins,2024-07-08,2024-08-05
 "Kuoksenjärvi 70, Päijälä, Jämsä",https://www.etuovi.com/kohde/575603,Tupakeittiö + makuuhuone + psh / wc + s + tilava parvi + parveke,2,NO,170000.0,53.0,2005,170000.0,61.8619823,25.1802074,219 km,2 hours 30 mins,2024-07-08,2024-08-05
 "Kirkkosaarentie 308 C, Lammassalo, Pielavesi",https://www.etuovi.com/kohde/575862,"1h, tupak",1,NO,74000.0,21.5,2009,78000.0,63.280026,26.659056,425 km,4 hours 54 mins,2024-07-08,2024-08-05
-"Juntulantie 108, Taipalsaari",https://www.etuovi.com/kohde/33010698,,1,NO,175000.0,30.0,,175000.0,61.167381,27.9124323,246 km,2 hours 55 mins,2024-07-08,2024-08-05
+"Juntulantie 108, Taipalsaari",https://www.etuovi.com/kohde/33010698,Mökki tai huvila,1,NO,175000.0,30.0,,175000.0,61.167381,27.9124323,246 km,2 hours 55 mins,2024-07-08,2024-08-05
 "Härkäniementie 14-24, Norola, Mikkeli",https://www.etuovi.com/kohde/w29676,2mh + avok + oh + khh + s + ph + 2xwc + parvi,,YES,239000.0,99.0,2005,259000.0,61.7023674,27.4027256,232 km,2 hours 27 mins,2024-07-08,2024-08-05
 "Kolulantie 37, Mäntylä, Viitasaari",https://www.etuovi.com/kohde/w29668,4h + k + s + wc + at + var,4,NO,14500.0,100.0,1953,14500.0,63.0518411,26.1321555,376 km,4 hours 23 mins,2024-07-08,2024-08-05
 "Kuivasen saari, Litmaniemi, Kuopio",https://www.etuovi.com/kohde/w29667,3h + k + kph + s + var + wc,,NO,79500.0,60.0,1988,79500.0,62.73380399999999,28.1624643,396 km,4 hours 24 mins,2024-07-08,2024-08-05
@@ -1293,9 +1293,9 @@ address,url,description,rooms,winterized,price,surface,year,original_price,latit
 "Hietasentie 116, Ukonniemi, Kangasniemi",https://www.etuovi.com/kohde/550118,"6h, k, 2xwc, kph, s",6,NO,569000.0,197.0,2000,569000.0,61.9061245,26.8259187,259 km,2 hours 59 mins,2024-07-08,2024-08-05
 "Eteläsalontie 195, Liesjärvi, Keuruu",https://www.etuovi.com/kohde/574489,2h + tupak. + khh + s + parvi + wc,3,NO,188000.0,75.0,2007,188000.0,62.41656500000001,24.5136612,309 km,3 hours 32 mins,2024-07-08,2024-08-05
 "Pynnölänsaarentie 393D, Hyyrylä, Kangasniemi",https://www.etuovi.com/kohde/573318,"Tupa, kk, alkovi, pukuhuone, s",1,NO,99000.0,46.0,1975,99000.0,62.1910306,26.5273618,266 km,3 hours 5 mins,2024-07-08,2024-08-05
-"Metsä-Korkeentie 104, Ylinen, Ylöjärvi",https://www.etuovi.com/kohde/20360318,,,YES,295000.0,104.0,2008,345000.0,61.6363746,23.5405765,208 km,2 hours 16 mins,2024-07-08,2024-08-05
+"Metsä-Korkeentie 104, Ylinen, Ylöjärvi",https://www.etuovi.com/kohde/20360318,Mökki tai huvila,,YES,295000.0,104.0,2008,345000.0,61.6363746,23.5405765,208 km,2 hours 16 mins,2024-07-08,2024-08-05
 "Huutsalmentie 33, Syyspohja, Ruokolahti",https://www.etuovi.com/kohde/575439,"4h, k, kph, s, wc",4,NO,159000.0,80.0,1988,159000.0,61.43006149999999,28.5403471,295 km,3 hours 19 mins,2024-07-08,2024-08-05
-"Kaitajärventie 76, Möttönen, Perho",https://www.etuovi.com/kohde/21755902,,,YES,115000.0,82.0,2012,115000.0,63.1942647,24.7257417,402 km,4 hours 35 mins,2024-07-08,2024-08-05
+"Kaitajärventie 76, Möttönen, Perho",https://www.etuovi.com/kohde/21755902,Mökki tai huvila,,YES,115000.0,82.0,2012,115000.0,63.1942647,24.7257417,402 km,4 hours 35 mins,2024-07-08,2024-08-05
 "Kesärannantie 24, Karjalohja, Lohja",https://www.etuovi.com/kohde/80355735,"4h, k, kph, 2x s, varasto, vierasmökki, terassi, ",4,NO,495000.0,115.0,2008,495000.0,60.2682691,23.6397798,95.1 km,1 hour 17 mins,2024-07-08,2024-08-05
 "Piranniementie 190, Piimälahti, Rääkkylä",https://www.etuovi.com/kohde/1355645,Oh + kt + mh + yläkerran mh,3,NO,74000.0,60.0,1979,74000.0,62.31080269999999,29.9821122,431 km,4 hours 55 mins,2024-07-08,2024-08-05
 "Ronko 41, Kuivaketvele, Taipalsaari",https://www.etuovi.com/kohde/21545606,"tupa, parvi, aurinkosähkö, luhtiaitta",,NO,156000.0,40.0,1987,156000.0,61.0993099,28.1560783,227 km,2 hours 36 mins,2024-07-08,2024-08-05
@@ -1310,8 +1310,8 @@ address,url,description,rooms,winterized,price,surface,year,original_price,latit
 "Pajulahdentie 60c, Selänpää (Valkeala), Kouvola",https://www.etuovi.com/kohde/575010,"4h, k, pkh, ph, s, tal.rak., maakellari",4,NO,149000.0,70.0,1979,169000.0,60.9428269,26.8008859,147 km,1 hour 41 mins,2024-07-08,2024-08-05
 "Lillandetintie 742, Nauvo, Parainen",https://www.etuovi.com/kohde/80356147,"2h, k, parvi ja iso lasitettu terassi",2,NO,168000.0,50.0,,168000.0,60.1743356,22.024101,203 km,2 hours 46 mins,2024-07-08,2024-08-05
 "Lämsänkyläntie 309 C, Lämsänkylä, Kuusamo",https://www.etuovi.com/kohde/574604,"tupa, oh, k, mh, khh, 2 kph, s, et, tk",3,NO,159000.0,96.0,1960,159000.0,65.8459869,29.8689909,824 km,9 hours 3 mins,2024-07-08,2024-08-05
-"Itälahdentie 28, Siikainen",https://www.etuovi.com/kohde/80356632,,,NO,118000.0,45.0,1974,118000.0,61.897561,21.8304305,307 km,3 hours 30 mins,2024-07-08,2024-08-05
-"Porrinlahdentie 213 C, Honkolankylä, Äänekoski",https://www.etuovi.com/kohde/21844212,,,NO,119000.0,25.0,2000,119000.0,62.61508319999999,25.6258337,308 km,3 hours 25 mins,2024-07-08,2024-08-05
+"Itälahdentie 28, Siikainen",https://www.etuovi.com/kohde/80356632,Mökki tai huvila,,NO,118000.0,45.0,1974,118000.0,61.897561,21.8304305,307 km,3 hours 30 mins,2024-07-08,2024-08-05
+"Porrinlahdentie 213 C, Honkolankylä, Äänekoski",https://www.etuovi.com/kohde/21844212,Mökki tai huvila,,NO,119000.0,25.0,2000,119000.0,62.61508319999999,25.6258337,308 km,3 hours 25 mins,2024-07-08,2024-08-05
 "Paajoentie 215, Sammallahti, Jämsä",https://www.etuovi.com/kohde/573373,Tilava tupa + 2 makuualkovia + keittosoppi + varasto + kuistit,3,NO,159000.0,41.0,1966,175000.0,61.859338,25.4990829,239 km,2 hours 54 mins,2024-07-08,2024-08-05
 "Vaajaniementie 270B, Vaajaniemi, Rantasalmi",https://www.etuovi.com/kohde/20344446,2h + tupak + ph / wc + s + wc + lasitettuterassi,3,YES,139900.0,87.0,1976,139900.0,62.1201167,28.2206351,313 km,3 hours 26 mins,2024-07-08,2024-08-05
 "Verkkolammintie 23 E, Sotkuma, Polvijärvi",https://www.etuovi.com/kohde/21616960,2 h + kk + pkh + s,2,NO,69000.0,49.0,1980,69000.0,62.7426942,29.52384709999999,427 km,4 hours 45 mins,2024-07-08,2024-08-05
@@ -1348,7 +1348,7 @@ address,url,description,rooms,winterized,price,surface,year,original_price,latit
 "Heinunniementie 443, Pihtipudas",https://www.etuovi.com/kohde/80354097,Tupakeittiö,1,NO,77000.0,21.0,1992,77000.0,63.2836068,25.674783,389 km,4 hours 20 mins,2024-07-08,2024-08-05
 "Rietajärventie 199, Renko, Hämeenlinna",https://www.etuovi.com/kohde/80354421,"Oh, 2xh, kk, katettu kuisti, vierash. / liiteri, puucee, sauna / suihku / pkh, huvimaja.",3,NO,185000.0,54.0,2000,189000.0,60.8087911,24.1065428,107 km,1 hour 18 mins,2024-07-08,2024-08-05
 "Lehtikuusentie 1, Sotkamo",https://www.etuovi.com/kohde/80354982,Mökki + saunamökki + grillikota + laavu,,NO,209000.0,25.0,2016,209000.0,64.1151491,28.33662,583 km,6 hours 20 mins,2024-07-08,2024-08-05
-"Unnekiventie 124, Parkkuu, Ylöjärvi",https://www.etuovi.com/kohde/20590928,,3,YES,499000.0,108.5,,499000.0,61.77592549999999,23.7494242,231 km,2 hours 31 mins,2024-07-08,2024-08-05
+"Unnekiventie 124, Parkkuu, Ylöjärvi",https://www.etuovi.com/kohde/20590928,Mökki tai huvila,3,YES,499000.0,108.5,,499000.0,61.77592549999999,23.7494242,231 km,2 hours 31 mins,2024-07-08,2024-08-05
 "Hirvisaari 79, Hirvisaari, Lappeenranta",https://www.etuovi.com/kohde/80354161,"2MH, TUPA, K, PARVI, WC, PH, S",3,NO,215000.0,54.0,2007,215000.0,61.1073723,28.2774709,231 km,2 hours 38 mins,2024-07-08,2024-08-05
 "Salakkaniementie 112, Ruuhijärvi, Lahti",https://www.etuovi.com/kohde/80354657,"Tupa + mh + k + s + ph + parvi, terassi",2,NO,118000.0,64.0,1991,118000.0,61.0362441,25.9784505,122 km,1 hour 23 mins,2024-07-08,2024-08-05
 "Auttilantie 45, Ponsa, Kangasala",https://www.etuovi.com/kohde/574007,"3h, k, wc, khh, kph, s",3,NO,279000.0,81.6,2010,279000.0,61.556312,24.3423665,172 km,2 hours 0 mins,2024-07-08,2024-08-05
@@ -1356,7 +1356,7 @@ address,url,description,rooms,winterized,price,surface,year,original_price,latit
 "Pirttikulmantie 282, Päijälä, Kuhmoinen",https://www.etuovi.com/kohde/21141522,"Päämökki, rantasauna, ulkorakennuksia",,NO,79000.0,60.0,,79000.0,61.5527927,24.9986644,190 km,2 hours 14 mins,2024-07-08,2024-08-05
 "Ruisvainiontie 9, Kämmenniemi, Tampere",https://www.etuovi.com/kohde/21657311,"2h + k + kph / s / wc + parvi + terassi, rantasauna ja saunakamari",,YES,379000.0,66.5,,399000.0,61.6365333,23.9141504,195 km,2 hours 3 mins,2024-07-08,2024-08-05
 "Kalliosivuntie 9, Paimela, Hollola",https://www.etuovi.com/kohde/573513,"2h, kph",2,NO,269000.0,53.0,2019,269000.0,61.12673330000001,25.5334705,124 km,1 hour 28 mins,2024-07-08,2024-08-05
-"Vehkoniementie 57, Halli, Jämsä",https://www.etuovi.com/kohde/20479379,,,NO,135000.0,49.0,1978,135000.0,61.8465669,24.8154398,255 km,2 hours 42 mins,2024-07-08,2024-08-05
+"Vehkoniementie 57, Halli, Jämsä",https://www.etuovi.com/kohde/20479379,Mökki tai huvila,,NO,135000.0,49.0,1978,135000.0,61.8465669,24.8154398,255 km,2 hours 42 mins,2024-07-08,2024-08-05
 "Leinakantie 7, Vehmaskylä, Mikkeli",https://www.etuovi.com/kohde/1367292,"2h, oh, tupakeittiö, tuulikaappi",2,NO,134000.0,54.5,2001,134000.0,61.7764299,27.3964989,239 km,2 hours 34 mins,2024-07-08,2024-08-05
 "Kortelahdentie 9 a, Kunnasniemi, Kontiolahti",https://www.etuovi.com/kohde/21134619,"3h, k, kph, wc",3,NO,199000.0,56.0,2003,199000.0,62.71843519999999,29.629128,436 km,4 hours 53 mins,2024-07-08,2024-08-05
 "Murtoniementie 7a, Mikkeli",https://www.etuovi.com/kohde/63787188,"tupa, makuuhuone, eteinen, kuisti",2,NO,119500.0,35.0,1950,119500.0,61.91560095,27.0819021839491,254 km,2 hours 46 mins,2024-07-08,2024-08-05
@@ -1389,7 +1389,7 @@ address,url,description,rooms,winterized,price,surface,year,original_price,latit
 "Laaninrannantie 63B, Kumpumäki, Viitasaari",https://www.etuovi.com/kohde/w23673,"Tupakeittiö, parviaulatila, pukuhuone, ph + s + puucee",,NO,106500.0,52.0,1996,106500.0,63.18457229999999,26.0621318,388 km,4 hours 16 mins,2024-07-08,2024-08-05
 "Ruokjärvi 40, Vuotinainen, Karkkila",https://www.etuovi.com/kohde/21946044,Hirsimökki,,NO,85000.0,47.0,1987,85000.0,60.62051100000001,24.034771,75.0 km,1 hour 4 mins,2024-07-08,2024-08-05
 "Jukajärventie 24B , Kulho, Joensuu",https://www.etuovi.com/kohde/q72684,"1h + kk + alkovi, erill. saunatupa, ulkovarasto, biohuussi",2,NO,74000.0,30.0,1981,74000.0,62.5884508,30.0476536,447 km,4 hours 57 mins,2024-07-08,2024-08-05
-"Pahalahdentie 75, Korpilahti, Jyväskylä",https://www.etuovi.com/kohde/20619972,,3,NO,398000.0,78.0,2009,398000.0,61.947851,25.662525,237 km,2 hours 40 mins,2024-07-08,2024-08-05
+"Pahalahdentie 75, Korpilahti, Jyväskylä",https://www.etuovi.com/kohde/20619972,Mökki tai huvila,3,NO,398000.0,78.0,2009,398000.0,61.947851,25.662525,237 km,2 hours 40 mins,2024-07-08,2024-08-05
 "Pernuntie 191, Tammela, Tammela",https://www.etuovi.com/kohde/573314,"1h, kk, pukuh, s",1,NO,99000.0,41.0,1964,99000.0,60.7636822,24.036187,106 km,1 hour 15 mins,2024-07-08,2024-08-05
 "Nurmijärventie 572, Äijälä, Laukaa",https://www.etuovi.com/kohde/1366207,"1 huone, keittotila",1,NO,95000.0,28.0,2019,95000.0,62.47257569999999,26.0793,294 km,3 hours 19 mins,2024-07-08,2024-08-05
 "Vilhulantie 376 A, Naarajärvi, Pieksämäki",https://www.etuovi.com/kohde/573315,"tupa, sauna, kk",1,NO,49000.0,19.0,1981,49000.0,62.296968,27.0663005,285 km,3 hours 12 mins,2024-07-08,2024-08-05
@@ -1402,7 +1402,7 @@ address,url,description,rooms,winterized,price,surface,year,original_price,latit
 "Vuosselintie, Rukatunturi, Kuusamo",https://www.etuovi.com/kohde/w22398,2h + tupak + kph + s + var,3,NO,219000.0,50.5,,219000.0,66.16505409999999,29.1571677,824 km,9 hours 7 mins,2024-07-08,2024-08-05
 "Savikaarteentie 174, Hiltulanlahti, Kuopio",https://www.etuovi.com/kohde/9727392,"2 h, kk, s",2,NO,185000.0,34.0,1950,185000.0,62.8016769,27.6211947,376 km,4 hours 4 mins,2024-07-08,2024-08-05
 "Savolaisenniementie 127, Lyytikkälä, Savitaipale",https://www.etuovi.com/kohde/80351126,5h + s + k + 4wc + 2kph + rantasauna,4,NO,410000.0,165.0,,410000.0,61.23607699999999,27.475396,219 km,2 hours 37 mins,2024-07-16,2024-08-05
-"Ukonlahdentie 147, Mustinlahti, Kuopio",https://www.etuovi.com/kohde/20206668,,3,YES,159000.0,92.0,2015,159000.0,62.6534971,28.3209019,389 km,4 hours 21 mins,2024-07-08,2024-08-05
+"Ukonlahdentie 147, Mustinlahti, Kuopio",https://www.etuovi.com/kohde/20206668,Mökki tai huvila,3,YES,159000.0,92.0,2015,159000.0,62.6534971,28.3209019,389 km,4 hours 21 mins,2024-07-08,2024-08-05
 "Rihuntie 1113 A, Hirvisalo, Heinola",https://www.etuovi.com/kohde/572831,"2h, avok, kph, parvi",2,NO,285000.0,47.7,2006,285000.0,61.2575663,26.2844922,152 km,1 hour 35 mins,2024-07-08,2024-08-05
 "Rukansuuntie 55, Piitanoja, Kokemäki",https://www.etuovi.com/kohde/34956997,"mh, 2 makuualkovia, tupa, pukuhuone, s, wc, terassi",,NO,219000.0,84.0,,219000.0,61.42722939999999,22.4382942,256 km,2 hours 48 mins,2024-07-08,2024-08-05
 "Leppärannantie 23 B, Tyrväntö, Hattula",https://www.etuovi.com/kohde/80352608,mh + k + tupa + wc + et + terassi,2,NO,179000.0,50.0,,179000.0,61.1590486,24.3291897,116 km,1 hour 20 mins,2024-07-08,2024-08-05
@@ -1413,14 +1413,14 @@ address,url,description,rooms,winterized,price,surface,year,original_price,latit
 "Salomäenkierto 337, Airaksela, Kuopio",https://www.etuovi.com/kohde/v99998,tupak,,NO,145000.0,65.0,2017,145000.0,62.7618874,27.3700538,358 km,4 hours 0 mins,2024-07-08,2024-08-05
 "Yltiänniementie 36, Lemi, Lemi",https://www.etuovi.com/kohde/69343982,"1h, kk, kph, s, parvi",1,YES,99000.0,50.0,1989,99000.0,61.0721635,27.91252980209732,224 km,2 hours 33 mins,2024-07-08,2024-08-05
 "Hermanninpoluntie 50, Tasanne, Tampere",https://www.etuovi.com/kohde/80352316,"4mh, keittiö, sali, ruokasali, aula, kuisti",6,NO,498000.0,250.0,1895,550000.0,61.5177343,23.9178861,178 km,1 hour 52 mins,2024-07-08,2024-08-05
-"Nestorintie 1, Asikkala",https://www.etuovi.com/kohde/80352098,,1,NO,149000.0,20.0,,165000.0,61.2254827,25.8878941,140 km,1 hour 39 mins,2024-07-08,2024-08-05
+"Nestorintie 1, Asikkala",https://www.etuovi.com/kohde/80352098,Mökki tai huvila,1,NO,149000.0,20.0,,165000.0,61.2254827,25.8878941,140 km,1 hour 39 mins,2024-07-08,2024-08-05
 "Virranranta, Roukalahti, Liperi",https://www.etuovi.com/kohde/21633094,"Olohuone, keittiö, kaksi makuualkovia, pukuhuonen sauna",2,NO,26000.0,52.0,,26000.0,62.4828209,29.5889467,424 km,4 hours 49 mins,2024-07-08,2024-08-05
 "Sahalantie 94, Kuusa, Laukaa",https://www.etuovi.com/kohde/1363608,"tupa, makuualkovi, parvi, kph, s, terassi",2,NO,87000.0,24.5,2002,87000.0,62.4623639,25.9444963,285 km,3 hours 10 mins,2024-07-08,2024-08-05
 "Himosrannantie 30, Himos, Säyrylä, Jämsä",https://www.etuovi.com/kohde/20109167,"5h, k, aula, 2x wc, 2x kph, s, at ja rantasauna",5,YES,344000.0,173.0,2005,344000.0,61.895677,25.316623,228 km,2 hours 38 mins,2024-07-08,2024-08-05
 "Jormuanlahdentie 4D, Maanselkä, Kuusamo",https://www.etuovi.com/kohde/20829851,"5 mh, tupak, ph, pukuh, s, wc",6,YES,199000.0,160.0,1991,217000.0,65.930528,29.004096,806 km,8 hours 51 mins,2024-07-08,2024-08-05
 "Vuolteentie 202, Kärmeniemi, Lemi",https://www.etuovi.com/kohde/59932551,"2h, kk, s",2,YES,139000.0,40.0,1951,139000.0,61.0597162,27.7685645,222 km,2 hours 33 mins,2024-07-08,2024-08-05
 "Seppäläntie, Naaraperä, Kinnula",https://www.etuovi.com/kohde/v98872,2h + s,3,NO,139000.0,80.0,1984,139000.0,63.271504,25.2077333,405 km,4 hours 28 mins,2024-07-08,2024-08-05
-"Kesärannantie 50, Savonlinna",https://www.etuovi.com/kohde/80350727,,6,NO,580000.0,146.0,2009,580000.0,61.791012550000005,28.763998287783764,338 km,4 hours 9 mins,2024-07-08,2024-08-05
+"Kesärannantie 50, Savonlinna",https://www.etuovi.com/kohde/80350727,Mökki tai huvila,6,NO,580000.0,146.0,2009,580000.0,61.791012550000005,28.763998287783764,338 km,4 hours 9 mins,2024-07-08,2024-08-05
 "Itkonniementie, Laukniemi, Taipalsaari",https://www.etuovi.com/kohde/69962440,tupa. makuutila,1,NO,80000.0,17.0,1979,80000.0,61.2241484,28.1740301,249 km,3 hours 20 mins,2024-07-08,2024-08-05
 "Mökkitie 3, Tahkovuori, Kuopio",https://www.etuovi.com/kohde/1365225,"oh, k, mh, kph / wc / s, et ja parvella aula, mh, wc",4,NO,239500.0,100.0,2005,239500.0,62.9184881,27.7847104,403 km,4 hours 49 mins,2024-07-08,2024-08-05
 "Kaislarannantie5, Kerimäki keskusta, Savonlinna",https://www.etuovi.com/kohde/377984,4mh + oh + k + s + khh + aula + 3wc + 2vh,6,YES,590000.0,175.0,2008,590000.0,61.9126198,29.2814261,350 km,3 hours 51 mins,2024-08-05,2024-08-05
@@ -1449,7 +1449,7 @@ address,url,description,rooms,winterized,price,surface,year,original_price,latit
 "Löytänäntie 390, Terälahti, Tampere",https://www.etuovi.com/kohde/20823591,"3h, k, s, kph, khh, wc, kellari, lasit. terassi",3,YES,299000.0,70.0,2003,299000.0,61.7851665,23.8358058,217 km,2 hours 24 mins,2024-07-08,2024-08-05
 "Murhakorventie 102, Utula, Ruokolahti",https://www.etuovi.com/kohde/20928325,"tupak, 2mh, s, psh, pkh",3,YES,215000.0,77.5,,275000.0,61.3315046,28.4210063,304 km,3 hours 27 mins,2024-07-08,2024-08-05
 "Virranniementie 34, Joroisniemi, Joroinen",https://www.etuovi.com/kohde/21897611,"3h + k + kph / wc, rantasauna, varasto",,NO,125000.0,67.0,1970,135000.0,62.15286139999999,27.8862415,297 km,3 hours 10 mins,2024-07-08,2024-08-05
-"Porkalantie 816, Porkalanlahti, Savonlinna",https://www.etuovi.com/kohde/80346395,,5,NO,180000.0,60.0,,180000.0,61.6191278,29.1023583,318 km,3 hours 40 mins,2024-07-08,2024-08-05
+"Porkalantie 816, Porkalanlahti, Savonlinna",https://www.etuovi.com/kohde/80346395,Mökki tai huvila,5,NO,180000.0,60.0,,180000.0,61.6191278,29.1023583,318 km,3 hours 40 mins,2024-07-08,2024-08-05
 "Onkijantie 20, Kuusamo",https://www.etuovi.com/kohde/42097269,"4h, k, s, parvi",5,YES,410000.0,143.0,2007,410000.0,66.1693055,29.1960595,825 km,9 hours 9 mins,2024-07-08,2024-08-05
 "Paljavedentie 70, Majavesi, Mikkeli",https://www.etuovi.com/kohde/46913743,"3h, tupak, terassi, wc",4,YES,295000.0,72.0,1988,295000.0,61.5786532,27.4870308,239 km,2 hours 39 mins,2024-07-08,2024-08-05
 "Pitkälahdentie 553, Anttola, Mikkeli",https://www.etuovi.com/kohde/1363831,"Huone, sauna, terassi",1,NO,99000.0,15.0,2023,99000.0,61.6016798,27.6438395,250 km,2 hours 41 mins,2024-07-08,2024-08-05
@@ -1475,7 +1475,7 @@ address,url,description,rooms,winterized,price,surface,year,original_price,latit
 "Pökkäänranta 4 A 7, Mikkeli",https://www.etuovi.com/kohde/68246316,"4h, k, s, khh, vh, p",4,NO,449000.0,107.0,2023,449000.0,61.5090319,27.2494433,221 km,2 hours 20 mins,2024-07-08,2024-08-05
 "Pökkäänranta 4 A 5, Ristiina, Mikkeli",https://www.etuovi.com/kohde/42181696,"3h, k, s, khh, vh, p",3,NO,385000.0,84.5,2023,385000.0,61.5090319,27.2494433,221 km,2 hours 20 mins,2024-07-08,2024-08-05
 "Venetaipaleentie 380, Hanhijärvi, Enonkoski",https://www.etuovi.com/kohde/1362586,"4h, tupakeittiö, kph, s, wc",4,NO,169000.0,88.8,2011,169000.0,62.077486,28.998994,364 km,4 hours 9 mins,2024-07-08,2024-08-05
-"Kanervatie 8 D, Ruka, Kuusamo",https://www.etuovi.com/kohde/21685948,,6,YES,475000.0,191.0,2003,475000.0,65.9645876,29.1886652,799 km,8 hours 46 mins,2024-07-08,2024-08-05
+"Kanervatie 8 D, Ruka, Kuusamo",https://www.etuovi.com/kohde/21685948,Mökki tai huvila,6,YES,475000.0,191.0,2003,475000.0,65.9645876,29.1886652,799 km,8 hours 46 mins,2024-07-08,2024-08-05
 "Kolmijärventie 58, Puujärven kylä, Lohja",https://www.etuovi.com/kohde/21361118,2mh + vh + kph + wc + oh + k + terassi + saunarakennus,3,YES,239000.0,60.0,,239000.0,60.2502994,23.6523283,95.5 km,1 hour 17 mins,2024-07-08,2024-08-05
 "Honkarinne 1, Himos, Jämsä",https://www.etuovi.com/kohde/v84426,3h + tupak + kph + s + wc + khh + p,3,YES,169000.0,66.0,2006,169000.0,61.8954638,25.3277808,230 km,2 hours 41 mins,2024-07-08,2024-08-05
 "Sepäntie 7, Kauttua, Eura",https://www.etuovi.com/kohde/56660988,"10h, k, tarjoiluhuone, aula x 2,2 kph, 3 wc, s, saunatupa, ulkosauna, sivu.rak",6,YES,1190000.0,609.0,1911,1190000.0,61.1082526,22.169262076278528,205 km,2 hours 34 mins,2024-07-08,2024-08-05
@@ -1498,7 +1498,7 @@ address,url,description,rooms,winterized,price,surface,year,original_price,latit
 "Saarenkyläntie 7, Vuotunki Kuusamo, Kuusamo",https://www.etuovi.com/kohde/21173992,"tupa, k, mh, ph / s / wc, tk ja parvi + kuisti",2,YES,69000.0,45.0,1993,69000.0,66.1513842,29.5485688,836 km,9 hours 16 mins,2024-07-08,2024-08-05
 "Maavedentie 143, Jäppilä, Pieksämäki",https://www.etuovi.com/kohde/551509,"1h, keittiö, parvi",1,NO,96000.0,42.0,1981,96000.0,62.3639596,27.4526907013854,317 km,3 hours 24 mins,2024-07-08,2024-08-05
 "Akaattikuja 60, Susikas, Tammela",https://www.etuovi.com/kohde/80333198,"1 h, k",1,NO,16000.0,,,16000.0,60.87894910000001,23.8471941,123 km,1 hour 25 mins,2024-07-08,2024-08-05
-"Takkuniementie 11 D, Rukatunturi, Kuusamo",https://www.etuovi.com/kohde/20672505,,,YES,113000.0,51.0,2009,113000.0,66.208946,29.271671,835 km,9 hours 16 mins,2024-07-08,2024-08-05
+"Takkuniementie 11 D, Rukatunturi, Kuusamo",https://www.etuovi.com/kohde/20672505,Mökki tai huvila,,YES,113000.0,51.0,2009,113000.0,66.208946,29.271671,835 km,9 hours 16 mins,2024-07-08,2024-08-05
 "Leppiniementie 445, Kalaniemi, Äänekoski",https://www.etuovi.com/kohde/562989,"4h, k, s",4,NO,105000.0,129.0,1931,105000.0,62.86884,25.8790743,342 km,3 hours 46 mins,2024-07-08,2024-08-05
 "Partioniementie 38 A, Paadentaipale, Äänekoski",https://www.etuovi.com/kohde/563930,"2h, kk, s, parvi",2,NO,159000.0,45.0,2004,159000.0,62.64893339999999,25.7859476,321 km,3 hours 41 mins,2024-07-08,2024-08-05
 "Rantamäentie, Ahmovaara, Juuka",https://www.etuovi.com/kohde/21840614,Tpk + alkovi + pkh / kompostikäymälä + sauna,,NO,50000.0,34.0,,50000.0,63.0994988,29.6860048,476 km,5 hours 21 mins,2024-07-08,2024-08-05
@@ -1506,7 +1506,7 @@ address,url,description,rooms,winterized,price,surface,year,original_price,latit
 "Miekkaniementie (Avokkaansaari) 10i, Anttola, Mikkeli",https://www.etuovi.com/kohde/1356005,"tupa, sauna, terassi",1,NO,82000.0,21.0,2004,82000.0,61.592379,27.783268,272 km,3 hours 7 mins,2024-07-08,2024-08-05
 "Onkerniementie 15, Ruka, Kuusamo",https://www.etuovi.com/kohde/80309431,Tupak. + mh + kh + s + parvi per huoneisto,4,NO,295000.0,123.0,2005,295000.0,66.1280787,29.2426045,820 km,9 hours 3 mins,2024-07-08,2024-08-05
 "Salmenkankaantie 116 A, Vanaja, Pieksämäki",https://www.etuovi.com/kohde/562677,"tupa, sauna, pesuhuone",1,NO,98000.0,24.0,2004,98000.0,62.3830555,26.8541888,298 km,3 hours 25 mins,2024-07-08,2024-08-05
-"Keitaanrannantie, Siikainen",https://www.etuovi.com/kohde/59394074,,,NO,95000.0,,1935,125000.0,61.773032,21.7265359,270 km,3 hours 22 mins,2024-07-08,2024-08-05
+"Keitaanrannantie, Siikainen",https://www.etuovi.com/kohde/59394074,Mökki tai huvila,,NO,95000.0,,1935,125000.0,61.773032,21.7265359,270 km,3 hours 22 mins,2024-07-08,2024-08-05
 "Joutsenniementie 48d, Poussu, Kuusamo",https://www.etuovi.com/kohde/21913522,"tupa, kk, sauna",,NO,26000.0,29.0,1977,26000.0,65.835369,29.358487,789 km,8 hours 41 mins,2024-07-08,2024-08-05
 "Maununtie 13, Lavia Kalliala, Pori",https://www.etuovi.com/kohde/80310021,3h + k + s + rantasauna + varasto,3,NO,179000.0,77.5,2000,179000.0,61.6007998,22.4976457,249 km,2 hours 48 mins,2024-07-08,2024-08-05
 "Hopealankankaantie 41, Laitjärvi, Joutsa",https://www.etuovi.com/kohde/20148110,"tupakeittiö, 2mh, pkh, s",3,NO,130000.0,50.0,1978,140000.0,61.668057,26.1919939,194 km,2 hours 19 mins,2024-07-08,2024-08-05
@@ -1519,9 +1519,9 @@ address,url,description,rooms,winterized,price,surface,year,original_price,latit
 "Pajulahdentie 60 d, Vuohijärvi, Kouvola",https://www.etuovi.com/kohde/20612042,oh + rt + k + 2mh + pkh + kph / wc + s + terassi,,YES,298000.0,83.0,,298000.0,61.1402796,26.712407,169 km,2 hours 14 mins,2024-07-08,2024-08-05
 "Pariisintie 220, Koskenkylä, Saarijärvi",https://www.etuovi.com/kohde/v67668,1h + kk + oh,2,NO,40000.0,35.0,,50000.0,62.7677398,24.9651468,348 km,3 hours 57 mins,2024-07-08,2024-08-05
 "Leppiniementie 80, Kalaniemi, Äänekoski",https://www.etuovi.com/kohde/20001292,"tupakeittiö, 3mh, s, ph, wc, parveke ja terassi",,YES,138000.0,91.0,,138000.0,62.86884,25.8790743,342 km,3 hours 46 mins,2024-07-08,2024-08-05
-"Rikkarannantie 156 Lamposaari, Varislahti, Outokumpu",https://www.etuovi.com/kohde/20694890,,2,YES,89000.0,36.0,1992,89000.0,62.7633107,28.75401919999999,426 km,4 hours 43 mins,2024-07-08,2024-08-05
+"Rikkarannantie 156 Lamposaari, Varislahti, Outokumpu",https://www.etuovi.com/kohde/20694890,Mökki tai huvila,2,YES,89000.0,36.0,1992,89000.0,62.7633107,28.75401919999999,426 km,4 hours 43 mins,2024-07-08,2024-08-05
 "Urho Kekkosen tie 162 C, Pielavesi, Pielavesi",https://www.etuovi.com/kohde/20641542,"tupakeittiö, makuualkovi ja terassi",,NO,93000.0,30.0,1989,93000.0,63.2099892,26.7796262,411 km,4 hours 40 mins,2024-07-08,2024-08-05
-"Oikarintie 542, Höytiä, Uurainen",https://www.etuovi.com/kohde/20557396,,,NO,79000.0,25.0,2011,79000.0,62.40847979999999,25.4520613,292 km,3 hours 17 mins,2024-07-08,2024-08-05
+"Oikarintie 542, Höytiä, Uurainen",https://www.etuovi.com/kohde/20557396,Mökki tai huvila,,NO,79000.0,25.0,2011,79000.0,62.40847979999999,25.4520613,292 km,3 hours 17 mins,2024-07-08,2024-08-05
 "Kantolantie 267 b, Kalliokoski, Miehikkälä",https://www.etuovi.com/kohde/20318101,"2mh, tupa, k, wc, makuuparvi, terassi ja parveke",3,NO,99500.0,71.0,2009,119000.0,60.6896954,27.5421641,173 km,2 hours 0 mins,2024-07-08,2024-08-05
 "Pilvikallio 13, Mattby, Kirkkonummi",https://www.etuovi.com/kohde/80304687,"2h, kt, kph, lasitettu kuisti",2,NO,150000.0,45.0,1991,150000.0,60.08088185,24.42531370138444,48.4 km,42 mins,2024-07-08,2024-08-05
 "Peiposjärventie 545 F, Siikamäki, Pieksämäki",https://www.etuovi.com/kohde/20199604,"Tupa, kk, pukuhuone ja sauna",,NO,55000.0,38.0,1969,55000.0,62.2846373,27.2751987,301 km,3 hours 13 mins,2024-07-08,2024-08-05
@@ -1530,7 +1530,7 @@ address,url,description,rooms,winterized,price,surface,year,original_price,latit
 "Lehtisensaari Hirvilahdentie, Lehtisensaari, Joutsa",https://www.etuovi.com/kohde/20103782,"tupa, 2 mh",3,NO,167000.0,70.0,1925,167000.0,61.6558291,26.4459917,209 km,2 hours 29 mins,2024-07-08,2024-08-05
 "Hukkalantie 426, Kuorasjärvi, Alavus",https://www.etuovi.com/kohde/560857,3H + K + pihasauna,3,NO,79000.0,40.0,1953,79000.0,62.6968779,23.295868,340 km,3 hours 47 mins,2024-07-08,2024-08-05
 "Musakantie 98/ 23, Riitiala, Ikaalinen",https://www.etuovi.com/kohde/20759679,"Tupa, k, mh, s, pesuh. / wc, aula, makuualkovit, parveke, terassi",,NO,45000.0,62.0,,45000.0,61.8801754,22.8792124,247 km,2 hours 39 mins,2024-07-08,2024-08-05
-"Pitkäläntie 882, Lammi, Hämeenlinna",https://www.etuovi.com/kohde/20141238,,,YES,149000.0,96.0,2010,149000.0,61.1714991,24.8922543,132 km,1 hour 31 mins,2024-07-08,2024-08-05
+"Pitkäläntie 882, Lammi, Hämeenlinna",https://www.etuovi.com/kohde/20141238,Mökki tai huvila,,YES,149000.0,96.0,2010,149000.0,61.1714991,24.8922543,132 km,1 hour 31 mins,2024-07-08,2024-08-05
 "Oikarinpolku 15, OIKARI, Uurainen",https://www.etuovi.com/kohde/20092777,Tupakeittiö + wc + eteistila + parvi + sauna,,YES,226000.0,50.0,2010,226000.0,62.39939640000001,25.5033447,288 km,3 hours 9 mins,2024-07-08,2024-08-05
 "Peltosaarentie 2, Lehtimäki, Alajärvi",https://www.etuovi.com/kohde/560558,Tupak + alkovi + sauna,1,NO,94000.0,40.0,1973,94000.0,62.7971835,24.0240661,350 km,3 hours 57 mins,2024-07-08,2024-08-05
 "Tiemassaarentie 1661, Tiemassaari, Rantasalmi",https://www.etuovi.com/kohde/20775720,"oh, k, 2xmh, takkahuone, 2xs, psh, wc",,YES,142000.0,147.0,,142000.0,62.1706111,28.1128531,315 km,3 hours 20 mins,2024-07-08,2024-08-05
@@ -1543,7 +1543,7 @@ address,url,description,rooms,winterized,price,surface,year,original_price,latit
 "Hoikontie 502B, Lammi/Ylänne, Hämeenlinna",https://www.etuovi.com/kohde/80303366,"saunatupa, parvi, kph / s",1,NO,185000.0,20.0,2005,185000.0,61.15050300000001,25.177423,148 km,1 hour 50 mins,2024-07-08,2024-08-05
 "Luopioistentie 1722, Sappee, Hämeenlinna",https://www.etuovi.com/kohde/1352811,4h + k + vh + psh + s + wc + khh,4,NO,145000.0,103.0,1980,145000.0,61.2190318,24.7276398,133 km,1 hour 32 mins,2024-08-05,2024-08-05
 "Tavinjärventie 330, Maaninka, Kuopio",https://www.etuovi.com/kohde/20697254,"3h, k, s, ph, aitta",3,NO,70000.0,49.0,1969,70000.0,63.1204567,27.2730426,430 km,4 hours 38 mins,2024-07-08,2024-08-05
-"Kunttulantie 301 B, Savitaipale",https://www.etuovi.com/kohde/80300554,,,NO,98000.0,,,98000.0,61.0467353,27.5013911,208 km,2 hours 18 mins,2024-07-08,2024-08-05
+"Kunttulantie 301 B, Savitaipale",https://www.etuovi.com/kohde/80300554,Mökki tai huvila,,NO,98000.0,,,98000.0,61.0467353,27.5013911,208 km,2 hours 18 mins,2024-07-08,2024-08-05
 "Luuveniementie 163, Savonlinna",https://www.etuovi.com/kohde/48033264,"4h, k, kph, s, terassi",4,YES,350000.0,135.0,2007,360000.0,61.9472803,28.6927731,317 km,3 hours 38 mins,2024-07-08,2024-08-05
 "Lehtimaantie 473, Kivarijärvi, Pudasjärvi",https://www.etuovi.com/kohde/80297856,1mh + tupakeittö + parvi + rantasauna,,NO,139000.0,48.0,2004,139000.0,65.4123336,27.0306256,699 km,7 hours 54 mins,2024-07-08,2024-08-05
 "Pikkutie, Lamppi, Pori",https://www.etuovi.com/kohde/551904,"Oh-k, 2 mh, parvi, kph / wc, s",3,NO,230000.0,70.0,2009,230000.0,61.668926,21.742985,257 km,3 hours 11 mins,2024-07-08,2024-08-05
@@ -1555,7 +1555,7 @@ address,url,description,rooms,winterized,price,surface,year,original_price,latit
 "Mäntyläntie 42, Mänttä-Vilppula, Jämsä",https://www.etuovi.com/kohde/20477781,"Tupa, kk, 2 alkovia, sauna",3,NO,95000.0,41.0,1977,95000.0,61.8619823,25.1802074,219 km,2 hours 30 mins,2024-07-08,2024-08-05
 "Vetomäentie 126, Karvila, Kerimäki, Savonlinna",https://www.etuovi.com/kohde/20794191,"Neljä erillistä vapaa-ajan kiinteistöä, rak. v. 1981-1993",,NO,50000.0,,,50000.0,62.0454313,29.1153167,368 km,4 hours 13 mins,2024-07-08,2024-08-05
 "Seppäsenniementie 35 A, Puokiovaara, Puolanka",https://www.etuovi.com/kohde/v44367,1h + s,1,NO,45000.0,20.0,1989,48000.0,64.697,27.344014,617 km,7 hours 6 mins,2024-07-08,2024-08-05
-"Latukantie 322, Vasikka-aho, Evijärvi",https://www.etuovi.com/kohde/80297134,,2,NO,79000.0,60.0,1992,79000.0,63.42483290000001,23.2723127,426 km,4 hours 49 mins,2024-07-08,2024-08-05
+"Latukantie 322, Vasikka-aho, Evijärvi",https://www.etuovi.com/kohde/80297134,Mökki tai huvila,2,NO,79000.0,60.0,1992,79000.0,63.42483290000001,23.2723127,426 km,4 hours 49 mins,2024-07-08,2024-08-05
 "Nelostie 3283, Arvaja, Kuhmoinen",https://www.etuovi.com/kohde/21714575,"Tupakeittiö, huone, rantasauna",2,NO,79000.0,40.0,1957,79000.0,61.5591737,25.1640281,179 km,2 hours 1 min,2024-07-08,2024-08-05
 "Piitsamontie 10c, Roukalahti, Liperi",https://www.etuovi.com/kohde/21131353,1h + kk + pkh + s,,NO,89000.0,28.0,1977,89000.0,62.4879091,29.5318934,420 km,4 hours 42 mins,2024-07-08,2024-08-05
 "Pähkinäkukkula 111, Kukkila, Hollola",https://www.etuovi.com/kohde/567746,"5h, k, 2kph, s, 2wc, 4vh, khh, askarteluhuone, varasto, parveke, at, ak",5,NO,765000.0,226.0,1999,765000.0,61.05736270000001,25.6199021,113 km,1 hour 17 mins,2024-07-08,2024-08-05
@@ -1581,12 +1581,12 @@ address,url,description,rooms,winterized,price,surface,year,original_price,latit
 "Järvisensaarentie 29F, Hankavesi, Ähtäri",https://www.etuovi.com/kohde/21503831,Tupak + mh + parvi + s + pkh,,NO,98000.0,32.8,1991,98000.0,62.512517,24.212475,331 km,3 hours 43 mins,2024-07-08,2024-08-05
 "Elopellontie 15, Tikkala, Mikkeli",https://www.etuovi.com/kohde/1349750,"Tupa, keittiö, nukkumaparvi",1,NO,25000.0,18.6,1996,25000.0,61.0565272,27.0401761,165 km,1 hour 52 mins,2024-07-08,2024-08-05
 "Vaimojärventie 41 a, mökki 1, Vaimojärvi, Kuusamo",https://www.etuovi.com/kohde/20695068,"2mh, tupa, k, wc, s, ph",3,YES,98000.0,69.0,1989,98000.0,66.10342949999999,29.40095609999999,822 km,9 hours 5 mins,2024-07-08,2024-08-05
-"Kesoniementie 104, Äitsaari, Ruokolahti",https://www.etuovi.com/kohde/80292376,,2,NO,162000.0,63.0,1995,162000.0,61.3265116,28.5142319,296 km,3 hours 23 mins,2024-07-08,2024-08-05
+"Kesoniementie 104, Äitsaari, Ruokolahti",https://www.etuovi.com/kohde/80292376,Mökki tai huvila,2,NO,162000.0,63.0,1995,162000.0,61.3265116,28.5142319,296 km,3 hours 23 mins,2024-07-08,2024-08-05
 "Lehtoniemenkuja, Säräisniemi, Vaala",https://www.etuovi.com/kohde/80292716,2h + k + parvi,2,NO,115000.0,45.5,1995,115000.0,64.360221,26.854289,585 km,6 hours 25 mins,2024-07-08,2024-08-05
 "Kolu-Merosenpolku 215, Ylä-Kintaus, Petäjävesi",https://www.etuovi.com/kohde/21042187,tupakeittiö + alkovi + parvi + sauna,1,NO,99500.0,25.6,2023,99500.0,62.36328959999999,25.2531301,304 km,3 hours 28 mins,2024-07-08,2024-08-05
 "Pääskysniementie 68, Kalpiala, Rautjärvi",https://www.etuovi.com/kohde/20904098,"tupak, makuusoppi, et",2,NO,82000.0,29.0,,89000.0,61.3797837,29.0269826,285 km,3 hours 12 mins,2024-07-08,2024-08-05
 "Pien-Taipaleentie 212, Sumiainen, Äänekoski",https://www.etuovi.com/kohde/20049853,"Tupa, parvi, pukuhuone ja sauna",1,NO,56000.0,23.0,,60000.0,62.6553275,26.1134501,317 km,3 hours 38 mins,2024-07-08,2024-08-05
-"Keskisaari 1, Oravi, Savonlinna",https://www.etuovi.com/kohde/21392057,,,NO,108000.0,,1954,115000.0,62.091928,28.648883,366 km,4 hours 9 mins,2024-07-08,2024-08-05
+"Keskisaari 1, Oravi, Savonlinna",https://www.etuovi.com/kohde/21392057,Mökki tai huvila,,NO,108000.0,,1954,115000.0,62.091928,28.648883,366 km,4 hours 9 mins,2024-07-08,2024-08-05
 "Suursalontie 100+102, Pikonlahti, Rantasalmi",https://www.etuovi.com/kohde/21070642,"tupak, parvi, kph, s",,NO,330000.0,50.0,2010,330000.0,62.1827255,28.2206519,321 km,3 hours 37 mins,2024-07-08,2024-08-05
 "Kouvanniementie 50, Kivijärvi",https://www.etuovi.com/kohde/80292051,Oh + tpk + 2mh + wc + parvi + varasto,4,NO,179000.0,101.0,2006,179000.0,63.1752188,25.089933,395 km,4 hours 29 mins,2024-07-08,2024-08-05
 "Pökkäänranta 4, Ristiina, Mikkeli",https://www.etuovi.com/kohde/55653891,3H + K + S + KHH + VH,3,YES,385000.0,84.5,2023,385000.0,61.5090319,27.2494433,221 km,2 hours 20 mins,2024-07-08,2024-08-05
@@ -1615,7 +1615,7 @@ address,url,description,rooms,winterized,price,surface,year,original_price,latit
 "Perämaantie 148, Suinula, Kangasala",https://www.etuovi.com/kohde/21110169,"4h, k, kph, s, wc, parvi, terassi, at, rantasauna",4,YES,498000.0,153.0,2015,498000.0,61.5880233,24.1628609,194 km,2 hours 2 mins,2024-07-08,2024-08-05
 "Kirnuniementie 71, Kerimäki/ Raikuu / Paasniemi, Savonlinna",https://www.etuovi.com/kohde/v33242,1h + tupak + s + wc + var,2,NO,115000.0,58.0,2013,118000.0,62.10730280000001,29.41339249999999,379 km,4 hours 20 mins,2024-07-08,2024-08-05
 "Vinkarinniementie 169A, Nunnanlahti, Juuka",https://www.etuovi.com/kohde/v33224,2h + tupak + var + kellari + ullakko,3,YES,69000.0,70.0,1948,69000.0,63.18497959999999,29.4638631,486 km,5 hours 30 mins,2024-07-08,2024-08-05
-"Ritolahdentie 16, Puhos, Kitee",https://www.etuovi.com/kohde/20922307,,3,NO,85000.0,42.0,1992,85000.0,62.08564949999999,29.9045063,386 km,4 hours 18 mins,2024-07-08,2024-08-05
+"Ritolahdentie 16, Puhos, Kitee",https://www.etuovi.com/kohde/20922307,Mökki tai huvila,3,NO,85000.0,42.0,1992,85000.0,62.08564949999999,29.9045063,386 km,4 hours 18 mins,2024-07-08,2024-08-05
 "Hangaskaarre 6 D, Lamu, Pyhäntä",https://www.etuovi.com/kohde/20956057,t + k + mh + parvi,2,NO,117000.0,49.5,2002,117000.0,64.0971237,26.3305406,510 km,5 hours 37 mins,2024-07-08,2024-08-05
 "Pajukannantie 270 B, Pääjärvi, Karstula",https://www.etuovi.com/kohde/v32728,2h + kk,2,NO,69000.0,26.0,1979,69000.0,62.8089008,24.8306379,360 km,4 hours 5 mins,2024-07-08,2024-08-05
 "Tollinmäentie 100, Tollinmäki, Hartola",https://www.etuovi.com/kohde/21039957,"tupakeittiö, mh, kph, s, terassi",,NO,105000.0,47.0,1988,105000.0,61.6166439,26.0212168,181 km,1 hour 53 mins,2024-07-08,2024-08-05
@@ -1646,7 +1646,7 @@ address,url,description,rooms,winterized,price,surface,year,original_price,latit
 "Ruuttulantie 325, Konginkangas, Äänekoski",https://www.etuovi.com/kohde/u94487,2h + tupak + s + var,2,NO,62000.0,25.0,1971,62000.0,62.80588999999999,25.760921,334 km,3 hours 41 mins,2024-07-08,2024-08-05
 "Piranniementie 139, Vihi, Rääkkylä",https://www.etuovi.com/kohde/21273095,3h + tupakeittiö + pkh + ph + s + wc,3,YES,134000.0,101.0,1996,134000.0,62.3036878,29.9711323,430 km,4 hours 53 mins,2024-07-08,2024-08-05
 "Jänisharjunpolku 37, Uurainen",https://www.etuovi.com/kohde/80113626,"Olohuone, tupakeittiö, apuk, ruokailuh, mh, kph",3,NO,138000.0,75.0,1980,138000.0,62.454397,25.318438,302 km,3 hours 24 mins,2024-07-08,2024-08-05
-"Kinkomäentie 12, Pilppa, Heinävesi",https://www.etuovi.com/kohde/31003510,,,NO,169000.0,,,169000.0,62.3251226,28.6607049,375 km,4 hours 11 mins,2024-07-08,2024-08-05
+"Kinkomäentie 12, Pilppa, Heinävesi",https://www.etuovi.com/kohde/31003510,Mökki tai huvila,,NO,169000.0,,,169000.0,62.3251226,28.6607049,375 km,4 hours 11 mins,2024-07-08,2024-08-05
 "Kinnulantie 757, Lestijärvi",https://www.etuovi.com/kohde/1343558,"3h, k, s, ph, wc, varasto",3,NO,209000.0,63.0,2022,209000.0,63.4450627,24.8411212,436 km,4 hours 49 mins,2024-07-08,2024-08-05
 "Vihaventie 21B, 51440 Vuojalahti, Kangasniemi",https://www.etuovi.com/kohde/u88748,2h + keittiö,2,NO,125000.0,40.0,2019,125000.0,61.9862538,26.7689656,248 km,2 hours 43 mins,2024-07-08,2024-08-05
 "Soininmäentie 415D, Haapakoski, Pieksämäki",https://www.etuovi.com/kohde/20672081,"Makuuhuone, keittiö, olohuone, kuisti",2,YES,89500.0,64.0,2004,89500.0,62.3812626,27.1822747,318 km,3 hours 28 mins,2024-07-08,2024-08-05
@@ -1654,7 +1654,7 @@ address,url,description,rooms,winterized,price,surface,year,original_price,latit
 "Emetinranta 310, Terjärv, Kruunupyy",https://www.etuovi.com/kohde/1338803,"Ravintola, keittiö, sosiaalitilat",5,NO,250000.0,378.0,1984,250000.0,63.6248318,23.425903,446 km,5 hours 9 mins,2024-07-08,2024-08-05
 "Ingelnäsintie 123, Tammisaari, Raasepori",https://www.etuovi.com/kohde/21048791,"kuisti, tupa, kk, mh, kph",,YES,198000.0,44.0,1948,198000.0,59.968173,23.288273,124 km,1 hour 39 mins,2024-07-08,2024-08-05
 "Ontonranta 8, Hapuoja, Kankaanpää",https://www.etuovi.com/kohde/9971356,"Tupa, kk, parvi, terassi",1,NO,98000.0,25.0,1958,98000.0,61.78043169999999,22.3555749,270 km,3 hours 4 mins,2024-07-08,2024-08-05
-"Virkkulantie 22 A, Rukatunturi, Kuusamo",https://www.etuovi.com/kohde/21428613,,,YES,258000.0,85.0,,258000.0,66.20494099999999,29.178642,830 km,9 hours 10 mins,2024-07-08,2024-08-05
+"Virkkulantie 22 A, Rukatunturi, Kuusamo",https://www.etuovi.com/kohde/21428613,Mökki tai huvila,,YES,258000.0,85.0,,258000.0,66.20494099999999,29.178642,830 km,9 hours 10 mins,2024-07-08,2024-08-05
 "Kinnontie 30, Puutossalmi, Kuopio",https://www.etuovi.com/kohde/u74826,5h + tupak + vh + p + var + at + s,5,NO,199000.0,90.0,1963,199000.0,62.73898879999999,27.7212201,377 km,4 hours 6 mins,2024-07-08,2024-08-05
 "Pirunvuorentie 16, Ellivuori, Sastamala",https://www.etuovi.com/kohde/u74749,2h + k + kph + s + terassi,2,YES,124000.0,41.0,2021,124000.0,61.40355329999999,23.0435809,219 km,2 hours 20 mins,2024-07-08,2024-08-05
 "Mustalahti 478, Ilmolahti, Viitasaari",https://www.etuovi.com/kohde/80126642,Tupakeittiö + nukkumaparvi + sauna + pkh,1,NO,119000.0,21.5,2007,119000.0,63.01782830000001,25.8912272,359 km,4 hours 0 mins,2024-07-08,2024-08-05
@@ -1671,11 +1671,11 @@ address,url,description,rooms,winterized,price,surface,year,original_price,latit
 "Rytisuontie 10, Ruka, Kuusamo",https://www.etuovi.com/kohde/t77693,2Mh + tupakeittiö + parvi + s + 2wc + erillinen ulkovarasto,3,YES,279000.0,102.0,2010,279000.0,66.2401268,29.1391643,833 km,9 hours 13 mins,2024-07-08,2024-08-05
 "Poronkusema 6, Ranua, Ranua",https://www.etuovi.com/kohde/t76693,2h + tupak + kph + wc + s,2,YES,0.1,80.0,2010,0.1,65.9867234,27.1174783,777 km,8 hours 48 mins,2024-07-08,2024-08-05
 "Pöyliöntie 15, Kantokylä, Kuusamo",https://www.etuovi.com/kohde/21636116,"2 huvilaa, pariaitta, oma ranta, grillipaviljonki, rantasauna, aitta / varasto",,YES,249000.0,109.5,2003,249000.0,65.940765,29.404244,817 km,9 hours 5 mins,2024-07-08,2024-08-05
-"Virkkulantie 69 D, Rukatunturi, Kuusamo",https://www.etuovi.com/kohde/21280047,,,YES,138000.0,36.0,1989,138000.0,66.20167049999999,29.2725349,835 km,9 hours 13 mins,2024-07-08,2024-08-05
+"Virkkulantie 69 D, Rukatunturi, Kuusamo",https://www.etuovi.com/kohde/21280047,Mökki tai huvila,,YES,138000.0,36.0,1989,138000.0,66.20167049999999,29.2725349,835 km,9 hours 13 mins,2024-07-08,2024-08-05
 "Ukonvaarantie 329, Halivaara, Juuka",https://www.etuovi.com/kohde/20763171,Tupakeittiö + 4 huonetta,4,YES,30000.0,80.0,,30000.0,63.0195932,28.9968268,451 km,5 hours 13 mins,2024-07-08,2024-08-05
 "Hankasaari 440, Hankasaari, Ähtäri",https://www.etuovi.com/kohde/20784974,tupa + parvi + pkh + s,,NO,92000.0,20.0,2010,92000.0,62.5143794,24.1960233,332 km,3 hours 45 mins,2024-07-08,2024-08-05
 "Näkkimäentie 27, Launonen, Loppi",https://www.etuovi.com/kohde/21674108,"tupa, k, yläkerta, et, wc, s",,YES,185000.0,60.0,2002,185000.0,60.7502687,24.5003288,80.9 km,59 mins,2024-07-08,2024-08-05
-"Rokulintie 3, Kirkkola, Hartola",https://www.etuovi.com/kohde/t69346, + 2h + s + var + wc,2,NO,94400.0,19.0,1963,94400.0,61.64527899999999,26.04118,184 km,1 hour 56 mins,2024-07-08,2024-08-05
+"Rokulintie 3, Kirkkola, Hartola",https://www.etuovi.com/kohde/t69346,Mökki tai huvila + 2h + s + var + wc,2,NO,94400.0,19.0,1963,94400.0,61.64527899999999,26.04118,184 km,1 hour 56 mins,2024-07-08,2024-08-05
 "Niinniementie 60, Leivonmäki, Joutsa",https://www.etuovi.com/kohde/q82368,5h + kk + kph + s + 3*wc + p + terassi + var + ak + at,5,NO,200000.0,180.0,1981,200000.0,61.9186822,26.0845643,217 km,2 hours 18 mins,2024-07-08,2024-08-05
 "Vinnentie 198, Vinnentie, Pirkkala",https://www.etuovi.com/kohde/t67422,4h + kph + s + var + ak + var + vh,4,YES,498000.0,100.0,2022,498000.0,61.4124555,23.6600283,173 km,1 hour 53 mins,2024-07-08,2024-08-05
 "Rääpysjärventie 85 b, Kosula, Tuusniemi",https://www.etuovi.com/kohde/t64476,k + tupa + 2 mh + terassi,2,NO,65000.0,39.0,1993,65000.0,62.61758309999999,28.4686487,381 km,4 hours 13 mins,2024-07-08,2024-08-05
@@ -1704,7 +1704,7 @@ address,url,description,rooms,winterized,price,surface,year,original_price,latit
 "Rantalantie 61, Narva, Vesilahti",https://www.etuovi.com/kohde/80024703,1h + kk + parvi + s + pukuhuone,1,NO,139000.0,18.2,1990,139000.0,61.2926352,23.3310719,180 km,2 hours 3 mins,2024-07-08,2024-08-05
 "Kaipaanluoto, Nilsiä, Kuopio",https://www.etuovi.com/kohde/s66873,2h + sauna + ph / sauna + 1h,,NO,165000.0,62.0,1989,165000.0,63.2191378,28.175788036994746,442 km,4 hours 49 mins,2024-07-08,2024-08-05
 "Viuvalontie 93 / Mäntypääntie 93, Lokka, Sodankylä",https://www.etuovi.com/kohde/s47886,4h + k + kph / wc + s + parveke + var / at + grillikota + savusauna + savusauna,4,YES,69000.0,42.0,1992,69000.0,67.8211506,27.709307,"1,034 km",11 hours 48 mins,2024-07-08,2024-08-05
-"Pitkäläntie 882, Lammi, Hämeenlinna",https://www.etuovi.com/kohde/9767228,,,YES,149000.0,96.0,2010,149000.0,61.1714991,24.8922543,132 km,1 hour 31 mins,2024-07-08,2024-08-05
+"Pitkäläntie 882, Lammi, Hämeenlinna",https://www.etuovi.com/kohde/9767228,Mökki tai huvila,,YES,149000.0,96.0,2010,149000.0,61.1714991,24.8922543,132 km,1 hour 31 mins,2024-07-08,2024-08-05
 "Savivaarantie 106, Uimaharju, Joensuu",https://www.etuovi.com/kohde/s43322,Tupak. + ma + parvi,2,NO,85000.0,25.0,2010,83000.0,62.8572831,30.300074,485 km,5 hours 25 mins,2024-07-08,2024-08-05
 "Jarkontie 11, Visuvesi, Ruovesi",https://www.etuovi.com/kohde/1313779,"1h, kk",1,NO,139000.0,40.0,1949,139000.0,62.138064,23.8977773,263 km,2 hours 53 mins,2024-07-08,2024-08-05
 "Suojärventie 132, Mankila, Siikalatva",https://www.etuovi.com/kohde/20490117,"Tupak. + makuuhuone + makuuparvi, erillinen varastorakennus, jossa ulkokäymälä",,NO,80000.0,50.0,2011,80000.0,64.4453383,25.993938,540 km,6 hours 11 mins,2024-07-08,2024-08-05
