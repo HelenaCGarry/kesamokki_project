@@ -17,7 +17,7 @@ POSTGRES_PORT = os.getenv('PostgreSQL_PORT')
 POSTGRES_DATABASE = os.getenv('PostgreSQL_DATABASE')
 
 # Define the folder path
-FOLDER_PATH = 'data\cabins'
+FOLDER_PATH = r'data\cabins'
 
 def define_new_file():
     # Get the list of CSV files sorted by the date in the filename
@@ -42,35 +42,38 @@ def update_data():
     
     # Upsert data into main table
     with engine.connect() as conn:
+        try:
 
-        conn.execute(text("""
-            INSERT INTO cabins_main (
-            address, url, description, rooms, winterized, price, surface, year, original_price,
-            latitude, longitude, distance, duration, first_posting_date, last_posting_date
-            )
-            SELECT 
+            conn.execute(text("""
+                INSERT INTO cabins_main (
                 address, url, description, rooms, winterized, price, surface, year, original_price,
                 latitude, longitude, distance, duration, first_posting_date, last_posting_date
-            FROM cabins_temp
-            ON CONFLICT (url) DO UPDATE SET
-                address = EXCLUDED.address,
-                description = EXCLUDED.description,
-                rooms = EXCLUDED.rooms,
-                winterized = EXCLUDED.winterized,
-                price = EXCLUDED.price,
-                surface = EXCLUDED.surface,
-                year = EXCLUDED.year,
-                original_price = EXCLUDED.original_price,
-                latitude = EXCLUDED.latitude,
-                longitude = EXCLUDED.longitude,
-                distance = EXCLUDED.distance,
-                duration = EXCLUDED.duration,
-                first_posting_date = EXCLUDED.first_posting_date,
-                last_posting_date = EXCLUDED.last_posting_date;
+                )
+                SELECT 
+                    address, url, description, rooms, winterized, price, surface, year, original_price,
+                    latitude, longitude, distance, duration, first_posting_date, last_posting_date
+                FROM cabins_temp
+                ON CONFLICT (url) DO UPDATE SET
+                    address = EXCLUDED.address,
+                    description = EXCLUDED.description,
+                    rooms = EXCLUDED.rooms,
+                    winterized = EXCLUDED.winterized,
+                    price = EXCLUDED.price,
+                    surface = EXCLUDED.surface,
+                    year = EXCLUDED.year,
+                    original_price = EXCLUDED.original_price,
+                    latitude = EXCLUDED.latitude,
+                    longitude = EXCLUDED.longitude,
+                    distance = EXCLUDED.distance,
+                    duration = EXCLUDED.duration,
+                    first_posting_date = EXCLUDED.first_posting_date,
+                    last_posting_date = EXCLUDED.last_posting_date;
 
-        """))
-
-    
+            """))
+            conn.commit()
+        except Exception as e:
+            print("Error during execution:", e)
+        
 # If running this file directly
 if __name__ == "__main__":
     update_data()
