@@ -24,7 +24,7 @@ def define_new_file():
     csv_files = sorted(glob(os.path.join(FOLDER_PATH, 'etuovi_data_*.csv')), key=lambda x: os.path.basename(x).split('_')[-1].split('.')[0], reverse=True)
     return csv_files[0]
 
-def update_database():
+def update_data():
     new_file = define_new_file()
     new_data = pd.read_csv(new_file)
 
@@ -73,4 +73,4 @@ def update_database():
     
 # If running this file directly
 if __name__ == "__main__":
-    update_database()
+    update_data()

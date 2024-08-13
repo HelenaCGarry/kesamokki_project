@@ -145,7 +145,7 @@ def save_to_csv(final_df: pd.DataFrame, final_path: str):
     """Save the final DataFrame to a CSV file."""
     final_df.to_csv(final_path, index=False)
 
-def main():
+def transform_data():
     env_vars = load_environment_variables()
     geolocator = Nominatim(user_agent="kesa_mokki_project")
     final_df = None
@@ -184,4 +184,4 @@ def main():
     save_to_csv(final_df, final_path)
 
 if __name__ == "__main__":
-    main()
+    transform_data()

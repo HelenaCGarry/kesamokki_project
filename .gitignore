@@ -1,6 +1,7 @@
 .env
 /.vscode
 /.ipynb_checkpoints
-/old_notebooks
+/notebooks
 /myenv
-scrape.bat
+/src/data_pipeline/__pycache__
+data_pipeline.bat

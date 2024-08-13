@@ -99,7 +99,8 @@ class EtuoviSpider(scrapy.Spider):
             yield cabin
 
         current_url = response.request.url
-        last_page_xpath = '/html/body/div[2]/div/div/div[3]/div/div[2]/div[3]/div[1]/div[1]/div[1]/div[4]/div[1]/div[6]/button'
+
+        last_page_xpath = '/html/body/div[2]/div/div/div[3]/div/div[2]/div[3]/div[1]/div[3]/div[1]/div[6]/button'
 
         try:
             last_page_number = int(response.xpath(last_page_xpath).css('::text').get())
@@ -163,6 +164,9 @@ class CrawlerScript:
         crawl()
         reactor.run()
 
-if __name__ == "__main__":
+def extract_data():
     script = CrawlerScript()
     script.run()
+
+if __name__ == "__main__":
+    extract_data()
