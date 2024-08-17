@@ -1,10 +1,10 @@
 import os
+import logging
 from glob import glob
 from dotenv import load_dotenv
 
 import pandas as pd
 from sqlalchemy import create_engine, text
-
 
 # Load environment variables from the .env file (if present)
 load_dotenv()
@@ -40,40 +40,52 @@ def update_data():
     # Insert new data into temporary table
     new_data.to_sql('cabins_temp', engine, if_exists='replace', index=False)
     
-    # Upsert data into main table
+    # Upsert data into main table and get counts
     with engine.connect() as conn:
         try:
-
-            conn.execute(text("""
-                INSERT INTO cabins_main (
-                address, url, description, rooms, winterized, price, surface, year, original_price,
-                latitude, longitude, distance, duration, first_posting_date, last_posting_date
+            result = conn.execute(text("""
+                WITH upserted AS (
+                    INSERT INTO cabins_main (
+                        address, url, description, rooms, winterized, price, surface, year, original_price,
+                        latitude, longitude, distance, duration, first_posting_date, last_posting_date
+                    )
+                    SELECT 
+                        address, url, description, rooms, winterized, price, surface, year, original_price,
+                        latitude, longitude, distance, duration, first_posting_date, last_posting_date
+                    FROM cabins_temp
+                    ON CONFLICT (url) DO UPDATE SET
+                        address = EXCLUDED.address,
+                        description = EXCLUDED.description,
+                        rooms = EXCLUDED.rooms,
+                        winterized = EXCLUDED.winterized,
+                        price = EXCLUDED.price,
+                        surface = EXCLUDED.surface,
+                        year = EXCLUDED.year,
+                        original_price = EXCLUDED.original_price,
+                        latitude = EXCLUDED.latitude,
+                        longitude = EXCLUDED.longitude,
+                        distance = EXCLUDED.distance,
+                        duration = EXCLUDED.duration,
+                        first_posting_date = EXCLUDED.first_posting_date,
+                        last_posting_date = EXCLUDED.last_posting_date
+                    RETURNING 
+                        (xmax = 0) AS inserted -- true if row was inserted, false if updated
                 )
                 SELECT 
-                    address, url, description, rooms, winterized, price, surface, year, original_price,
-                    latitude, longitude, distance, duration, first_posting_date, last_posting_date
-                FROM cabins_temp
-                ON CONFLICT (url) DO UPDATE SET
-                    address = EXCLUDED.address,
-                    description = EXCLUDED.description,
-                    rooms = EXCLUDED.rooms,
-                    winterized = EXCLUDED.winterized,
-                    price = EXCLUDED.price,
-                    surface = EXCLUDED.surface,
-                    year = EXCLUDED.year,
-                    original_price = EXCLUDED.original_price,
-                    latitude = EXCLUDED.latitude,
-                    longitude = EXCLUDED.longitude,
-                    distance = EXCLUDED.distance,
-                    duration = EXCLUDED.duration,
-                    first_posting_date = EXCLUDED.first_posting_date,
-                    last_posting_date = EXCLUDED.last_posting_date;
-
+                    COUNT(*) FILTER (WHERE inserted) AS new_rows,
+                    COUNT(*) FILTER (WHERE NOT inserted) AS updated_rows
+                FROM upserted;
             """))
-            conn.commit()
-        except Exception as e:
-            print("Error during execution:", e)
+
+            counts = result.fetchone()
+            new_rows = counts['new_rows']
+            updated_rows = counts['updated_rows']
+
+            logging.info(f"Successfully uploaded data: {new_rows} new rows, {updated_rows} updated rows.")
         
+        except Exception as e:
+            logging.error(f"Error during execution: {e}")
+
 # If running this file directly
 if __name__ == "__main__":
     update_data()

@@ -3,5 +3,5 @@
 /.ipynb_checkpoints
 /notebooks
 /myenv
-/src/data_pipeline/__pycache__
+src/data_pipeline/__pycache__/
 data_pipeline.bat

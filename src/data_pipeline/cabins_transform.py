@@ -2,6 +2,7 @@ import os
 import re
 from datetime import datetime
 from glob import glob
+import logging
 
 import pandas as pd
 import requests
@@ -182,6 +183,7 @@ def transform_data():
     # Save final data to CSV
     final_path = json_files[0].replace('.json', '.csv')
     save_to_csv(final_df, final_path)
+    logging.info("New listings propertly saves as : %d", final_path)
 
 if __name__ == "__main__":
     transform_data()
