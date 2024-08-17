@@ -1,7 +1,7 @@
 # The kesämökki project 🏡 :evergreen_tree:
 ## *Finding the perfect Finnish summer cabin is hard, but not impossible.* ##
-Finding the perfect Finnish summer cabin is hard, but not impossible.
-This project scrapes real estate data from a major Finnish real estate aggregator weekly and maintains and updates a database of past and present summer cabins, their price, location, and distance from HEL airport. The data is used to analyse the market and feed a price prediction model. 
+
+This project scrapes real estate data from a major Finnish real estate aggregator weekly and maintains and updates a database of past and present summer cabins (*kesämökki* in Finnish), their price, location, and distance from HEL airport. The data is used to analyse the market and feed a price prediction model. 
 The data analysis and machine learning model will be published soon.
 
 ### Part 1 - Data Scraping and Transformation
